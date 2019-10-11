@@ -325,10 +325,10 @@ Material:
     - _AmbientOverrideAAmount: {r: 0.86167216, g: 0.9352302, b: 0.9764853, a: 0}
     - _Anchor: {r: 0, g: 0, b: 0, a: 1}
     - _Color: {r: 0.7, g: 0.7, b: 0.7, a: 1}
-    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _EmissionColor: {r: 0.99999994, g: 0.8966896, b: 0.46499994, a: 0}
     - _MapScaleOffset: {r: 12364, g: 12364, b: 9102, a: 9662}
     - _Offset: {r: 0, g: 2000, b: 0, a: 2}
-    - _OverlayFogColorAfromAmbient: {r: 0.6009804, g: 0.6215687, b: 0.6431373, a: 0}
+    - _OverlayFogColorAfromAmbient: {r: 1, g: 1, b: 1, a: 0.934}
     - _OverlayFogColorAfromAmbientLowSun: {r: 0.97794116, g: 0.45946372, b: 0.09347964,
         a: 0}
     - _SnowColor: {r: 0.9705882, g: 0.98661256, b: 1, a: 0}
