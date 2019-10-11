@@ -2,14 +2,12 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
 /[Ll]ogs/
-/[Mm]emoryCaptures/
-Library/
+Library/metadata
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
@@ -58,4 +56,6 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
+
+# Over 100mb
 Assets/Plugins/Horizon[ON]/Materials/Textures _ Maps/Mountains/Horizon[ON] Mountains_Albedo.psd
