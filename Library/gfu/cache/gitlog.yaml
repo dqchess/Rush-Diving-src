@@ -13,9 +13,720 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-10-11T01:53:03.570-07:00
-  initializedAtString: 2019-10-11T01:53:01.851-07:00
+  lastUpdatedAtString: 2019-10-18T00:02:25.466-07:00
+  initializedAtString: 2019-10-18T00:02:25.162-07:00
   log:
+  - commitID: 3ed4c977e4022585476adaf8991f3938a4b833e8
+    mergeA: 
+    mergeB: 
+    authorName: shenyi
+    authorEmail: shenyi.nanjing@gmail.com
+    commitEmail: shenyi.nanjing@gmail.com
+    commitName: shenyi
+    summary: complete simple rotate
+    description: 
+    timeString: 2019-10-17T23:59:19.000-07:00
+    commitTimeString: 2019-10-17T23:59:19.000-07:00
+    changes:
+    - path: Assets\Plugins\Horizon[ON]\_Example Scene\ExampleScene(Gamma).unity
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\_Example Scene\ExampleScene(Gamma).unity
+      projectPath: Assets\Plugins\Horizon[ON]\_Example Scene\ExampleScene(Gamma).unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\diver.cs
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\diver.cs
+      projectPath: Assets\diver.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\diver.cs.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\diver.cs.meta
+      projectPath: Assets\diver.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\CrashedAssetImports.txt
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\CrashedAssetImports.txt
+      projectPath: Library\CrashedAssetImports.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\CurrentMaximizeLayout.dwlt
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\CurrentMaximizeLayout.dwlt
+      projectPath: Library\CurrentMaximizeLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\EditorInstance.json
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Oculus.VR.Editor.dll
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Oculus.VR.Editor.dll
+      projectPath: Library\ScriptAssemblies\Oculus.VR.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Oculus.VR.Scripts.Editor.dll
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Oculus.VR.Scripts.Editor.dll
+      projectPath: Library\ScriptAssemblies\Oculus.VR.Scripts.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Oculus.VR.dll
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Oculus.VR.dll
+      projectPath: Library\ScriptAssemblies\Oculus.VR.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.dll
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.Timeline.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\UnityEditor.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\UnityEngine.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ShaderCache.db
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ShaderCache.db
+      projectPath: Library\ShaderCache.db
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\Hierarchy\3b00f6-mainStage.json
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\StateCache\Hierarchy\3b00f6-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\3b00f6-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\70abc2-mainStage.json
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\StateCache\SceneView\70abc2-mainStage.json
+      projectPath: Library\StateCache\SceneView\70abc2-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\assetDatabase3
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\expandedItems
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe1.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe2.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe3.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe4.log
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe4.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Packages\manifest.json
+      fullPath: D:\CSCI538\Rush-Diving-src\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: D:\CSCI538\Rush-Diving-src\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: f22c3b0acde6a9da3f9544fe3011477cede4006b
+    mergeA: 
+    mergeB: 
+    authorName: shenyi
+    authorEmail: shenyi.nanjing@gmail.com
+    commitEmail: shenyi.nanjing@gmail.com
+    commitName: shenyi
+    summary: update
+    description: 
+    timeString: 2019-10-11T01:57:12.000-07:00
+    commitTimeString: 2019-10-11T01:57:12.000-07:00
+    changes:
+    - path: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] Object.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Horizon[ON]
+        Object.mat
+      projectPath: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] Object.mat
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] TransitionSky.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Horizon[ON]
+        TransitionSky.mat
+      projectPath: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] TransitionSky.mat
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] TransitionTerrain.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Horizon[ON]
+        TransitionTerrain.mat
+      projectPath: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] TransitionTerrain.mat
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Plugins\Horizon[ON]\Materials\Material Variations (Gamma _ Mobile)\Horizon[ON]
+        Buildings (Gamma).mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Material
+        Variations (Gamma _ Mobile)\Horizon[ON] Buildings (Gamma).mat
+      projectPath: Assets\Plugins\Horizon[ON]\Materials\Material Variations (Gamma
+        _ Mobile)\Horizon[ON] Buildings (Gamma).mat
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Plugins\Horizon[ON]\Materials\Material Variations (Gamma _ Mobile)\Horizon[ON]
+        Mountains (Gamma).mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Material
+        Variations (Gamma _ Mobile)\Horizon[ON] Mountains (Gamma).mat
+      projectPath: Assets\Plugins\Horizon[ON]\Materials\Material Variations (Gamma
+        _ Mobile)\Horizon[ON] Mountains (Gamma).mat
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Plugins\Horizon[ON]\Materials\Material Variations (Gamma _ Mobile)\Horizon[ON]
+        Trees (Gamma).mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Material
+        Variations (Gamma _ Mobile)\Horizon[ON] Trees (Gamma).mat
+      projectPath: Assets\Plugins\Horizon[ON]\Materials\Material Variations (Gamma
+        _ Mobile)\Horizon[ON] Trees (Gamma).mat
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Plugins\Horizon[ON]\Materials\Textures _ Maps\Mountains\Horizon[ON]
+        Mountains_Albedo.psd.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Textures
+        _ Maps\Mountains\Horizon[ON] Mountains_Albedo.psd.meta
+      projectPath: Assets\Plugins\Horizon[ON]\Materials\Textures _ Maps\Mountains\Horizon[ON]
+        Mountains_Albedo.psd.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\APIUpdater\project-dependencies.graph
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\APIUpdater\project-dependencies.graph
+      projectPath: Library\APIUpdater\project-dependencies.graph
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\AnnotationManager
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\AnnotationManager
+      projectPath: Library\AnnotationManager
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\AssetImportState
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\AssetImportState
+      projectPath: Library\AssetImportState
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\BuildPlayer.prefs
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\BuildPlayer.prefs
+      projectPath: Library\BuildPlayer.prefs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\BuildSettings.asset
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\BuildSettings.asset
+      projectPath: Library\BuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\CurrentMaximizeLayout.dwlt
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\CurrentMaximizeLayout.dwlt
+      projectPath: Library\CurrentMaximizeLayout.dwlt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\EditorUserBuildSettings.asset
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\EditorUserBuildSettings.asset
+      projectPath: Library\EditorUserBuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\EditorUserSettings.asset
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\EditorUserSettings.asset
+      projectPath: Library\EditorUserSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\LastSceneManagerSetup.txt
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\LastSceneManagerSetup.txt
+      projectPath: Library\LastSceneManagerSetup.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\LibraryFormatVersion.txt
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\LibraryFormatVersion.txt
+      projectPath: Library\LibraryFormatVersion.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\MonoManager.asset
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\MonoManager.asset
+      projectPath: Library\MonoManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ProjectSettings.asset
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ProjectSettings.asset
+      projectPath: Library\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\SceneVisibilityState.asset
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\SceneVisibilityState.asset
+      projectPath: Library\SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Oculus.VR.Editor.dll
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Oculus.VR.Editor.dll
+      projectPath: Library\ScriptAssemblies\Oculus.VR.Editor.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Oculus.VR.Scripts.Editor.dll
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Oculus.VR.Scripts.Editor.dll
+      projectPath: Library\ScriptAssemblies\Oculus.VR.Scripts.Editor.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Oculus.VR.dll
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Oculus.VR.dll
+      projectPath: Library\ScriptAssemblies\Oculus.VR.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.dll
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.Timeline.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\UnityEditor.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\UnityEngine.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptMapper
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptMapper
+      projectPath: Library\ScriptMapper
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache.db
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ShaderCache.db
+      projectPath: Library\ShaderCache.db
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\SpriteAtlasDatabase.asset
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\SpriteAtlasDatabase.asset
+      projectPath: Library\SpriteAtlasDatabase.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\StateCache\Hierarchy\3b00f6-mainStage.json
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\StateCache\Hierarchy\3b00f6-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\3b00f6-mainStage.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\70abc2-mainStage.json
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\StateCache\SceneView\70abc2-mainStage.json
+      projectPath: Library\StateCache\SceneView\70abc2-mainStage.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\assetDatabase3
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\expandedItems
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe1.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe10.log
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe10.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe10.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe11.log
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe11.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe11.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe2.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe3.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe4.log
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe4.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe5.log
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe5.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe6.log
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe6.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe7.log
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe7.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe7.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe8.log
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe8.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe8.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe9.log
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe9.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe9.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\manifest.json
+      fullPath: D:\CSCI538\Rush-Diving-src\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 2611c89819eaa1fe9493801c5cb17ba5872782de
+    mergeA: 
+    mergeB: 
+    authorName: shenyi
+    authorEmail: shenyi.nanjing@gmail.com
+    commitEmail: shenyi.nanjing@gmail.com
+    commitName: shenyi
+    summary: Update .gitignore
+    description: 
+    timeString: 2019-10-11T01:56:50.000-07:00
+    commitTimeString: 2019-10-11T01:56:50.000-07:00
+    changes:
+    - path: .gitignore
+      fullPath: D:\CSCI538\Rush-Diving-src\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: fbe4ec85f07fb1069671ad0637c936387b5018b8
     mergeA: 
     mergeB: 
