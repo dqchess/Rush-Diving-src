@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Plugins/Horizon[ON]/_Example Scene/ExampleScene(Gamma).unity
+- path: Assets/Scenes/Menu.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

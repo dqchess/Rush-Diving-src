@@ -1,0 +1,3618 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2019-10-29T16:05:17.845-07:00
+  initializedAtString: 2019-10-29T15:10:44.019-07:00
+  entries:
+  - path: Assets\Drone.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Drone.meta
+    projectPath: Assets\Drone.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Drone\Canvas.prefab
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Drone\Canvas.prefab
+    projectPath: Assets\Drone\Canvas.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Drone\Canvas.prefab.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Drone\Canvas.prefab.meta
+    projectPath: Assets\Drone\Canvas.prefab.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Drone\Drone.fbm.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Drone\Drone.fbm.meta
+    projectPath: Assets\Drone\Drone.fbm.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Drone\Drone.fbx
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Drone\Drone.fbx
+    projectPath: Assets\Drone\Drone.fbx
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Drone\Drone.fbx.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Drone\Drone.fbx.meta
+    projectPath: Assets\Drone\Drone.fbx.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Drone\DroneCanvasC.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Drone\DroneCanvasC.cs
+    projectPath: Assets\Drone\DroneCanvasC.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Drone\DroneCanvasC.cs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Drone\DroneCanvasC.cs.meta
+    projectPath: Assets\Drone\DroneCanvasC.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Drone\DroneControlC.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Drone\DroneControlC.cs
+    projectPath: Assets\Drone\DroneControlC.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Drone\DroneControlC.cs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Drone\DroneControlC.cs.meta
+    projectPath: Assets\Drone\DroneControlC.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Drone\DronePrefab 1.prefab
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Drone\DronePrefab 1.prefab
+    projectPath: Assets\Drone\DronePrefab 1.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Drone\DronePrefab 1.prefab.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Drone\DronePrefab 1.prefab.meta
+    projectPath: Assets\Drone\DronePrefab 1.prefab.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Drone\Drone'sTexture.png
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Drone\Drone'sTexture.png
+    projectPath: Assets\Drone\Drone'sTexture.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Drone\Drone'sTexture.png.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Drone\Drone'sTexture.png.meta
+    projectPath: Assets\Drone\Drone'sTexture.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Drone\EventSystem.prefab
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Drone\EventSystem.prefab
+    projectPath: Assets\Drone\EventSystem.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Drone\EventSystem.prefab.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Drone\EventSystem.prefab.meta
+    projectPath: Assets\Drone\EventSystem.prefab.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Drone\Grid.png
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Drone\Grid.png
+    projectPath: Assets\Drone\Grid.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Drone\Grid.png.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Drone\Grid.png.meta
+    projectPath: Assets\Drone\Grid.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Drone\LFP.controller
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Drone\LFP.controller
+    projectPath: Assets\Drone\LFP.controller
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Drone\LFP.controller.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Drone\LFP.controller.meta
+    projectPath: Assets\Drone\LFP.controller.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Drone\Materials.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Drone\Materials.meta
+    projectPath: Assets\Drone\Materials.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Drone\Materials\Drone'sTexture.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Drone\Materials\Drone'sTexture.mat
+    projectPath: Assets\Drone\Materials\Drone'sTexture.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Drone\Materials\Drone'sTexture.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Drone\Materials\Drone'sTexture.mat.meta
+    projectPath: Assets\Drone\Materials\Drone'sTexture.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Drone\Materials\Material.001.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Drone\Materials\Material.001.mat
+    projectPath: Assets\Drone\Materials\Material.001.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Drone\Materials\Material.001.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Drone\Materials\Material.001.mat.meta
+    projectPath: Assets\Drone\Materials\Material.001.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Drone\Materials\Material.003.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Drone\Materials\Material.003.mat
+    projectPath: Assets\Drone\Materials\Material.003.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Drone\Materials\Material.003.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Drone\Materials\Material.003.mat.meta
+    projectPath: Assets\Drone\Materials\Material.003.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Drone\Materials\Material.004.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Drone\Materials\Material.004.mat
+    projectPath: Assets\Drone\Materials\Material.004.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Drone\Materials\Material.004.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Drone\Materials\Material.004.mat.meta
+    projectPath: Assets\Drone\Materials\Material.004.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Drone\Materials\Material.005.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Drone\Materials\Material.005.mat
+    projectPath: Assets\Drone\Materials\Material.005.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Drone\Materials\Material.005.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Drone\Materials\Material.005.mat.meta
+    projectPath: Assets\Drone\Materials\Material.005.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Drone\Materials\Material.006.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Drone\Materials\Material.006.mat
+    projectPath: Assets\Drone\Materials\Material.006.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Drone\Materials\Material.006.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Drone\Materials\Material.006.mat.meta
+    projectPath: Assets\Drone\Materials\Material.006.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Drone\PropellersRotation.anim
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Drone\PropellersRotation.anim
+    projectPath: Assets\Drone\PropellersRotation.anim
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Drone\PropellersRotation.anim.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Drone\PropellersRotation.anim.meta
+    projectPath: Assets\Drone\PropellersRotation.anim.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Drone\PropellersRotationOnTheOtherSide.anim
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Drone\PropellersRotationOnTheOtherSide.anim
+    projectPath: Assets\Drone\PropellersRotationOnTheOtherSide.anim
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Drone\PropellersRotationOnTheOtherSide.anim.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Drone\PropellersRotationOnTheOtherSide.anim.meta
+    projectPath: Assets\Drone\PropellersRotationOnTheOtherSide.anim.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Drone\ReadMe.txt
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Drone\ReadMe.txt
+    projectPath: Assets\Drone\ReadMe.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Drone\ReadMe.txt.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Drone\ReadMe.txt.meta
+    projectPath: Assets\Drone\ReadMe.txt.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Game.unity
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Game.unity
+    projectPath: Assets\Game.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Game.unity.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Game.unity.meta
+    projectPath: Assets\Game.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Menu Test.unity
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Menu Test.unity
+    projectPath: Assets\Menu Test.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Menu Test.unity.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Menu Test.unity.meta
+    projectPath: Assets\Menu Test.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] Object.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Horizon[ON]
+      Object.mat
+    projectPath: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] Object.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] TransitionSky.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Horizon[ON]
+      TransitionSky.mat
+    projectPath: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] TransitionSky.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] TransitionTerrain.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Horizon[ON]
+      TransitionTerrain.mat
+    projectPath: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] TransitionTerrain.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\Game.unity
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Scenes\Game.unity
+    projectPath: Assets\Scenes\Game.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Game.unity.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Scenes\Game.unity.meta
+    projectPath: Assets\Scenes\Game.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Menu.unity
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Scenes\Menu.unity
+    projectPath: Assets\Scenes\Menu.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Menu.unity.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Scenes\Menu.unity.meta
+    projectPath: Assets\Scenes\Menu.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\MainMenu.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Scripts\MainMenu.cs
+    projectPath: Assets\Scripts\MainMenu.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\MainMenu.cs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Scripts\MainMenu.cs.meta
+    projectPath: Assets\Scripts\MainMenu.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\SimpleCloudSystem by RM.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM.meta
+    projectPath: Assets\SimpleCloudSystem by RM.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds.meta
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials.meta
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud1.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud1.mat
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud1.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud1.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud1.mat.meta
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud1.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud2.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud2.mat
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud2.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud2.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud2.mat.meta
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud2.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud3.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud3.mat
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud3.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud3.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud3.mat.meta
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud3.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud4.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud4.mat
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud4.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud4.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud4.mat.meta
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud4.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud5.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud5.mat
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud5.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud5.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud5.mat.meta
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud5.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud6.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud6.mat
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud6.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud6.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud6.mat.meta
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud6.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud7.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud7.mat
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud7.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud7.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud7.mat.meta
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\D_Cloud7.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures.meta
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud1.png
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud1.png
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud1.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud1.png.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud1.png.meta
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud1.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud2.png
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud2.png
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud2.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud2.png.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud2.png.meta
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud2.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud3.png
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud3.png
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud3.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud3.png.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud3.png.meta
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud3.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud4.png
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud4.png
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud4.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud4.png.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud4.png.meta
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud4.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud5.png
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud5.png
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud5.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud5.png.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud5.png.meta
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud5.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud6.png
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud6.png
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud6.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud6.png.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud6.png.meta
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud6.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud7.png
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud7.png
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud7.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud7.png.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud7.png.meta
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\DarkClouds_Materials\DarkClouds_Textures\D_Cloud7.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials.meta
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud1.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud1.mat
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud1.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud1.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud1.mat.meta
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud1.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud2.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud2.mat
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud2.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud2.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud2.mat.meta
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud2.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud4.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud4.mat
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud4.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud4.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud4.mat.meta
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud4.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud5.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud5.mat
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud5.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud5.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud5.mat.meta
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud5.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud6.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud6.mat
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud6.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud6.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud6.mat.meta
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud6.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud7.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud7.mat
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud7.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud7.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud7.mat.meta
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud7.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud8.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud8.mat
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud8.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud8.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud8.mat.meta
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\S_Cloud8.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures.meta
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud1.png
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud1.png
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud1.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud1.png.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud1.png.meta
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud1.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud2.png
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud2.png
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud2.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud2.png.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud2.png.meta
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud2.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud4.png
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud4.png
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud4.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud4.png.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud4.png.meta
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud4.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud5.png
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud5.png
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud5.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud5.png.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud5.png.meta
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud5.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud6.png
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud6.png
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud6.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud6.png.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud6.png.meta
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud6.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud7.png
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud7.png
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud7.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud7.png.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud7.png.meta
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud7.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud8.png
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud8.png
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud8.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud8.png.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud8.png.meta
+    projectPath: Assets\SimpleCloudSystem by RM\Clouds\SunnyClouds_Materials\SunnyClouds_Textures\S_Cloud8.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\CloudSystem.prefab
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\CloudSystem.prefab
+    projectPath: Assets\SimpleCloudSystem by RM\CloudSystem.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\CloudSystem.prefab.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\CloudSystem.prefab.meta
+    projectPath: Assets\SimpleCloudSystem by RM\CloudSystem.prefab.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Read Me.txt
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Read Me.txt
+    projectPath: Assets\SimpleCloudSystem by RM\Read Me.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\Read Me.txt.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\Read Me.txt.meta
+    projectPath: Assets\SimpleCloudSystem by RM\Read Me.txt.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\SceneComponents.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\SceneComponents.meta
+    projectPath: Assets\SimpleCloudSystem by RM\SceneComponents.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\SceneComponents\Instructions scene.unity
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\SceneComponents\Instructions
+      scene.unity
+    projectPath: Assets\SimpleCloudSystem by RM\SceneComponents\Instructions scene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\SceneComponents\Instructions scene.unity.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\SceneComponents\Instructions
+      scene.unity.meta
+    projectPath: Assets\SimpleCloudSystem by RM\SceneComponents\Instructions scene.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\SceneComponents\LABELS.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\SceneComponents\LABELS.meta
+    projectPath: Assets\SimpleCloudSystem by RM\SceneComponents\LABELS.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\LABEL1.png
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\LABEL1.png
+    projectPath: Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\LABEL1.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\LABEL1.png.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\LABEL1.png.meta
+    projectPath: Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\LABEL1.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\LABEL2.png
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\LABEL2.png
+    projectPath: Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\LABEL2.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\LABEL2.png.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\LABEL2.png.meta
+    projectPath: Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\LABEL2.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\LABEL3.png
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\LABEL3.png
+    projectPath: Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\LABEL3.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\LABEL3.png.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\LABEL3.png.meta
+    projectPath: Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\LABEL3.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\LABEL4.png
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\LABEL4.png
+    projectPath: Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\LABEL4.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\LABEL4.png.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\LABEL4.png.meta
+    projectPath: Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\LABEL4.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\Materials.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\Materials.meta
+    projectPath: Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\Materials.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\Materials\LABEL1.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\Materials\LABEL1.mat
+    projectPath: Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\Materials\LABEL1.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\Materials\LABEL1.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\Materials\LABEL1.mat.meta
+    projectPath: Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\Materials\LABEL1.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\Materials\LABEL2.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\Materials\LABEL2.mat
+    projectPath: Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\Materials\LABEL2.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\Materials\LABEL2.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\Materials\LABEL2.mat.meta
+    projectPath: Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\Materials\LABEL2.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\Materials\LABEL3.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\Materials\LABEL3.mat
+    projectPath: Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\Materials\LABEL3.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\Materials\LABEL3.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\Materials\LABEL3.mat.meta
+    projectPath: Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\Materials\LABEL3.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\Materials\LABEL4.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\Materials\LABEL4.mat
+    projectPath: Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\Materials\LABEL4.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\Materials\LABEL4.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\Materials\LABEL4.mat.meta
+    projectPath: Assets\SimpleCloudSystem by RM\SceneComponents\LABELS\Materials\LABEL4.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\SceneComponents\Landscape.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\SceneComponents\Landscape.meta
+    projectPath: Assets\SimpleCloudSystem by RM\SceneComponents\Landscape.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\SceneComponents\Landscape\Landscape.dae
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\SceneComponents\Landscape\Landscape.dae
+    projectPath: Assets\SimpleCloudSystem by RM\SceneComponents\Landscape\Landscape.dae
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\SceneComponents\Landscape\Landscape.dae.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\SceneComponents\Landscape\Landscape.dae.meta
+    projectPath: Assets\SimpleCloudSystem by RM\SceneComponents\Landscape\Landscape.dae.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\SceneComponents\Landscape\Landscape.prefab
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\SceneComponents\Landscape\Landscape.prefab
+    projectPath: Assets\SimpleCloudSystem by RM\SceneComponents\Landscape\Landscape.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\SceneComponents\Landscape\Landscape.prefab.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\SceneComponents\Landscape\Landscape.prefab.meta
+    projectPath: Assets\SimpleCloudSystem by RM\SceneComponents\Landscape\Landscape.prefab.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\SceneComponents\Landscape\Landscape_D.png
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\SceneComponents\Landscape\Landscape_D.png
+    projectPath: Assets\SimpleCloudSystem by RM\SceneComponents\Landscape\Landscape_D.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\SceneComponents\Landscape\Landscape_D.png.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\SceneComponents\Landscape\Landscape_D.png.meta
+    projectPath: Assets\SimpleCloudSystem by RM\SceneComponents\Landscape\Landscape_D.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\SceneComponents\Landscape\Landscape_N.png
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\SceneComponents\Landscape\Landscape_N.png
+    projectPath: Assets\SimpleCloudSystem by RM\SceneComponents\Landscape\Landscape_N.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\SceneComponents\Landscape\Landscape_N.png.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\SceneComponents\Landscape\Landscape_N.png.meta
+    projectPath: Assets\SimpleCloudSystem by RM\SceneComponents\Landscape\Landscape_N.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\SceneComponents\Landscape\Materials.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\SceneComponents\Landscape\Materials.meta
+    projectPath: Assets\SimpleCloudSystem by RM\SceneComponents\Landscape\Materials.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\SceneComponents\Landscape\Materials\Landscape1.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\SceneComponents\Landscape\Materials\Landscape1.mat
+    projectPath: Assets\SimpleCloudSystem by RM\SceneComponents\Landscape\Materials\Landscape1.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\SceneComponents\Landscape\Materials\Landscape1.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\SceneComponents\Landscape\Materials\Landscape1.mat.meta
+    projectPath: Assets\SimpleCloudSystem by RM\SceneComponents\Landscape\Materials\Landscape1.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\SceneComponents\Landscape\Materials\No Name.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\SceneComponents\Landscape\Materials\No
+      Name.mat
+    projectPath: Assets\SimpleCloudSystem by RM\SceneComponents\Landscape\Materials\No
+      Name.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\SceneComponents\Landscape\Materials\No Name.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\SceneComponents\Landscape\Materials\No
+      Name.mat.meta
+    projectPath: Assets\SimpleCloudSystem by RM\SceneComponents\Landscape\Materials\No
+      Name.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\SCS Instructions.txt
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\SCS Instructions.txt
+    projectPath: Assets\SimpleCloudSystem by RM\SCS Instructions.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\SCS Instructions.txt.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\SCS Instructions.txt.meta
+    projectPath: Assets\SimpleCloudSystem by RM\SCS Instructions.txt.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\SCS.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\SCS.cs
+    projectPath: Assets\SimpleCloudSystem by RM\SCS.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SimpleCloudSystem by RM\SCS.cs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\SimpleCloudSystem by RM\SCS.cs.meta
+    projectPath: Assets\SimpleCloudSystem by RM\SCS.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Standard Assets.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Standard Assets.meta
+    projectPath: Assets\Standard Assets.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Standard Assets\CrossPlatformInput.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Standard Assets\CrossPlatformInput.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Standard Assets\CrossPlatformInput\Scripts.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Standard Assets\CrossPlatformInput\Scripts.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Standard Assets\CrossPlatformInput\Scripts\Joystick.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Standard Assets\CrossPlatformInput\Scripts\Joystick.cs
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\Joystick.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Standard Assets\CrossPlatformInput\Scripts\Joystick.cs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Standard Assets\CrossPlatformInput\Scripts\Joystick.cs.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Scripts\Joystick.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Standard Assets\CrossPlatformInput\Sprites.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Standard Assets\CrossPlatformInput\Sprites.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonThumbstickUpSprite.png
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonThumbstickUpSprite.png
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonThumbstickUpSprite.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonThumbstickUpSprite.png.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonThumbstickUpSprite.png.meta
+    projectPath: Assets\Standard Assets\CrossPlatformInput\Sprites\ButtonThumbstickUpSprite.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\TextMesh Pro.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro.meta
+    projectPath: Assets\TextMesh Pro.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Documentation.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Documentation.meta
+    projectPath: Assets\TextMesh Pro\Documentation.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Documentation\TextMesh
+      Pro User Guide 2016.pdf
+    projectPath: Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Documentation\TextMesh
+      Pro User Guide 2016.pdf.meta
+    projectPath: Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Fonts.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Fonts.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Anton OFL.txt
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Fonts\Anton
+      OFL.txt
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Anton OFL.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Anton OFL.txt.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Fonts\Anton
+      OFL.txt.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Anton OFL.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Anton.ttf
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Fonts\Anton.ttf
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Anton.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Anton.ttf.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Fonts\Anton.ttf.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Anton.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Bangers - OFL.txt
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Fonts\Bangers
+      - OFL.txt
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Bangers - OFL.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Bangers - OFL.txt.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Fonts\Bangers
+      - OFL.txt.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Bangers - OFL.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Bangers.ttf
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Fonts\Bangers.ttf
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Bangers.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Bangers.ttf.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Fonts\Bangers.ttf.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Bangers.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Electronic Highway Sign.TTF
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Fonts\Electronic
+      Highway Sign.TTF
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Electronic Highway Sign.TTF
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Electronic Highway Sign.TTF.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Fonts\Electronic
+      Highway Sign.TTF.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Electronic Highway Sign.TTF.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Oswald-Bold - OFL.txt
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Fonts\Oswald-Bold
+      - OFL.txt
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Oswald-Bold - OFL.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Oswald-Bold - OFL.txt.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Fonts\Oswald-Bold
+      - OFL.txt.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Oswald-Bold - OFL.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Oswald-Bold.ttf
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Fonts\Oswald-Bold.ttf
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Oswald-Bold.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Oswald-Bold.ttf.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Fonts\Oswald-Bold.ttf.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Oswald-Bold.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Roboto-Bold.ttf
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Fonts\Roboto-Bold.ttf
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Roboto-Bold.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Fonts\Roboto-Bold.ttf.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Fonts\Roboto-Bold.ttf.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Fonts\Roboto-Bold.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Materials.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Materials.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Materials\Crate - Surface Shader Scene.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Materials\Crate
+      - Surface Shader Scene.mat
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Materials\Crate - Surface Shader
+      Scene.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Materials\Crate - Surface Shader Scene.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Materials\Crate
+      - Surface Shader Scene.mat.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Materials\Crate - Surface Shader
+      Scene.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Materials\Ground - Logo Scene.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Materials\Ground
+      - Logo Scene.mat
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Materials\Ground - Logo Scene.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Materials\Ground - Logo Scene.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Materials\Ground
+      - Logo Scene.mat.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Materials\Ground - Logo Scene.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Materials\Ground - Surface Shader
+      Scene.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Materials\Ground
+      - Surface Shader Scene.mat
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Materials\Ground - Surface
+      Shader Scene.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Materials\Ground - Surface Shader
+      Scene.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Materials\Ground
+      - Surface Shader Scene.mat.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Materials\Ground - Surface
+      Shader Scene.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Materials\Small Crate_diffuse.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Materials\Small
+      Crate_diffuse.mat
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Materials\Small Crate_diffuse.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Materials\Small Crate_diffuse.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Materials\Small
+      Crate_diffuse.mat.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Materials\Small Crate_diffuse.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Prefabs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Prefabs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Prefabs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Prefabs\Text Popup.prefab
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Prefabs\Text
+      Popup.prefab
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Prefabs\Text Popup.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Prefabs\Text Popup.prefab.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Prefabs\Text
+      Popup.prefab.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Prefabs\Text Popup.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Prefabs\TextMeshPro - Prefab 1.prefab
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Prefabs\TextMeshPro
+      - Prefab 1.prefab
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Prefabs\TextMeshPro - Prefab
+      1.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Prefabs\TextMeshPro - Prefab 1.prefab.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Prefabs\TextMeshPro
+      - Prefab 1.prefab.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Prefabs\TextMeshPro - Prefab
+      1.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Prefabs\TextMeshPro - Prefab 2.prefab
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Prefabs\TextMeshPro
+      - Prefab 2.prefab
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Prefabs\TextMeshPro - Prefab
+      2.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Prefabs\TextMeshPro - Prefab 2.prefab.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Prefabs\TextMeshPro
+      - Prefab 2.prefab.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Prefabs\TextMeshPro - Prefab
+      2.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Color
+      Gradient Presets.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Blue
+      to Purple - Vertical.asset
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Color
+      Gradient Presets\Blue to Purple - Vertical.asset
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Blue
+      to Purple - Vertical.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Blue
+      to Purple - Vertical.asset.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Color
+      Gradient Presets\Blue to Purple - Vertical.asset.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Blue
+      to Purple - Vertical.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Dark
+      to Light Green - Vertical.asset
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Color
+      Gradient Presets\Dark to Light Green - Vertical.asset
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Dark
+      to Light Green - Vertical.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Dark
+      to Light Green - Vertical.asset.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Color
+      Gradient Presets\Dark to Light Green - Vertical.asset.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Dark
+      to Light Green - Vertical.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Light
+      to Dark Green - Vertical.asset
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Color
+      Gradient Presets\Light to Dark Green - Vertical.asset
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Light
+      to Dark Green - Vertical.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Light
+      to Dark Green - Vertical.asset.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Color
+      Gradient Presets\Light to Dark Green - Vertical.asset.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Light
+      to Dark Green - Vertical.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Yellow
+      to Orange - Vertical.asset
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Color
+      Gradient Presets\Yellow to Orange - Vertical.asset
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Yellow
+      to Orange - Vertical.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Yellow
+      to Orange - Vertical.asset.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Color
+      Gradient Presets\Yellow to Orange - Vertical.asset.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Yellow
+      to Orange - Vertical.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+      & Materials.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+      SDF - Drop Shadow.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+      & Materials\Anton SDF - Drop Shadow.mat
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+      SDF - Drop Shadow.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+      SDF - Drop Shadow.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+      & Materials\Anton SDF - Drop Shadow.mat.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+      SDF - Drop Shadow.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+      SDF - Outline.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+      & Materials\Anton SDF - Outline.mat
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+      SDF - Outline.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+      SDF - Outline.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+      & Materials\Anton SDF - Outline.mat.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+      SDF - Outline.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+      SDF - Sunny Days.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+      & Materials\Anton SDF - Sunny Days.mat
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+      SDF - Sunny Days.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+      SDF - Sunny Days.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+      & Materials\Anton SDF - Sunny Days.mat.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+      SDF - Sunny Days.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+      SDF.asset
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+      & Materials\Anton SDF.asset
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+      SDF.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+      SDF.asset.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+      & Materials\Anton SDF.asset.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+      SDF.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+      SDF - Drop Shadow.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+      & Materials\Bangers SDF - Drop Shadow.mat
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+      SDF - Drop Shadow.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+      SDF - Drop Shadow.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+      & Materials\Bangers SDF - Drop Shadow.mat.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+      SDF - Drop Shadow.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+      SDF - Outline.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+      & Materials\Bangers SDF - Outline.mat
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+      SDF - Outline.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+      SDF - Outline.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+      & Materials\Bangers SDF - Outline.mat.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+      SDF - Outline.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+      SDF Glow.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+      & Materials\Bangers SDF Glow.mat
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+      SDF Glow.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+      SDF Glow.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+      & Materials\Bangers SDF Glow.mat.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+      SDF Glow.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+      SDF Logo.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+      & Materials\Bangers SDF Logo.mat
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+      SDF Logo.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+      SDF Logo.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+      & Materials\Bangers SDF Logo.mat.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+      SDF Logo.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+      SDF.asset
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+      & Materials\Bangers SDF.asset
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+      SDF.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+      SDF.asset.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+      & Materials\Bangers SDF.asset.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+      SDF.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Electronic
+      Highway Sign SDF.asset
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+      & Materials\Electronic Highway Sign SDF.asset
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Electronic
+      Highway Sign SDF.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Electronic
+      Highway Sign SDF.asset.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+      & Materials\Electronic Highway Sign SDF.asset.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Electronic
+      Highway Sign SDF.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans
+      SDF - Metalic Green.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+      & Materials\LiberationSans SDF - Metalic Green.mat
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans
+      SDF - Metalic Green.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans
+      SDF - Metalic Green.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+      & Materials\LiberationSans SDF - Metalic Green.mat.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans
+      SDF - Metalic Green.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans
+      SDF - Overlay.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+      & Materials\LiberationSans SDF - Overlay.mat
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans
+      SDF - Overlay.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans
+      SDF - Overlay.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+      & Materials\LiberationSans SDF - Overlay.mat.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans
+      SDF - Overlay.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans
+      SDF - Soft Mask.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+      & Materials\LiberationSans SDF - Soft Mask.mat
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans
+      SDF - Soft Mask.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans
+      SDF - Soft Mask.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+      & Materials\LiberationSans SDF - Soft Mask.mat.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans
+      SDF - Soft Mask.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Oswald
+      Bold SDF.asset
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+      & Materials\Oswald Bold SDF.asset
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Oswald
+      Bold SDF.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Oswald
+      Bold SDF.asset.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+      & Materials\Oswald Bold SDF.asset.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Oswald
+      Bold SDF.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
+      SDF - Drop Shadow.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+      & Materials\Roboto-Bold SDF - Drop Shadow.mat
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
+      SDF - Drop Shadow.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
+      SDF - Drop Shadow.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+      & Materials\Roboto-Bold SDF - Drop Shadow.mat.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
+      SDF - Drop Shadow.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
+      SDF - Surface.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+      & Materials\Roboto-Bold SDF - Surface.mat
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
+      SDF - Surface.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
+      SDF - Surface.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+      & Materials\Roboto-Bold SDF - Surface.mat.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
+      SDF - Surface.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
+      SDF.asset
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+      & Materials\Roboto-Bold SDF.asset
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
+      SDF.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
+      SDF.asset.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+      & Materials\Roboto-Bold SDF.asset.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
+      SDF.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Sprite
+      Assets.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets\Default Sprite
+      Asset.asset
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Sprite
+      Assets\Default Sprite Asset.asset
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets\Default
+      Sprite Asset.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets\Default Sprite
+      Asset.asset.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Sprite
+      Assets\Default Sprite Asset.asset.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets\Default
+      Sprite Asset.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets\DropCap Numbers.asset
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Sprite
+      Assets\DropCap Numbers.asset
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets\DropCap
+      Numbers.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets\DropCap Numbers.asset.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Sprite
+      Assets\DropCap Numbers.asset.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets\DropCap
+      Numbers.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\01-  Single Line TextMesh Pro.unity
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\01-  Single
+      Line TextMesh Pro.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\01-  Single Line TextMesh
+      Pro.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\01-  Single Line TextMesh Pro.unity.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\01-  Single
+      Line TextMesh Pro.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\01-  Single Line TextMesh
+      Pro.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\02 - Multi-line TextMesh Pro.unity
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\02
+      - Multi-line TextMesh Pro.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\02 - Multi-line TextMesh
+      Pro.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\02 - Multi-line TextMesh Pro.unity.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\02
+      - Multi-line TextMesh Pro.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\02 - Multi-line TextMesh
+      Pro.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\03 - Line Justification.unity
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\03
+      - Line Justification.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\03 - Line Justification.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\03 - Line Justification.unity.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\03
+      - Line Justification.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\03 - Line Justification.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\04 - Word Wrapping.unity
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\04
+      - Word Wrapping.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\04 - Word Wrapping.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\04 - Word Wrapping.unity.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\04
+      - Word Wrapping.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\04 - Word Wrapping.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\05 - Style Tags.unity
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\05
+      - Style Tags.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\05 - Style Tags.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\05 - Style Tags.unity.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\05
+      - Style Tags.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\05 - Style Tags.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\06 - Extra Rich Text Examples.unity
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\06
+      - Extra Rich Text Examples.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\06 - Extra Rich Text
+      Examples.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\06 - Extra Rich Text Examples.unity.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\06
+      - Extra Rich Text Examples.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\06 - Extra Rich Text
+      Examples.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\07 - Superscript & Subscript
+      Example.unity
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\07
+      - Superscript & Subscript Example.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\07 - Superscript & Subscript
+      Example.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\07 - Superscript & Subscript
+      Example.unity.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\07
+      - Superscript & Subscript Example.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\07 - Superscript & Subscript
+      Example.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\08 - Improved Text Alignment.unity
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\08
+      - Improved Text Alignment.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\08 - Improved Text Alignment.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\08 - Improved Text Alignment.unity.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\08
+      - Improved Text Alignment.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\08 - Improved Text Alignment.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\09 - Margin Tag Example.unity
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\09
+      - Margin Tag Example.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\09 - Margin Tag Example.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\09 - Margin Tag Example.unity.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\09
+      - Margin Tag Example.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\09 - Margin Tag Example.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\10 - Bullets & Numbered List
+      Example.unity
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\10
+      - Bullets & Numbered List Example.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\10 - Bullets & Numbered
+      List Example.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\10 - Bullets & Numbered List
+      Example.unity.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\10
+      - Bullets & Numbered List Example.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\10 - Bullets & Numbered
+      List Example.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\11 - The Style Tag.unity
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\11
+      - The Style Tag.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\11 - The Style Tag.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\11 - The Style Tag.unity.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\11
+      - The Style Tag.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\11 - The Style Tag.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\12 - Link Example.unity
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\12
+      - Link Example.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\12 - Link Example.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\12 - Link Example.unity.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\12
+      - Link Example.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\12 - Link Example.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\12a - Text Interactions.unity
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\12a
+      - Text Interactions.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\12a - Text Interactions.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\12a - Text Interactions.unity.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\12a
+      - Text Interactions.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\12a - Text Interactions.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\13 - Soft Hyphenation.unity
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\13
+      - Soft Hyphenation.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\13 - Soft Hyphenation.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\13 - Soft Hyphenation.unity.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\13
+      - Soft Hyphenation.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\13 - Soft Hyphenation.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\14 - Multi Font & Sprites.unity
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\14
+      - Multi Font & Sprites.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\14 - Multi Font & Sprites.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\14 - Multi Font & Sprites.unity.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\14
+      - Multi Font & Sprites.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\14 - Multi Font & Sprites.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\15 - Inline Graphics & Sprites.unity
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\15
+      - Inline Graphics & Sprites.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\15 - Inline Graphics
+      & Sprites.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\15 - Inline Graphics & Sprites.unity.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\15
+      - Inline Graphics & Sprites.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\15 - Inline Graphics
+      & Sprites.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\16 - Linked text overflow mode
+      example.unity
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\16
+      - Linked text overflow mode example.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\16 - Linked text overflow
+      mode example.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\16 - Linked text overflow mode
+      example.unity.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\16
+      - Linked text overflow mode example.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\16 - Linked text overflow
+      mode example.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\17 - Old Computer Terminal.unity
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\17
+      - Old Computer Terminal.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\17 - Old Computer Terminal.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\17 - Old Computer Terminal.unity.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\17
+      - Old Computer Terminal.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\17 - Old Computer Terminal.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\18 - ScrollRect & Masking &
+      Layout.unity
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\18
+      - ScrollRect & Masking & Layout.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\18 - ScrollRect & Masking
+      & Layout.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\18 - ScrollRect & Masking &
+      Layout.unity.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\18
+      - ScrollRect & Masking & Layout.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\18 - ScrollRect & Masking
+      & Layout.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\19 - Masking Texture & Soft
+      Mask.unity
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\19
+      - Masking Texture & Soft Mask.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\19 - Masking Texture
+      & Soft Mask.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\19 - Masking Texture & Soft
+      Mask.unity.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\19
+      - Masking Texture & Soft Mask.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\19 - Masking Texture
+      & Soft Mask.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\20 - Input Field with Scrollbar.unity
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\20
+      - Input Field with Scrollbar.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\20 - Input Field with
+      Scrollbar.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\20 - Input Field with Scrollbar.unity.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\20
+      - Input Field with Scrollbar.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\20 - Input Field with
+      Scrollbar.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\21 - Script Example.unity
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\21
+      - Script Example.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\21 - Script Example.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\21 - Script Example.unity.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\21
+      - Script Example.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\21 - Script Example.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\22 - Basic Scripting Example.unity
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\22
+      - Basic Scripting Example.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\22 - Basic Scripting
+      Example.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\22 - Basic Scripting Example.unity.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\22
+      - Basic Scripting Example.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\22 - Basic Scripting
+      Example.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\23 - Animating Vertex Attributes.unity
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\23
+      - Animating Vertex Attributes.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\23 - Animating Vertex
+      Attributes.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\23 - Animating Vertex Attributes.unity.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\23
+      - Animating Vertex Attributes.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\23 - Animating Vertex
+      Attributes.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\24 - Surface Shader Example.unity
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\24
+      - Surface Shader Example.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\24 - Surface Shader
+      Example.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\24 - Surface Shader Example.unity.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\24
+      - Surface Shader Example.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\24 - Surface Shader
+      Example.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\25 - Sunny Days Example.unity
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\25
+      - Sunny Days Example.unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\25 - Sunny Days Example.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\25 - Sunny Days Example.unity.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\25
+      - Sunny Days Example.unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\25 - Sunny Days Example.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\Benchmark (Floating Text).unity
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\Benchmark
+      (Floating Text).unity
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\Benchmark (Floating
+      Text).unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scenes\Benchmark (Floating Text).unity.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scenes\Benchmark
+      (Floating Text).unity.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scenes\Benchmark (Floating
+      Text).unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01.cs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01_UGUI.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01_UGUI.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01_UGUI.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01_UGUI.cs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01_UGUI.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01_UGUI.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark02.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark02.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark02.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark02.cs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark02.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark02.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark03.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark03.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark03.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark03.cs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark03.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark03.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark04.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark04.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark04.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark04.cs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark04.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark04.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\CameraController.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\CameraController.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\CameraController.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\CameraController.cs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\CameraController.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\CameraController.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\ChatController.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\ChatController.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\ChatController.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\ChatController.cs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\ChatController.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\ChatController.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\EnvMapAnimator.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\EnvMapAnimator.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\EnvMapAnimator.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\EnvMapAnimator.cs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\EnvMapAnimator.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\EnvMapAnimator.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\ObjectSpin.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\ObjectSpin.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\ObjectSpin.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\ObjectSpin.cs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\ObjectSpin.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\ObjectSpin.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\ShaderPropAnimator.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\ShaderPropAnimator.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\ShaderPropAnimator.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\ShaderPropAnimator.cs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\ShaderPropAnimator.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\ShaderPropAnimator.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\SimpleScript.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\SimpleScript.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\SimpleScript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\SimpleScript.cs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\SimpleScript.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\SimpleScript.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\SkewTextExample.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\SkewTextExample.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\SkewTextExample.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\SkewTextExample.cs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\SkewTextExample.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\SkewTextExample.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TeleType.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\TeleType.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TeleType.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TeleType.cs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\TeleType.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TeleType.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TextConsoleSimulator.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\TextConsoleSimulator.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TextConsoleSimulator.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TextConsoleSimulator.cs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\TextConsoleSimulator.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TextConsoleSimulator.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshProFloatingText.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshProFloatingText.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshProFloatingText.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshProFloatingText.cs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshProFloatingText.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshProFloatingText.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshSpawner.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshSpawner.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshSpawner.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshSpawner.cs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshSpawner.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshSpawner.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_DigitValidator.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_DigitValidator.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_DigitValidator.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_DigitValidator.cs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_DigitValidator.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_DigitValidator.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_ExampleScript_01.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_ExampleScript_01.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_ExampleScript_01.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_ExampleScript_01.cs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_ExampleScript_01.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_ExampleScript_01.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_FrameRateCounter.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_FrameRateCounter.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_FrameRateCounter.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_FrameRateCounter.cs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_FrameRateCounter.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_FrameRateCounter.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_PhoneNumberValidator.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_PhoneNumberValidator.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_PhoneNumberValidator.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_PhoneNumberValidator.cs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_PhoneNumberValidator.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_PhoneNumberValidator.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventCheck.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventCheck.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventCheck.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventCheck.cs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventCheck.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventCheck.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventHandler.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventHandler.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventHandler.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventHandler.cs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventHandler.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventHandler.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextInfoDebugTool.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextInfoDebugTool.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextInfoDebugTool.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextInfoDebugTool.cs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextInfoDebugTool.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextInfoDebugTool.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_A.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_A.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_A.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_A.cs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_A.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_A.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_B.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_B.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_B.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_B.cs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_B.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_B.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_UiFrameRateCounter.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_UiFrameRateCounter.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_UiFrameRateCounter.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_UiFrameRateCounter.cs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_UiFrameRateCounter.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_UiFrameRateCounter.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMPro_InstructionOverlay.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\TMPro_InstructionOverlay.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMPro_InstructionOverlay.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\TMPro_InstructionOverlay.cs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\TMPro_InstructionOverlay.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\TMPro_InstructionOverlay.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexColorCycler.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexColorCycler.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexColorCycler.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexColorCycler.cs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexColorCycler.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexColorCycler.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexJitter.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexJitter.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexJitter.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexJitter.cs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexJitter.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexJitter.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeA.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeA.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeA.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeA.cs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeA.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeA.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeB.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeB.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeB.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeB.cs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeB.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeB.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexZoom.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexZoom.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexZoom.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexZoom.cs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexZoom.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\VertexZoom.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\WarpTextExample.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\WarpTextExample.cs
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\WarpTextExample.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Scripts\WarpTextExample.cs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Scripts\WarpTextExample.cs.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Scripts\WarpTextExample.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Sprites.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Sprites.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Sprites.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Sprites\Default Sprites.png
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Sprites\Default
+      Sprites.png
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Sprites\Default Sprites.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Sprites\Default Sprites.png.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Sprites\Default
+      Sprites.png.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Sprites\Default Sprites.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Sprites\DropCap Numbers.psd
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Sprites\DropCap
+      Numbers.psd
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Sprites\DropCap Numbers.psd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Sprites\DropCap Numbers.psd.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Sprites\DropCap
+      Numbers.psd.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Sprites\DropCap Numbers.psd.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Textures.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Brushed Metal 3.jpg
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Textures\Brushed
+      Metal 3.jpg
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Brushed Metal 3.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Brushed Metal 3.jpg.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Textures\Brushed
+      Metal 3.jpg.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Brushed Metal 3.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Floor Cement.jpg
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Textures\Floor
+      Cement.jpg
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Floor Cement.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Floor Cement.jpg.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Textures\Floor
+      Cement.jpg.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Floor Cement.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Floor Tiles 1 - diffuse.jpg
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Textures\Floor
+      Tiles 1 - diffuse.jpg
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Floor Tiles 1 - diffuse.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Floor Tiles 1 - diffuse.jpg.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Textures\Floor
+      Tiles 1 - diffuse.jpg.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Floor Tiles 1 - diffuse.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Fruit Jelly (B&W).jpg
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Textures\Fruit
+      Jelly (B&W).jpg
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Fruit Jelly (B&W).jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Fruit Jelly (B&W).jpg.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Textures\Fruit
+      Jelly (B&W).jpg.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Fruit Jelly (B&W).jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Diagonal (Color).jpg
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Textures\Gradient
+      Diagonal (Color).jpg
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Diagonal
+      (Color).jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Diagonal (Color).jpg.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Textures\Gradient
+      Diagonal (Color).jpg.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Diagonal
+      (Color).jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Horizontal (Color).jpg
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Textures\Gradient
+      Horizontal (Color).jpg
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Horizontal
+      (Color).jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Horizontal (Color).jpg.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Textures\Gradient
+      Horizontal (Color).jpg.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Horizontal
+      (Color).jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Vertical (Color).jpg
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Textures\Gradient
+      Vertical (Color).jpg
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Vertical
+      (Color).jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Vertical (Color).jpg.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Textures\Gradient
+      Vertical (Color).jpg.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Vertical
+      (Color).jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Mask Zig-n-Zag.psd
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Textures\Mask
+      Zig-n-Zag.psd
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Mask Zig-n-Zag.psd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Mask Zig-n-Zag.psd.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Textures\Mask
+      Zig-n-Zag.psd.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Mask Zig-n-Zag.psd.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Small Crate_diffuse.jpg
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Textures\Small
+      Crate_diffuse.jpg
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Small Crate_diffuse.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Small Crate_diffuse.jpg.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Textures\Small
+      Crate_diffuse.jpg.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Small Crate_diffuse.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Small Crate_normal.jpg
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Textures\Small
+      Crate_normal.jpg
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Small Crate_normal.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Small Crate_normal.jpg.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Textures\Small
+      Crate_normal.jpg.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Small Crate_normal.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Sunny Days - Seamless.jpg
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Textures\Sunny
+      Days - Seamless.jpg
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Sunny Days - Seamless.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Sunny Days - Seamless.jpg.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Textures\Sunny
+      Days - Seamless.jpg.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Sunny Days - Seamless.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Text Overflow - Linked Text
+      Image 1.png
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Textures\Text
+      Overflow - Linked Text Image 1.png
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Text Overflow - Linked
+      Text Image 1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Text Overflow - Linked Text
+      Image 1.png.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Textures\Text
+      Overflow - Linked Text Image 1.png.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Text Overflow - Linked
+      Text Image 1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Text Overflow - Linked Text
+      UI Screenshot.png
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Textures\Text
+      Overflow - Linked Text UI Screenshot.png
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Text Overflow - Linked
+      Text UI Screenshot.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Text Overflow - Linked Text
+      UI Screenshot.png.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Textures\Text
+      Overflow - Linked Text UI Screenshot.png.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Text Overflow - Linked
+      Text UI Screenshot.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Circle.psd
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Textures\Wipe
+      Pattern - Circle.psd
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Circle.psd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Circle.psd.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Textures\Wipe
+      Pattern - Circle.psd.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Circle.psd.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Diagonal.psd
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Textures\Wipe
+      Pattern - Diagonal.psd
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Diagonal.psd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Diagonal.psd.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Textures\Wipe
+      Pattern - Diagonal.psd.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Diagonal.psd.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Radial Double.psd
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Textures\Wipe
+      Pattern - Radial Double.psd
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Radial
+      Double.psd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Radial Double.psd.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Textures\Wipe
+      Pattern - Radial Double.psd.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Radial
+      Double.psd.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Radial Quad.psd
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Textures\Wipe
+      Pattern - Radial Quad.psd
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Radial
+      Quad.psd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Radial Quad.psd.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Textures\Wipe
+      Pattern - Radial Quad.psd.meta
+    projectPath: Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Radial
+      Quad.psd.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Fonts.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Fonts.meta
+    projectPath: Assets\TextMesh Pro\Fonts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Fonts\LiberationSans
+      - OFL.txt
+    projectPath: Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Fonts\LiberationSans
+      - OFL.txt.meta
+    projectPath: Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Fonts\LiberationSans.ttf
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Fonts\LiberationSans.ttf
+    projectPath: Assets\TextMesh Pro\Fonts\LiberationSans.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Fonts\LiberationSans.ttf.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Fonts\LiberationSans.ttf.meta
+    projectPath: Assets\TextMesh Pro\Fonts\LiberationSans.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources.meta
+    projectPath: Assets\TextMesh Pro\Resources.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Fonts & Materials.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Fonts & Materials.meta
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Drop
+      Shadow.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+      SDF - Drop Shadow.mat
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
+      - Drop Shadow.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Drop
+      Shadow.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+      SDF - Drop Shadow.mat.meta
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
+      - Drop Shadow.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Fallback.asset
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+      SDF - Fallback.asset
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
+      - Fallback.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Fallback.asset.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+      SDF - Fallback.asset.meta
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
+      - Fallback.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Outline.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+      SDF - Outline.mat
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
+      - Outline.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Outline.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+      SDF - Outline.mat.meta
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
+      - Outline.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+      SDF.asset
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+      SDF.asset.meta
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\LineBreaking
+      Following Characters.txt
+    projectPath: Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\LineBreaking
+      Following Characters.txt.meta
+    projectPath: Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\LineBreaking
+      Leading Characters.txt
+    projectPath: Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\LineBreaking
+      Leading Characters.txt.meta
+    projectPath: Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Shaders.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Shaders.meta
+    projectPath: Assets\TextMesh Pro\Resources\Shaders.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader
+    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader.meta
+    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader
+    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader.meta
+    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader
+    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader.meta
+    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF
+      Overlay.shader
+    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF
+      Overlay.shader.meta
+    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader
+    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader.meta
+    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile
+      Masking.shader
+    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile
+      Masking.shader.meta
+    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile
+      Overlay.shader
+    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile
+      Overlay.shader.meta
+    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader
+    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader.meta
+    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader
+    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader.meta
+    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader
+    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader.meta
+    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader
+    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader.meta
+    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc
+    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc.meta
+    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc
+    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc.meta
+    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc
+    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc.meta
+    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Sprite Assets.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Sprite Assets.meta
+    projectPath: Assets\TextMesh Pro\Resources\Sprite Assets.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset
+    projectPath: Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset.meta
+    projectPath: Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Style Sheets.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Style Sheets.meta
+    projectPath: Assets\TextMesh Pro\Resources\Style Sheets.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Style Sheets\Default
+      Style Sheet.asset
+    projectPath: Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Style Sheets\Default
+      Style Sheet.asset.meta
+    projectPath: Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\TMP Settings.asset
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\TMP Settings.asset
+    projectPath: Assets\TextMesh Pro\Resources\TMP Settings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\TMP Settings.asset.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\TMP Settings.asset.meta
+    projectPath: Assets\TextMesh Pro\Resources\TMP Settings.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Sprites.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Sprites.meta
+    projectPath: Assets\TextMesh Pro\Sprites.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt
+    projectPath: Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt.meta
+    projectPath: Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Sprites\EmojiOne.json
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Sprites\EmojiOne.json
+    projectPath: Assets\TextMesh Pro\Sprites\EmojiOne.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Sprites\EmojiOne.json.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Sprites\EmojiOne.json.meta
+    projectPath: Assets\TextMesh Pro\Sprites\EmojiOne.json.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Sprites\EmojiOne.png
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Sprites\EmojiOne.png
+    projectPath: Assets\TextMesh Pro\Sprites\EmojiOne.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Sprites\EmojiOne.png.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Sprites\EmojiOne.png.meta
+    projectPath: Assets\TextMesh Pro\Sprites\EmojiOne.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\APIUpdater\project-dependencies.graph
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\assetDatabase3
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\CurrentMaximizeLayout.dwlt
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\EditorInstance.json
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\EditorUserBuildSettings.asset
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\EditorUserBuildSettings.asset
+    projectPath: Library\EditorUserBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\LastBuild.buildreport
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\LastBuild.buildreport
+    projectPath: Library\LastBuild.buildreport
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\SceneVisibilityState.asset
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.dll
+    projectPath: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.dll
+    projectPath: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.dll
+    projectPath: Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Oculus.VR.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Oculus.VR.dll
+    projectPath: Library\ScriptAssemblies\Oculus.VR.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Oculus.VR.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Oculus.VR.Editor.dll
+    projectPath: Library\ScriptAssemblies\Oculus.VR.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Oculus.VR.Scripts.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Oculus.VR.Scripts.Editor.dll
+    projectPath: Library\ScriptAssemblies\Oculus.VR.Scripts.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptMapper
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptMapper
+    projectPath: Library\ScriptMapper
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe10.log
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe10.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe10.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\shadercompiler-UnityShaderCompiler.exe11.log
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe11.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe11.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe4.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe5.log
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe5.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe6.log
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe6.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe7.log
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe7.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe7.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe8.log
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe8.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe8.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\shadercompiler-UnityShaderCompiler.exe9.log
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe9.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe9.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\StateCache\Hierarchy\10bd1b-mainStage.json
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\StateCache\Hierarchy\10bd1b-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\10bd1b-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\SceneView\b6d77a-mainStage.json
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\StateCache\SceneView\b6d77a-mainStage.json
+    projectPath: Library\StateCache\SceneView\b6d77a-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: D:\CSCI538\Rush-Diving-src\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\GraphicsSettings.asset
+    fullPath: D:\CSCI538\Rush-Diving-src\ProjectSettings\GraphicsSettings.asset
+    projectPath: ProjectSettings\GraphicsSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\ProjectSettings.asset
+    fullPath: D:\CSCI538\Rush-Diving-src\ProjectSettings\ProjectSettings.asset
+    projectPath: ProjectSettings\ProjectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\ProjectVersion.txt
+    fullPath: D:\CSCI538\Rush-Diving-src\ProjectSettings\ProjectVersion.txt
+    projectPath: ProjectSettings\ProjectVersion.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
