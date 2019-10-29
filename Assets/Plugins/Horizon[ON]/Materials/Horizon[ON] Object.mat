@@ -111,7 +111,7 @@ Material:
     - _LocalSpace: 0
     - _Normalmaps: 1
     - _OverlayFog: 1
-    - _OverlayFogAmount: 0
+    - _OverlayFogAmount: 0.67
     - _OverlayFogAmountFromReflCubemap: 0
     - _OverlayFogDistance2Height: 10
     - _OverlayFogDistanceTransition: 3000

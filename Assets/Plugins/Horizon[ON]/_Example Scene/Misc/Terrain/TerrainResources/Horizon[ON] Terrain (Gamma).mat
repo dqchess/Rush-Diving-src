@@ -4,8 +4,9 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: Horizon[ON] Terrain (Gamma)
   m_Shader: {fileID: 4800000, guid: 46a2a7156e150694eaaf7b78c74ff117, type: 3}
   m_ShaderKeywords: _CLIFFDETAIL_COLOR _DETAIL_ON _DIRECTSPEC_OFF _EMISSIVENESS_OFF
@@ -136,7 +137,7 @@ Material:
     - _LocalSpace: 0
     - _Normalmaps: 1
     - _OverlayFog: 1
-    - _OverlayFogAmount: 0
+    - _OverlayFogAmount: 0.67
     - _OverlayFogAmountFromReflCubemap: 0
     - _OverlayFogDistance2Height: 10
     - _OverlayFogDistanceTransition: 3000
