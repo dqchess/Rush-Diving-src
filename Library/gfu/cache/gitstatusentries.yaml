@@ -13,51 +13,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-10-30T01:04:46.034-07:00
-  initializedAtString: 2019-10-30T00:16:41.318-07:00
+  lastUpdatedAtString: 2019-10-30T12:21:35.192-07:00
+  initializedAtString: 2019-10-30T12:16:48.350-07:00
   entries:
-  - path: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] Object.mat
-    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Horizon[ON]
-      Object.mat
-    projectPath: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] Object.mat
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] TransitionSky.mat
-    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Horizon[ON]
-      TransitionSky.mat
-    projectPath: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] TransitionSky.mat
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] TransitionTerrain.mat
-    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Horizon[ON]
-      TransitionTerrain.mat
-    projectPath: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] TransitionTerrain.mat
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Assets\Scenes\Game.unity
     fullPath: D:\CSCI538\Rush-Diving-src\Assets\Scenes\Game.unity
     projectPath: Assets\Scenes\Game.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\CreateMonster.cs
-    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Scripts\CreateMonster.cs
-    projectPath: Assets\Scripts\CreateMonster.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\CreateMonster.cs.meta
-    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Scripts\CreateMonster.cs.meta
-    projectPath: Assets\Scripts\CreateMonster.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\CreateRock.cs
-    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Scripts\CreateRock.cs
-    projectPath: Assets\Scripts\CreateRock.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -67,18 +28,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scripts\MonsterBehaviour.cs
-    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Scripts\MonsterBehaviour.cs
-    projectPath: Assets\Scripts\MonsterBehaviour.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\MonsterBehaviour.cs.meta
-    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Scripts\MonsterBehaviour.cs.meta
-    projectPath: Assets\Scripts\MonsterBehaviour.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\assetDatabase3
     fullPath: D:\CSCI538\Rush-Diving-src\Library\assetDatabase3
     projectPath: Library\assetDatabase3
@@ -91,9 +40,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gitlocks.yaml
     fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -112,12 +73,6 @@ MonoBehaviour:
   - path: Library\gfu\cache\repoinfo.yaml
     fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\InspectorExpandedItems.asset
-    fullPath: D:\CSCI538\Rush-Diving-src\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -148,6 +103,12 @@ MonoBehaviour:
   - path: Library\StateCache\SceneView\b6d77a-mainStage.json
     fullPath: D:\CSCI538\Rush-Diving-src\Library\StateCache\SceneView\b6d77a-mainStage.json
     projectPath: Library\StateCache\SceneView\b6d77a-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\TimeManager.asset
+    fullPath: D:\CSCI538\Rush-Diving-src\ProjectSettings\TimeManager.asset
+    projectPath: ProjectSettings\TimeManager.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

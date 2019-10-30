@@ -6,10 +6,12 @@ public class DiverControl : MonoBehaviour
 {
     //private CharacterController controller;
     // Start is called before the first frame update
+    public GameObject leftHand;
+    public GameObject rightHand;
+
     Vector3 originalAngle = new Vector3(-1, 0, 0);
     private float baseSpeed = 100.0f;
     private float rotSpeedX = 20.0f;
-
     private float leanCount = 0f;
     public float maxLean = 200f;
 
@@ -24,6 +26,34 @@ public class DiverControl : MonoBehaviour
         Vector3 moveVector = transform.forward * baseSpeed;
 
         Vector3 inputs = OVRInput.Get(OVRInput.Axis2D.PrimaryThumbstick);
+
+        float heightDiff = leftHand.transform.position.y - rightHand.transform.position.y;
+        float stableTh = 0.1f;
+        float strength = 10f;
+
+        if (heightDiff > 0)
+        {
+            heightDiff /= 1.5f;
+        }
+
+        if (heightDiff <= stableTh && heightDiff >= -stableTh)
+        {
+            inputs.x = 0;
+        }
+        else if (heightDiff > 0)
+        {
+            inputs.x = (heightDiff - stableTh) * strength;
+        }
+        else
+        {
+            inputs.x = (heightDiff + stableTh) * strength;
+        }
+
+        if (!PauseMenu.GameIsPaused)
+        {
+            Debug.Log(inputs.x);
+        }
+
 
         Vector3 yaw = inputs.x * transform.right * rotSpeedX * Time.deltaTime;
         Vector3 dir = yaw;
