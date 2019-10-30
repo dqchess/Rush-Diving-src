@@ -11,7 +11,7 @@ public class DiverControl : MonoBehaviour
     private float rotSpeedX = 20.0f;
 
     private float leanCount = 0f;
-    private float maxLean = 200f;
+    public float maxLean = 200f;
 
     void Start()
     {
@@ -62,5 +62,7 @@ public class DiverControl : MonoBehaviour
         }
 
         transform.Rotate(new Vector3(0, 0, -leanCount * 0.1f));
+        //Debug.Log(transform.rotation.y);
+        //transform.rotation = Quaternion.Euler(0, transform.rotation.y*360, -leanCount * 0.1f);
     }
 }

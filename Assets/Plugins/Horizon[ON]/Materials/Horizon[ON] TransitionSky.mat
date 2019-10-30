@@ -294,7 +294,7 @@ Material:
     - _WaterGloss: 0.875
     - _WaterSpecularity: 1
     - _WaterWaveSpeed: 1.5
-    - _WaterWaves: 0.25
+    - _WaterWaves: 0.36
     - _X: 1
     - _Z: 1
     - _node_1235: 0.03
