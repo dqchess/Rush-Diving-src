@@ -12,8 +12,8 @@ public class CreateRock : MonoBehaviour
     void Start()
     {
         time = 0;
-        rock.AddComponent<RockBehavior>();
-        rock.AddComponent<SphereCollider>();
+        //rock.AddComponent<RockBehavior>();
+        //rock.AddComponent<SphereCollider>();
         //rock.AddComponent<Rigidbody>();
         SphereCollider sc = rock.GetComponent<SphereCollider>();
         sc.isTrigger = true;
@@ -37,10 +37,10 @@ public class CreateRock : MonoBehaviour
                 for (int i = 0; i < count; i++)
                 {
                     Vector3 target = new Vector3(vec.x - Random.Range(280, 380), vec.y + Random.Range(-170, 170), Random.Range(-220, 220));
-                    rock.AddComponent<RockBehavior>();
-                    rock.AddComponent<SphereCollider>();
+                    //rock.AddComponent<RockBehavior>();
+                    //rock.AddComponent<SphereCollider>();
                     SphereCollider sc = rock.GetComponent<SphereCollider>();
-                    sc.radius = 100;
+                    sc.radius = 12;
                     sc.isTrigger = true;
                     RockBehavior.speed = Random.Range(0, 3);
                     GameObject go = Instantiate(rock, target, Quaternion.identity) as GameObject;

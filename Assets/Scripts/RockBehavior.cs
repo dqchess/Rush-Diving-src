@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class RockBehavior : MonoBehaviour
 {
@@ -21,6 +22,14 @@ public class RockBehavior : MonoBehaviour
 
     public void OnTriggerEnter(Collider other)
     {
-        print("COLLIDING");
+        Debug.Log("COLLIDING");
+        Debug.Log(other.name);
+        if(other.name == "Player")
+        {
+            Debug.Log("You die.");
+            //Time.timeScale = 0f;
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
+        }
+        
     }
 }

@@ -13,9 +13,144 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-10-29T19:11:50.352-07:00
-  initializedAtString: 2019-10-29T19:11:50.352-07:00
+  lastUpdatedAtString: 2019-10-29T23:08:30.990-07:00
+  initializedAtString: 2019-10-29T22:07:04.304-07:00
   log:
+  - commitID: 9b563c280e7a5f6334bad2e678e6bee12e24b7c1
+    mergeA: 
+    mergeB: 
+    authorName: shenyi
+    authorEmail: shenyi.nanjing@gmail.com
+    commitEmail: shenyi.nanjing@gmail.com
+    commitName: shenyi
+    summary: Add Pause Menu
+    description: 
+    timeString: 2019-10-29T19:42:48.000-07:00
+    commitTimeString: 2019-10-29T19:42:48.000-07:00
+    changes:
+    - path: Assets\Scenes\Game.unity
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Scenes\Game.unity
+      projectPath: Assets\Scenes\Game.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\PauseMenu.cs
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Scripts\PauseMenu.cs
+      projectPath: Assets\Scripts\PauseMenu.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\PauseMenu.cs.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Scripts\PauseMenu.cs.meta
+      projectPath: Assets\Scripts\PauseMenu.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+        SDF.asset
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials\Bangers SDF.asset
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+        SDF.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SceneVisibilityState.asset
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\SceneVisibilityState.asset
+      projectPath: Library\SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\b6d77a-mainStage.json
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\StateCache\SceneView\b6d77a-mainStage.json
+      projectPath: Library\StateCache\SceneView\b6d77a-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\assetDatabase3
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\expandedItems
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe1.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe2.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 6ec900861300940cb3bee2d402d6ad254b450127
     mergeA: 
     mergeB: 

@@ -13,33 +13,525 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-10-29T19:42:26.868-07:00
-  initializedAtString: 2019-10-29T19:10:38.670-07:00
+  lastUpdatedAtString: 2019-10-30T00:05:37.976-07:00
+  initializedAtString: 2019-10-29T23:59:00.612-07:00
   entries:
+  - path: Assets\Nokobot.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot.meta
+    projectPath: Assets\Nokobot.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Demo Assets.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Demo Assets.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Demo Assets.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Demo Assets\Handgun_M1911.controller
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Demo Assets\Handgun_M1911.controller
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Demo Assets\Handgun_M1911.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Demo Assets\Handgun_M1911.controller.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Demo Assets\Handgun_M1911.controller.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Demo Assets\Handgun_M1911.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Demo Assets\Handguns Post.asset
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Demo Assets\Handguns
+      Post.asset
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Demo Assets\Handguns Post.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Demo Assets\Handguns Post.asset.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Demo Assets\Handguns
+      Post.asset.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Demo Assets\Handguns Post.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Demo Assets\Shoot_Animation.anim
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Demo Assets\Shoot_Animation.anim
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Demo Assets\Shoot_Animation.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Demo Assets\Shoot_Animation.anim.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Demo Assets\Shoot_Animation.anim.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Demo Assets\Shoot_Animation.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Demo Assets\SimpleShoot.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Demo Assets\SimpleShoot.cs
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Demo Assets\SimpleShoot.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Demo Assets\SimpleShoot.cs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Demo Assets\SimpleShoot.cs.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Demo Assets\SimpleShoot.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\DisplayScene.unity
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\DisplayScene.unity
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\DisplayScene.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\DisplayScene.unity.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\DisplayScene.unity.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\DisplayScene.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Effects.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Effects.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Effects.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Effects\MuzzleFlash.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Effects\MuzzleFlash.mat
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Effects\MuzzleFlash.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Effects\MuzzleFlash.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Effects\MuzzleFlash.mat.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Effects\MuzzleFlash.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Effects\MuzzleFlash.prefab
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Effects\MuzzleFlash.prefab
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Effects\MuzzleFlash.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Effects\MuzzleFlash.prefab.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Effects\MuzzleFlash.prefab.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Effects\MuzzleFlash.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Effects\MuzzleFlash_SpriteSheet.png
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Effects\MuzzleFlash_SpriteSheet.png
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Effects\MuzzleFlash_SpriteSheet.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Effects\MuzzleFlash_SpriteSheet.png.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Effects\MuzzleFlash_SpriteSheet.png.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Effects\MuzzleFlash_SpriteSheet.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Materials.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Materials.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Materials\Bullet_45mm.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Materials\Bullet_45mm.mat
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Materials\Bullet_45mm.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Materials\Bullet_45mm.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Materials\Bullet_45mm.mat.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Materials\Bullet_45mm.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Materials\Handgun_M1911_Black.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Materials\Handgun_M1911_Black.mat
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Materials\Handgun_M1911_Black.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Materials\Handgun_M1911_Black.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Materials\Handgun_M1911_Black.mat.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Materials\Handgun_M1911_Black.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Materials\Handgun_M1911_Steel.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Materials\Handgun_M1911_Steel.mat
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Materials\Handgun_M1911_Steel.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Materials\Handgun_M1911_Steel.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Materials\Handgun_M1911_Steel.mat.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Materials\Handgun_M1911_Steel.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Materials\Magazines.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Materials\Magazines.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Materials\Magazines.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Materials\Magazines\M1911A_Magazine_Black.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Materials\Magazines\M1911A_Magazine_Black.mat
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Materials\Magazines\M1911A_Magazine_Black.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Materials\Magazines\M1911A_Magazine_Black.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Materials\Magazines\M1911A_Magazine_Black.mat.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Materials\Magazines\M1911A_Magazine_Black.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Materials\Magazines\M1911A_Magazine_Steel.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Materials\Magazines\M1911A_Magazine_Steel.mat
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Materials\Magazines\M1911A_Magazine_Steel.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Materials\Magazines\M1911A_Magazine_Steel.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Materials\Magazines\M1911A_Magazine_Steel.mat.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Materials\Magazines\M1911A_Magazine_Steel.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Models.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Models.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Models.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Models\Bullet_45mm.FBX
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Models\Bullet_45mm.FBX
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Models\Bullet_45mm.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Models\Bullet_45mm.FBX.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Models\Bullet_45mm.FBX.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Models\Bullet_45mm.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Models\Handgun_M1911A.FBX
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Models\Handgun_M1911A.FBX
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Models\Handgun_M1911A.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Models\Handgun_M1911A.FBX.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Models\Handgun_M1911A.FBX.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Models\Handgun_M1911A.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Models\M1911A_Magazine.FBX
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Models\M1911A_Magazine.FBX
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Models\M1911A_Magazine.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Models\M1911A_Magazine.FBX.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Models\M1911A_Magazine.FBX.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Models\M1911A_Magazine.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Prefabs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Prefabs.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Prefabs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Prefabs\Active Guns.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Prefabs\Active
+      Guns.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Prefabs\Active Guns.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Prefabs\Active Guns\Handgun_M1911A_Black
+      (WithScript).prefab
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Prefabs\Active
+      Guns\Handgun_M1911A_Black (WithScript).prefab
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Prefabs\Active Guns\Handgun_M1911A_Black
+      (WithScript).prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Prefabs\Active Guns\Handgun_M1911A_Black
+      (WithScript).prefab.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Prefabs\Active
+      Guns\Handgun_M1911A_Black (WithScript).prefab.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Prefabs\Active Guns\Handgun_M1911A_Black
+      (WithScript).prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Prefabs\Active Guns\Handgun_M1911A_Steel
+      (WithScript).prefab
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Prefabs\Active
+      Guns\Handgun_M1911A_Steel (WithScript).prefab
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Prefabs\Active Guns\Handgun_M1911A_Steel
+      (WithScript).prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Prefabs\Active Guns\Handgun_M1911A_Steel
+      (WithScript).prefab.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Prefabs\Active
+      Guns\Handgun_M1911A_Steel (WithScript).prefab.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Prefabs\Active Guns\Handgun_M1911A_Steel
+      (WithScript).prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Prefabs\Bullet_45mm_Bullet.prefab
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Prefabs\Bullet_45mm_Bullet.prefab
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Prefabs\Bullet_45mm_Bullet.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Prefabs\Bullet_45mm_Bullet.prefab.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Prefabs\Bullet_45mm_Bullet.prefab.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Prefabs\Bullet_45mm_Bullet.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Prefabs\Bullet_45mm_Casing.prefab
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Prefabs\Bullet_45mm_Casing.prefab
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Prefabs\Bullet_45mm_Casing.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Prefabs\Bullet_45mm_Casing.prefab.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Prefabs\Bullet_45mm_Casing.prefab.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Prefabs\Bullet_45mm_Casing.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Prefabs\Bullet_45mm_Full.prefab
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Prefabs\Bullet_45mm_Full.prefab
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Prefabs\Bullet_45mm_Full.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Prefabs\Bullet_45mm_Full.prefab.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Prefabs\Bullet_45mm_Full.prefab.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Prefabs\Bullet_45mm_Full.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Prefabs\Handgun_M1911A_Black.prefab
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Prefabs\Handgun_M1911A_Black.prefab
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Prefabs\Handgun_M1911A_Black.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Prefabs\Handgun_M1911A_Black.prefab.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Prefabs\Handgun_M1911A_Black.prefab.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Prefabs\Handgun_M1911A_Black.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Prefabs\Handgun_M1911A_Steel.prefab
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Prefabs\Handgun_M1911A_Steel.prefab
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Prefabs\Handgun_M1911A_Steel.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Prefabs\Handgun_M1911A_Steel.prefab.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Prefabs\Handgun_M1911A_Steel.prefab.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Prefabs\Handgun_M1911A_Steel.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Prefabs\M1911A_Magazine_Black.prefab
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Prefabs\M1911A_Magazine_Black.prefab
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Prefabs\M1911A_Magazine_Black.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Prefabs\M1911A_Magazine_Black.prefab.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Prefabs\M1911A_Magazine_Black.prefab.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Prefabs\M1911A_Magazine_Black.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Prefabs\M1911A_Magazine_Steel.prefab
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Prefabs\M1911A_Magazine_Steel.prefab
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Prefabs\M1911A_Magazine_Steel.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Prefabs\M1911A_Magazine_Steel.prefab.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Prefabs\M1911A_Magazine_Steel.prefab.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Prefabs\M1911A_Magazine_Steel.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Textures.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Textures.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Textures.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Textures\45mm_AlbedoTransparency.png
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Textures\45mm_AlbedoTransparency.png
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Textures\45mm_AlbedoTransparency.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Textures\45mm_AlbedoTransparency.png.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Textures\45mm_AlbedoTransparency.png.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Textures\45mm_AlbedoTransparency.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Textures\45mm_Normal.png
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Textures\45mm_Normal.png
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Textures\45mm_Normal.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Textures\45mm_Normal.png.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Textures\45mm_Normal.png.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Textures\45mm_Normal.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Textures\M1911_AlbedoTransparency_Black.png
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Textures\M1911_AlbedoTransparency_Black.png
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Textures\M1911_AlbedoTransparency_Black.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Textures\M1911_AlbedoTransparency_Black.png.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Textures\M1911_AlbedoTransparency_Black.png.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Textures\M1911_AlbedoTransparency_Black.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Textures\M1911_AlbedoTransparency_Steel.png
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Textures\M1911_AlbedoTransparency_Steel.png
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Textures\M1911_AlbedoTransparency_Steel.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Textures\M1911_AlbedoTransparency_Steel.png.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Textures\M1911_AlbedoTransparency_Steel.png.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Textures\M1911_AlbedoTransparency_Steel.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Textures\M1911_MetallicSmoothness.png
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Textures\M1911_MetallicSmoothness.png
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Textures\M1911_MetallicSmoothness.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Textures\M1911_MetallicSmoothness.png.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Textures\M1911_MetallicSmoothness.png.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Textures\M1911_MetallicSmoothness.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Textures\M1911_Normal.png
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Textures\M1911_Normal.png
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Textures\M1911_Normal.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Textures\M1911_Normal.png.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Textures\M1911_Normal.png.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Textures\M1911_Normal.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Textures\Magazines.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Textures\Magazines.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Textures\Magazines.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Textures\Magazines\M1911A_Magazine_AlbedoTransparency_Black.png
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Textures\Magazines\M1911A_Magazine_AlbedoTransparency_Black.png
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Textures\Magazines\M1911A_Magazine_AlbedoTransparency_Black.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Textures\Magazines\M1911A_Magazine_AlbedoTransparency_Black.png.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Textures\Magazines\M1911A_Magazine_AlbedoTransparency_Black.png.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Textures\Magazines\M1911A_Magazine_AlbedoTransparency_Black.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Textures\Magazines\M1911A_Magazine_AlbedoTransparency_Steel.png
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Textures\Magazines\M1911A_Magazine_AlbedoTransparency_Steel.png
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Textures\Magazines\M1911A_Magazine_AlbedoTransparency_Steel.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Textures\Magazines\M1911A_Magazine_AlbedoTransparency_Steel.png.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Textures\Magazines\M1911A_Magazine_AlbedoTransparency_Steel.png.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Textures\Magazines\M1911A_Magazine_AlbedoTransparency_Steel.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Textures\Magazines\M1911A_Magazine_MetallicSmoothness.png
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Textures\Magazines\M1911A_Magazine_MetallicSmoothness.png
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Textures\Magazines\M1911A_Magazine_MetallicSmoothness.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Textures\Magazines\M1911A_Magazine_MetallicSmoothness.png.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Textures\Magazines\M1911A_Magazine_MetallicSmoothness.png.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Textures\Magazines\M1911A_Magazine_MetallicSmoothness.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Textures\Magazines\M1911A_Magazine_Normal.png
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Textures\Magazines\M1911A_Magazine_Normal.png
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Textures\Magazines\M1911A_Magazine_Normal.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Nokobot\ModernGuns_Handgun\Textures\Magazines\M1911A_Magazine_Normal.png.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Nokobot\ModernGuns_Handgun\Textures\Magazines\M1911A_Magazine_Normal.png.meta
+    projectPath: Assets\Nokobot\ModernGuns_Handgun\Textures\Magazines\M1911A_Magazine_Normal.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Scenes\Game.unity
     fullPath: D:\CSCI538\Rush-Diving-src\Assets\Scenes\Game.unity
     projectPath: Assets\Scenes\Game.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scripts\PauseMenu.cs
-    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Scripts\PauseMenu.cs
-    projectPath: Assets\Scripts\PauseMenu.cs
+  - path: Assets\Scripts\CreateRock.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Scripts\CreateRock.cs
+    projectPath: Assets\Scripts\CreateRock.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\PauseMenu.cs.meta
-    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Scripts\PauseMenu.cs.meta
-    projectPath: Assets\Scripts\PauseMenu.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
-      SDF.asset
-    fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
-      & Materials\Bangers SDF.asset
-    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
-      SDF.asset
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\RockBehavior.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Scripts\RockBehavior.cs
+    projectPath: Assets\Scripts\RockBehavior.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -49,12 +541,18 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\CrashedAssetImports.txt
-    fullPath: D:\CSCI538\Rush-Diving-src\Library\CrashedAssetImports.txt
-    projectPath: Library\CrashedAssetImports.txt
+  - path: Library\CurrentLayout-default.dwlt
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\CurrentMaximizeLayout.dwlt
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\EditorInstance.json
     fullPath: D:\CSCI538\Rush-Diving-src\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
@@ -97,9 +595,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\SceneVisibilityState.asset
-    fullPath: D:\CSCI538\Rush-Diving-src\Library\SceneVisibilityState.asset
-    projectPath: Library\SceneVisibilityState.asset
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\LastSceneManagerSetup.txt
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\LastSceneManagerSetup.txt
+    projectPath: Library\LastSceneManagerSetup.txt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -112,6 +616,168 @@ MonoBehaviour:
   - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
     fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.dll
+    projectPath: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.dll
+    projectPath: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.dll
+    projectPath: Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Oculus.VR.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Oculus.VR.dll
+    projectPath: Library\ScriptAssemblies\Oculus.VR.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Oculus.VR.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Oculus.VR.Editor.dll
+    projectPath: Library\ScriptAssemblies\Oculus.VR.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Oculus.VR.Scripts.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Oculus.VR.Scripts.Editor.dll
+    projectPath: Library\ScriptAssemblies\Oculus.VR.Scripts.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -130,6 +796,18 @@ MonoBehaviour:
   - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
     fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe2.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe4.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
