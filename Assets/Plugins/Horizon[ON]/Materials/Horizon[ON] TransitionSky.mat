@@ -256,7 +256,7 @@ Material:
     - _Noralmaps: 0
     - _Normalmaps: 1
     - _OverlayFog: 1
-    - _OverlayFogAmount: 0.67
+    - _OverlayFogAmount: 0.26
     - _OverlayFogAmountFromReflCubemap: 0
     - _OverlayFogAmountLowSun: 1
     - _OverlayFogAmountScattering: 3.375
@@ -294,7 +294,7 @@ Material:
     - _WaterGloss: 0.875
     - _WaterSpecularity: 1
     - _WaterWaveSpeed: 1.5
-    - _WaterWaves: 0.25
+    - _WaterWaves: 0.36
     - _X: 1
     - _Z: 1
     - _node_1235: 0.03
