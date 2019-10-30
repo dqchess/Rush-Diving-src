@@ -13,9 +13,3849 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-10-29T18:21:03.551-07:00
-  initializedAtString: 2019-10-29T18:10:57.703-07:00
+  lastUpdatedAtString: 2019-10-29T19:11:50.352-07:00
+  initializedAtString: 2019-10-29T19:11:50.352-07:00
   log:
+  - commitID: 6ec900861300940cb3bee2d402d6ad254b450127
+    mergeA: 
+    mergeB: 
+    authorName: shenyi
+    authorEmail: shenyi.nanjing@gmail.com
+    commitEmail: shenyi.nanjing@gmail.com
+    commitName: shenyi
+    summary: Update Room
+    description: 
+    timeString: 2019-10-29T19:05:10.000-07:00
+    commitTimeString: 2019-10-29T19:05:10.000-07:00
+    changes:
+    - path: Assets\Animation.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Animation.meta
+      projectPath: Assets\Animation.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\MainMenu.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Animation\MainMenu.meta
+      projectPath: Assets\Animation\MainMenu.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\MainMenu\Closed.anim
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Animation\MainMenu\Closed.anim
+      projectPath: Assets\Animation\MainMenu\Closed.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\MainMenu\Closed.anim.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Animation\MainMenu\Closed.anim.meta
+      projectPath: Assets\Animation\MainMenu\Closed.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\MainMenu\MainMenu.controller
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Animation\MainMenu\MainMenu.controller
+      projectPath: Assets\Animation\MainMenu\MainMenu.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\MainMenu\MainMenu.controller.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Animation\MainMenu\MainMenu.controller.meta
+      projectPath: Assets\Animation\MainMenu\MainMenu.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\MainMenu\Open.anim
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Animation\MainMenu\Open.anim
+      projectPath: Assets\Animation\MainMenu\Open.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\MainMenu\Open.anim.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Animation\MainMenu\Open.anim.meta
+      projectPath: Assets\Animation\MainMenu\Open.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Panel.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Animation\Panel.meta
+      projectPath: Assets\Animation\Panel.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Panel\Closed.anim
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Animation\Panel\Closed.anim
+      projectPath: Assets\Animation\Panel\Closed.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Panel\Closed.anim.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Animation\Panel\Closed.anim.meta
+      projectPath: Assets\Animation\Panel\Closed.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Panel\Closing.anim
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Animation\Panel\Closing.anim
+      projectPath: Assets\Animation\Panel\Closing.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Panel\Closing.anim.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Animation\Panel\Closing.anim.meta
+      projectPath: Assets\Animation\Panel\Closing.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Panel\Open.anim
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Animation\Panel\Open.anim
+      projectPath: Assets\Animation\Panel\Open.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Panel\Open.anim.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Animation\Panel\Open.anim.meta
+      projectPath: Assets\Animation\Panel\Open.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Panel\Panel.controller
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Animation\Panel\Panel.controller
+      projectPath: Assets\Animation\Panel\Panel.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Panel\Panel.controller.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Animation\Panel\Panel.controller.meta
+      projectPath: Assets\Animation\Panel\Panel.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Rotation.anim
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Animation\Rotation.anim
+      projectPath: Assets\Animation\Rotation.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Rotation.anim.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Animation\Rotation.anim.meta
+      projectPath: Assets\Animation\Rotation.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\SF Button.controller
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Animation\SF Button.controller
+      projectPath: Assets\Animation\SF Button.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\SF Button.controller.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Animation\SF Button.controller.meta
+      projectPath: Assets\Animation\SF Button.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Settings.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Animation\Settings.meta
+      projectPath: Assets\Animation\Settings.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Settings\Closed.anim
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Animation\Settings\Closed.anim
+      projectPath: Assets\Animation\Settings\Closed.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Settings\Closed.anim.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Animation\Settings\Closed.anim.meta
+      projectPath: Assets\Animation\Settings\Closed.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Settings\Open.anim
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Animation\Settings\Open.anim
+      projectPath: Assets\Animation\Settings\Open.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Settings\Open.anim.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Animation\Settings\Open.anim.meta
+      projectPath: Assets\Animation\Settings\Open.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Settings\SettingsMenu.controller
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Animation\Settings\SettingsMenu.controller
+      projectPath: Assets\Animation\Settings\SettingsMenu.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animation\Settings\SettingsMenu.controller.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Animation\Settings\SettingsMenu.controller.meta
+      projectPath: Assets\Animation\Settings\SettingsMenu.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free.meta
+      projectPath: Assets\Fantasy Wooden GUI  Free.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\Scene.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\Scene.meta
+      projectPath: Assets\Fantasy Wooden GUI  Free\Scene.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\Scene\Demo.unity
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\Scene\Demo.unity
+      projectPath: Assets\Fantasy Wooden GUI  Free\Scene\Demo.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\Scene\Demo.unity.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\Scene\Demo.unity.meta
+      projectPath: Assets\Fantasy Wooden GUI  Free\Scene\Demo.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A.meta
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\1_normal_ui_set free.psd
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\1_normal_ui_set free.psd
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\1_normal_ui_set
+        free.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\1_normal_ui_set free.psd.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\1_normal_ui_set free.psd.meta
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\1_normal_ui_set
+        free.psd.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\1_normal_ui_set-free.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\1_normal_ui_set-free.png
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\1_normal_ui_set-free.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\1_normal_ui_set-free.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\1_normal_ui_set-free.png.meta
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\1_normal_ui_set-free.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\Close Button.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\Close Button.png
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\Close Button.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\Close Button.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\Close Button.png.meta
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\Close Button.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\Division line.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\Division line.png
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\Division line.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\Division line.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\Division line.png.meta
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\Division line.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\Exclamation_Gray.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\Exclamation_Gray.png
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\Exclamation_Gray.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\Exclamation_Gray.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\Exclamation_Gray.png.meta
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\Exclamation_Gray.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\Exclamation_Red.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\Exclamation_Red.png
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\Exclamation_Red.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\Exclamation_Red.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\Exclamation_Red.png.meta
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\Exclamation_Red.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\Exclamation_Yellow.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\Exclamation_Yellow.png
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\Exclamation_Yellow.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\Exclamation_Yellow.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\Exclamation_Yellow.png.meta
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\Exclamation_Yellow.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\IRONY TITLE  Large.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\IRONY TITLE  Large.png
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\IRONY TITLE  Large.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\IRONY TITLE  Large.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\IRONY TITLE  Large.png.meta
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\IRONY TITLE  Large.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\IRONY TITLE  empty.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\IRONY TITLE  empty.png
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\IRONY TITLE  empty.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\IRONY TITLE  empty.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\IRONY TITLE  empty.png.meta
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\IRONY TITLE  empty.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\TextBTN_Big.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\TextBTN_Big.png
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\TextBTN_Big.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\TextBTN_Big.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\TextBTN_Big.png.meta
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\TextBTN_Big.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\TextBTN_Big_Pressed.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\TextBTN_Big_Pressed.png
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\TextBTN_Big_Pressed.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\TextBTN_Big_Pressed.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\TextBTN_Big_Pressed.png.meta
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\TextBTN_Big_Pressed.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\TextBTN_Cancel.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\TextBTN_Cancel.png
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\TextBTN_Cancel.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\TextBTN_Cancel.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\TextBTN_Cancel.png.meta
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\TextBTN_Cancel.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\TextBTN_Cancel_Pressed.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\TextBTN_Cancel_Pressed.png
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\TextBTN_Cancel_Pressed.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\TextBTN_Cancel_Pressed.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\TextBTN_Cancel_Pressed.png.meta
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\TextBTN_Cancel_Pressed.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\TextBTN_Medium.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\TextBTN_Medium.png
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\TextBTN_Medium.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\TextBTN_Medium.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\TextBTN_Medium.png.meta
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\TextBTN_Medium.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\TextBTN_Medium_Pressed.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\TextBTN_Medium_Pressed.png
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\TextBTN_Medium_Pressed.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\TextBTN_Medium_Pressed.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\TextBTN_Medium_Pressed.png.meta
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\TextBTN_Medium_Pressed.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\TextBTN_New-Start.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\TextBTN_New-Start.png
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\TextBTN_New-Start.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\TextBTN_New-Start.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\TextBTN_New-Start.png.meta
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\TextBTN_New-Start.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\TextBTN_New-Start_Pressed.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\TextBTN_New-Start_Pressed.png
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\TextBTN_New-Start_Pressed.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\TextBTN_New-Start_Pressed.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\TextBTN_New-Start_Pressed.png.meta
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\TextBTN_New-Start_Pressed.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\UI board Large  parchment.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\UI board Large  parchment.png
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\UI board Large  parchment.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\UI board Large  parchment.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\UI board Large  parchment.png.meta
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\UI board Large  parchment.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\UI board Large Set.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\UI board Large Set.png
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\UI board Large
+        Set.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\UI board Large Set.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\UI board Large Set.png.meta
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\UI board Large
+        Set.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\UI board Large stone.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\UI board Large stone.png
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\UI board Large
+        stone.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\UI board Large stone.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\UI board Large stone.png.meta
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\UI board Large
+        stone.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\UI board Medium  parchment.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\UI board Medium  parchment.png
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\UI board Medium  parchment.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\UI board Medium  parchment.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\UI board Medium  parchment.png.meta
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\UI board Medium  parchment.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\UI board Medium Set.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\UI board Medium Set.png
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\UI board Medium
+        Set.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\UI board Medium Set.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\UI board Medium Set.png.meta
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\UI board Medium
+        Set.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\UI board Medium stone.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\UI board Medium stone.png
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\UI board Medium
+        stone.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\UI board Medium stone.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\UI board Medium stone.png.meta
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\UI board Medium
+        stone.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\UI board Small  parchment.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\UI board Small  parchment.png
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\UI board Small  parchment.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\UI board Small  parchment.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\UI board Small  parchment.png.meta
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\UI board Small  parchment.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\UI board Small  stone.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\UI board Small  stone.png
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\UI board Small  stone.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\UI board Small  stone.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\UI board Small  stone.png.meta
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\UI board Small  stone.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\UI board Small Set.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\UI board Small Set.png
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\UI board Small
+        Set.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\UI board Small Set.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\UI board Small Set.png.meta
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\UI board Small
+        Set.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\notice.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\notice.png
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\notice.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\notice.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fantasy Wooden GUI  Free\normal_ui_set
+        A\notice.png.meta
+      projectPath: Assets\Fantasy Wooden GUI  Free\normal_ui_set A\notice.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fonts.meta
+      projectPath: Assets\Fonts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\Jupiter.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fonts\Jupiter.meta
+      projectPath: Assets\Fonts\Jupiter.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\Jupiter\Jupiter.ttf
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fonts\Jupiter\Jupiter.ttf
+      projectPath: Assets\Fonts\Jupiter\Jupiter.ttf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\Jupiter\Jupiter.ttf.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fonts\Jupiter\Jupiter.ttf.meta
+      projectPath: Assets\Fonts\Jupiter\Jupiter.ttf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\Jupiter\LICENSE.txt
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fonts\Jupiter\LICENSE.txt
+      projectPath: Assets\Fonts\Jupiter\LICENSE.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\Jupiter\LICENSE.txt.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Fonts\Jupiter\LICENSE.txt.meta
+      projectPath: Assets\Fonts\Jupiter\LICENSE.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Materials.meta
+      projectPath: Assets\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Slider Background.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Materials\Slider Background.mat
+      projectPath: Assets\Materials\Slider Background.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Slider Background.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Materials\Slider Background.mat.meta
+      projectPath: Assets\Materials\Slider Background.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Slider Fill.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Materials\Slider Fill.mat
+      projectPath: Assets\Materials\Slider Fill.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Slider Fill.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Materials\Slider Fill.mat.meta
+      projectPath: Assets\Materials\Slider Fill.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Slider Knob.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Materials\Slider Knob.mat
+      projectPath: Assets\Materials\Slider Knob.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Slider Knob.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Materials\Slider Knob.mat.meta
+      projectPath: Assets\Materials\Slider Knob.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\UI Opaque.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Materials\UI Opaque.mat
+      projectPath: Assets\Materials\UI Opaque.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\UI Opaque.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Materials\UI Opaque.mat.meta
+      projectPath: Assets\Materials\UI Opaque.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\UI-Default-No-Alpha.shader
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Materials\UI-Default-No-Alpha.shader
+      projectPath: Assets\Materials\UI-Default-No-Alpha.shader
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\UI-Default-No-Alpha.shader.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Materials\UI-Default-No-Alpha.shader.meta
+      projectPath: Assets\Materials\UI-Default-No-Alpha.shader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Window.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Materials\Window.mat
+      projectPath: Assets\Materials\Window.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Window.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Materials\Window.mat.meta
+      projectPath: Assets\Materials\Window.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Models.meta
+      projectPath: Assets\Models.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Materials.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Models\Materials.meta
+      projectPath: Assets\Models\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Materials\vehicle_rcFlyer_dome_mat.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Models\Materials\vehicle_rcFlyer_dome_mat.mat
+      projectPath: Assets\Models\Materials\vehicle_rcFlyer_dome_mat.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Materials\vehicle_rcFlyer_dome_mat.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Models\Materials\vehicle_rcFlyer_dome_mat.mat.meta
+      projectPath: Assets\Models\Materials\vehicle_rcFlyer_dome_mat.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Materials\vehicle_rcFlyer_metal_mat.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Models\Materials\vehicle_rcFlyer_metal_mat.mat
+      projectPath: Assets\Models\Materials\vehicle_rcFlyer_metal_mat.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Materials\vehicle_rcFlyer_metal_mat.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Models\Materials\vehicle_rcFlyer_metal_mat.mat.meta
+      projectPath: Assets\Models\Materials\vehicle_rcFlyer_metal_mat.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Materials\vehicle_rcLand_clean_dome_mat.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Models\Materials\vehicle_rcLand_clean_dome_mat.mat
+      projectPath: Assets\Models\Materials\vehicle_rcLand_clean_dome_mat.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Materials\vehicle_rcLand_clean_dome_mat.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Models\Materials\vehicle_rcLand_clean_dome_mat.mat.meta
+      projectPath: Assets\Models\Materials\vehicle_rcLand_clean_dome_mat.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Textures.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Models\Textures.meta
+      projectPath: Assets\Models\Textures.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Textures\vehicle_rcFlyer_dff.tif
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Models\Textures\vehicle_rcFlyer_dff.tif
+      projectPath: Assets\Models\Textures\vehicle_rcFlyer_dff.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Textures\vehicle_rcFlyer_dff.tif.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Models\Textures\vehicle_rcFlyer_dff.tif.meta
+      projectPath: Assets\Models\Textures\vehicle_rcFlyer_dff.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Textures\vehicle_rcFlyer_nrm.tif
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Models\Textures\vehicle_rcFlyer_nrm.tif
+      projectPath: Assets\Models\Textures\vehicle_rcFlyer_nrm.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\Textures\vehicle_rcFlyer_nrm.tif.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Models\Textures\vehicle_rcFlyer_nrm.tif.meta
+      projectPath: Assets\Models\Textures\vehicle_rcFlyer_nrm.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\vehicle_rcFlyer_clean.fbx
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Models\vehicle_rcFlyer_clean.fbx
+      projectPath: Assets\Models\vehicle_rcFlyer_clean.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Models\vehicle_rcFlyer_clean.fbx.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Models\vehicle_rcFlyer_clean.fbx.meta
+      projectPath: Assets\Models\vehicle_rcFlyer_clean.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Oculus\SampleFramework\Usage\DistanceGrab\Materials\Ball10WithOutline.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Oculus\SampleFramework\Usage\DistanceGrab\Materials\Ball10WithOutline.mat
+      projectPath: Assets\Oculus\SampleFramework\Usage\DistanceGrab\Materials\Ball10WithOutline.mat
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] Cliff.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Horizon[ON]
+        Cliff.mat
+      projectPath: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] Cliff.mat
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] Displacement.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Horizon[ON]
+        Displacement.mat
+      projectPath: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] Displacement.mat
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] Flat.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Horizon[ON]
+        Flat.mat
+      projectPath: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] Flat.mat
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] Object.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Horizon[ON]
+        Object.mat
+      projectPath: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] Object.mat
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] TransitionSky.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Horizon[ON]
+        TransitionSky.mat
+      projectPath: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] TransitionSky.mat
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] TransitionTerrain.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Horizon[ON]
+        TransitionTerrain.mat
+      projectPath: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] TransitionTerrain.mat
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Plugins\Horizon[ON]\Materials\Material Variations (Gamma _ Mobile)\Horizon[ON]
+        Buildings (Gamma).mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Material
+        Variations (Gamma _ Mobile)\Horizon[ON] Buildings (Gamma).mat
+      projectPath: Assets\Plugins\Horizon[ON]\Materials\Material Variations (Gamma
+        _ Mobile)\Horizon[ON] Buildings (Gamma).mat
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Plugins\Horizon[ON]\Materials\Material Variations (Gamma _ Mobile)\Horizon[ON]
+        Mountains (Gamma).mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Material
+        Variations (Gamma _ Mobile)\Horizon[ON] Mountains (Gamma).mat
+      projectPath: Assets\Plugins\Horizon[ON]\Materials\Material Variations (Gamma
+        _ Mobile)\Horizon[ON] Mountains (Gamma).mat
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Plugins\Horizon[ON]\Materials\Material Variations (Gamma _ Mobile)\Horizon[ON]
+        Trees (Gamma).mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Material
+        Variations (Gamma _ Mobile)\Horizon[ON] Trees (Gamma).mat
+      projectPath: Assets\Plugins\Horizon[ON]\Materials\Material Variations (Gamma
+        _ Mobile)\Horizon[ON] Trees (Gamma).mat
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Plugins\Horizon[ON]\_Example Scene\Misc\Terrain\TerrainResources\Horizon[ON]
+        Terrain (Gamma).mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\_Example Scene\Misc\Terrain\TerrainResources\Horizon[ON]
+        Terrain (Gamma).mat
+      projectPath: Assets\Plugins\Horizon[ON]\_Example Scene\Misc\Terrain\TerrainResources\Horizon[ON]
+        Terrain (Gamma).mat
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Prefabs.meta
+      projectPath: Assets\Prefabs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\SF Button.prefab
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Prefabs\SF Button.prefab
+      projectPath: Assets\Prefabs\SF Button.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\SF Button.prefab.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Prefabs\SF Button.prefab.meta
+      projectPath: Assets\Prefabs\SF Button.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\SF Grid Button.prefab
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Prefabs\SF Grid Button.prefab
+      projectPath: Assets\Prefabs\SF Grid Button.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\SF Grid Button.prefab.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Prefabs\SF Grid Button.prefab.meta
+      projectPath: Assets\Prefabs\SF Grid Button.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\SF Scene Elements.prefab
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Prefabs\SF Scene Elements.prefab
+      projectPath: Assets\Prefabs\SF Scene Elements.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\SF Scene Elements.prefab.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Prefabs\SF Scene Elements.prefab.meta
+      projectPath: Assets\Prefabs\SF Scene Elements.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\SF Slider.prefab
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Prefabs\SF Slider.prefab
+      projectPath: Assets\Prefabs\SF Slider.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\SF Slider.prefab.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Prefabs\SF Slider.prefab.meta
+      projectPath: Assets\Prefabs\SF Slider.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\SF Title.prefab
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Prefabs\SF Title.prefab
+      projectPath: Assets\Prefabs\SF Title.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\SF Title.prefab.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Prefabs\SF Title.prefab.meta
+      projectPath: Assets\Prefabs\SF Title.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\SF Toggle.prefab
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Prefabs\SF Toggle.prefab
+      projectPath: Assets\Prefabs\SF Toggle.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\SF Toggle.prefab.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Prefabs\SF Toggle.prefab.meta
+      projectPath: Assets\Prefabs\SF Toggle.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Slider Lit.prefab
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Prefabs\Slider Lit.prefab
+      projectPath: Assets\Prefabs\Slider Lit.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Slider Lit.prefab.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Prefabs\Slider Lit.prefab.meta
+      projectPath: Assets\Prefabs\Slider Lit.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Rock\mesh\Materials\02 - Default.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Rock\mesh\Materials\02 - Default.mat
+      projectPath: Assets\Rock\mesh\Materials\02 - Default.mat
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Room.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room.meta
+      projectPath: Assets\Room.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\Materials.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\Materials.meta
+      projectPath: Assets\Room\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\Materials\Cb.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\Materials\Cb.mat
+      projectPath: Assets\Room\Materials\Cb.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\Materials\Cb.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\Materials\Cb.mat.meta
+      projectPath: Assets\Room\Materials\Cb.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\Materials\Concrete wall smooth pillar texture.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\Materials\Concrete wall smooth
+        pillar texture.mat
+      projectPath: Assets\Room\Materials\Concrete wall smooth pillar texture.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\Materials\Concrete wall smooth pillar texture.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\Materials\Concrete wall smooth
+        pillar texture.mat.meta
+      projectPath: Assets\Room\Materials\Concrete wall smooth pillar texture.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\Materials\New Material.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\Materials\New Material.mat
+      projectPath: Assets\Room\Materials\New Material.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\Materials\New Material.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\Materials\New Material.mat.meta
+      projectPath: Assets\Room\Materials\New Material.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\Materials\TexturesCom_WoodFine0003_seamless_S.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\Materials\TexturesCom_WoodFine0003_seamless_S.mat
+      projectPath: Assets\Room\Materials\TexturesCom_WoodFine0003_seamless_S.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\Materials\TexturesCom_WoodFine0003_seamless_S.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\Materials\TexturesCom_WoodFine0003_seamless_S.mat.meta
+      projectPath: Assets\Room\Materials\TexturesCom_WoodFine0003_seamless_S.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\Materials\door texture 2.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\Materials\door texture 2.mat
+      projectPath: Assets\Room\Materials\door texture 2.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\Materials\door texture 2.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\Materials\door texture 2.mat.meta
+      projectPath: Assets\Room\Materials\door texture 2.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\Materials\door texture 3.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\Materials\door texture 3.mat
+      projectPath: Assets\Room\Materials\door texture 3.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\Materials\door texture 3.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\Materials\door texture 3.mat.meta
+      projectPath: Assets\Room\Materials\door texture 3.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\Materials\door texture 4.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\Materials\door texture 4.mat
+      projectPath: Assets\Room\Materials\door texture 4.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\Materials\door texture 4.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\Materials\door texture 4.mat.meta
+      projectPath: Assets\Room\Materials\door texture 4.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\Materials\door.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\Materials\door.mat
+      projectPath: Assets\Room\Materials\door.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\Materials\door.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\Materials\door.mat.meta
+      projectPath: Assets\Room\Materials\door.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\Materials\emesive.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\Materials\emesive.mat
+      projectPath: Assets\Room\Materials\emesive.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\Materials\emesive.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\Materials\emesive.mat.meta
+      projectPath: Assets\Room\Materials\emesive.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\Materials\marble_1_basecolor.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\Materials\marble_1_basecolor.mat
+      projectPath: Assets\Room\Materials\marble_1_basecolor.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\Materials\marble_1_basecolor.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\Materials\marble_1_basecolor.mat.meta
+      projectPath: Assets\Room\Materials\marble_1_basecolor.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\Materials\the book texture.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\Materials\the book texture.mat
+      projectPath: Assets\Room\Materials\the book texture.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\Materials\the book texture.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\Materials\the book texture.mat.meta
+      projectPath: Assets\Room\Materials\the book texture.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\Materials\the chandelier hand.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\Materials\the chandelier hand.mat
+      projectPath: Assets\Room\Materials\the chandelier hand.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\Materials\the chandelier hand.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\Materials\the chandelier hand.mat.meta
+      projectPath: Assets\Room\Materials\the chandelier hand.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\Materials\the chandelier.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\Materials\the chandelier.mat
+      projectPath: Assets\Room\Materials\the chandelier.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\Materials\the chandelier.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\Materials\the chandelier.mat.meta
+      projectPath: Assets\Room\Materials\the chandelier.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\Settings.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\Settings.meta
+      projectPath: Assets\Room\Settings.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\Settings\Note.txt
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\Settings\Note.txt
+      projectPath: Assets\Room\Settings\Note.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\Settings\Note.txt.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\Settings\Note.txt.meta
+      projectPath: Assets\Room\Settings\Note.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\Settings\post proscessing 1.PNG
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\Settings\post proscessing 1.PNG
+      projectPath: Assets\Room\Settings\post proscessing 1.PNG
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\Settings\post proscessing 1.PNG.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\Settings\post proscessing 1.PNG.meta
+      projectPath: Assets\Room\Settings\post proscessing 1.PNG.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\Settings\post proscessing 2.PNG
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\Settings\post proscessing 2.PNG
+      projectPath: Assets\Room\Settings\post proscessing 2.PNG
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\Settings\post proscessing 2.PNG.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\Settings\post proscessing 2.PNG.meta
+      projectPath: Assets\Room\Settings\post proscessing 2.PNG.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\Settings\post proscessing 3.PNG
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\Settings\post proscessing 3.PNG
+      projectPath: Assets\Room\Settings\post proscessing 3.PNG
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\Settings\post proscessing 3.PNG.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\Settings\post proscessing 3.PNG.meta
+      projectPath: Assets\Room\Settings\post proscessing 3.PNG.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\Settings\setting screenshot 1.PNG
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\Settings\setting screenshot
+        1.PNG
+      projectPath: Assets\Room\Settings\setting screenshot 1.PNG
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\Settings\setting screenshot 1.PNG.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\Settings\setting screenshot
+        1.PNG.meta
+      projectPath: Assets\Room\Settings\setting screenshot 1.PNG.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models.meta
+      projectPath: Assets\Room\models.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\CHs0.fbx
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\CHs0.fbx
+      projectPath: Assets\Room\models\CHs0.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\CHs0.fbx.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\CHs0.fbx.meta
+      projectPath: Assets\Room\models\CHs0.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials.meta
+      projectPath: Assets\Room\models\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\A01.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\A01.mat
+      projectPath: Assets\Room\models\Materials\A01.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\A01.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\A01.mat.meta
+      projectPath: Assets\Room\models\Materials\A01.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\Material.045.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\Material.045.mat
+      projectPath: Assets\Room\models\Materials\Material.045.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\Material.045.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\Material.045.mat.meta
+      projectPath: Assets\Room\models\Materials\Material.045.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\black_painted_metal.001.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\black_painted_metal.001.mat
+      projectPath: Assets\Room\models\Materials\black_painted_metal.001.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\black_painted_metal.001.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\black_painted_metal.001.mat.meta
+      projectPath: Assets\Room\models\Materials\black_painted_metal.001.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\black_painted_metal.018.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\black_painted_metal.018.mat
+      projectPath: Assets\Room\models\Materials\black_painted_metal.018.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\black_painted_metal.018.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\black_painted_metal.018.mat.meta
+      projectPath: Assets\Room\models\Materials\black_painted_metal.018.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\book.001.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\book.001.mat
+      projectPath: Assets\Room\models\Materials\book.001.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\book.001.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\book.001.mat.meta
+      projectPath: Assets\Room\models\Materials\book.001.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\book.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\book.mat
+      projectPath: Assets\Room\models\Materials\book.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\book.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\book.mat.meta
+      projectPath: Assets\Room\models\Materials\book.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\bookcasewood.000.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\bookcasewood.000.mat
+      projectPath: Assets\Room\models\Materials\bookcasewood.000.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\bookcasewood.000.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\bookcasewood.000.mat.meta
+      projectPath: Assets\Room\models\Materials\bookcasewood.000.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\bookcasewood.002.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\bookcasewood.002.mat
+      projectPath: Assets\Room\models\Materials\bookcasewood.002.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\bookcasewood.002.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\bookcasewood.002.mat.meta
+      projectPath: Assets\Room\models\Materials\bookcasewood.002.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\bookcasewood.007.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\bookcasewood.007.mat
+      projectPath: Assets\Room\models\Materials\bookcasewood.007.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\bookcasewood.007.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\bookcasewood.007.mat.meta
+      projectPath: Assets\Room\models\Materials\bookcasewood.007.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\booksonthecase.000.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\booksonthecase.000.mat
+      projectPath: Assets\Room\models\Materials\booksonthecase.000.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\booksonthecase.000.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\booksonthecase.000.mat.meta
+      projectPath: Assets\Room\models\Materials\booksonthecase.000.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\booksonthecase.002.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\booksonthecase.002.mat
+      projectPath: Assets\Room\models\Materials\booksonthecase.002.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\booksonthecase.002.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\booksonthecase.002.mat.meta
+      projectPath: Assets\Room\models\Materials\booksonthecase.002.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\booksonthecase.013.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\booksonthecase.013.mat
+      projectPath: Assets\Room\models\Materials\booksonthecase.013.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\booksonthecase.013.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\booksonthecase.013.mat.meta
+      projectPath: Assets\Room\models\Materials\booksonthecase.013.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\border.000.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\border.000.mat
+      projectPath: Assets\Room\models\Materials\border.000.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\border.000.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\border.000.mat.meta
+      projectPath: Assets\Room\models\Materials\border.000.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\border.001.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\border.001.mat
+      projectPath: Assets\Room\models\Materials\border.001.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\border.001.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\border.001.mat.meta
+      projectPath: Assets\Room\models\Materials\border.001.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\candel_yelosh.001.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\candel_yelosh.001.mat
+      projectPath: Assets\Room\models\Materials\candel_yelosh.001.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\candel_yelosh.001.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\candel_yelosh.001.mat.meta
+      projectPath: Assets\Room\models\Materials\candel_yelosh.001.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\candel_yelosh.018.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\candel_yelosh.018.mat
+      projectPath: Assets\Room\models\Materials\candel_yelosh.018.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\candel_yelosh.018.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\candel_yelosh.018.mat.meta
+      projectPath: Assets\Room\models\Materials\candel_yelosh.018.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\door.000.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\door.000.mat
+      projectPath: Assets\Room\models\Materials\door.000.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\door.000.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\door.000.mat.meta
+      projectPath: Assets\Room\models\Materials\door.000.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\door.002.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\door.002.mat
+      projectPath: Assets\Room\models\Materials\door.002.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\door.002.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\door.002.mat.meta
+      projectPath: Assets\Room\models\Materials\door.002.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\fine_wood.018.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\fine_wood.018.mat
+      projectPath: Assets\Room\models\Materials\fine_wood.018.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\fine_wood.018.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\fine_wood.018.mat.meta
+      projectPath: Assets\Room\models\Materials\fine_wood.018.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\glass.000.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\glass.000.mat
+      projectPath: Assets\Room\models\Materials\glass.000.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\glass.000.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\glass.000.mat.meta
+      projectPath: Assets\Room\models\Materials\glass.000.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\glass.001.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\glass.001.mat
+      projectPath: Assets\Room\models\Materials\glass.001.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\glass.001.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\glass.001.mat.meta
+      projectPath: Assets\Room\models\Materials\glass.001.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\ground tiles.000.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\ground tiles.000.mat
+      projectPath: Assets\Room\models\Materials\ground tiles.000.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\ground tiles.000.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\ground tiles.000.mat.meta
+      projectPath: Assets\Room\models\Materials\ground tiles.000.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\ground tiles.002.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\ground tiles.002.mat
+      projectPath: Assets\Room\models\Materials\ground tiles.002.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\ground tiles.002.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\ground tiles.002.mat.meta
+      projectPath: Assets\Room\models\Materials\ground tiles.002.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\pilers.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\pilers.mat
+      projectPath: Assets\Room\models\Materials\pilers.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\pilers.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\pilers.mat.meta
+      projectPath: Assets\Room\models\Materials\pilers.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\top_roof_wood.008.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\top_roof_wood.008.mat
+      projectPath: Assets\Room\models\Materials\top_roof_wood.008.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\top_roof_wood.008.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\top_roof_wood.008.mat.meta
+      projectPath: Assets\Room\models\Materials\top_roof_wood.008.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\wall_stone_brick.002.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\wall_stone_brick.002.mat
+      projectPath: Assets\Room\models\Materials\wall_stone_brick.002.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\wall_stone_brick.002.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\wall_stone_brick.002.mat.meta
+      projectPath: Assets\Room\models\Materials\wall_stone_brick.002.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\wood the tabel and chaer.000.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\wood the tabel
+        and chaer.000.mat
+      projectPath: Assets\Room\models\Materials\wood the tabel and chaer.000.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\wood the tabel and chaer.000.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\wood the tabel
+        and chaer.000.mat.meta
+      projectPath: Assets\Room\models\Materials\wood the tabel and chaer.000.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\wood the tabel and chaer.001.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\wood the tabel
+        and chaer.001.mat
+      projectPath: Assets\Room\models\Materials\wood the tabel and chaer.001.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\wood the tabel and chaer.001.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\wood the tabel
+        and chaer.001.mat.meta
+      projectPath: Assets\Room\models\Materials\wood the tabel and chaer.001.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\wood the tabel and chaer.008.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\wood the tabel
+        and chaer.008.mat
+      projectPath: Assets\Room\models\Materials\wood the tabel and chaer.008.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\wood the tabel and chaer.008.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\wood the tabel
+        and chaer.008.mat.meta
+      projectPath: Assets\Room\models\Materials\wood the tabel and chaer.008.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\wood the tabel and chaer.009.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\wood the tabel
+        and chaer.009.mat
+      projectPath: Assets\Room\models\Materials\wood the tabel and chaer.009.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\Materials\wood the tabel and chaer.009.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\Materials\wood the tabel
+        and chaer.009.mat.meta
+      projectPath: Assets\Room\models\Materials\wood the tabel and chaer.009.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\book.fbx
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\book.fbx
+      projectPath: Assets\Room\models\book.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\book.fbx.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\book.fbx.meta
+      projectPath: Assets\Room\models\book.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\bookcase 00.fbx
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\bookcase 00.fbx
+      projectPath: Assets\Room\models\bookcase 00.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\bookcase 00.fbx.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\bookcase 00.fbx.meta
+      projectPath: Assets\Room\models\bookcase 00.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\chair 00.fbx .fbx
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\chair 00.fbx .fbx
+      projectPath: Assets\Room\models\chair 00.fbx .fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\chair 00.fbx .fbx.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\chair 00.fbx .fbx.meta
+      projectPath: Assets\Room\models\chair 00.fbx .fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\chandiler.fbx
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\chandiler.fbx
+      projectPath: Assets\Room\models\chandiler.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\chandiler.fbx.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\chandiler.fbx.meta
+      projectPath: Assets\Room\models\chandiler.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\door 00.fbx .fbx
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\door 00.fbx .fbx
+      projectPath: Assets\Room\models\door 00.fbx .fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\door 00.fbx .fbx.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\door 00.fbx .fbx.meta
+      projectPath: Assets\Room\models\door 00.fbx .fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\fire.fbx
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\fire.fbx
+      projectPath: Assets\Room\models\fire.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\fire.fbx.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\fire.fbx.meta
+      projectPath: Assets\Room\models\fire.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\ground plane 00.fbx .fbx
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\ground plane 00.fbx
+        .fbx
+      projectPath: Assets\Room\models\ground plane 00.fbx .fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\ground plane 00.fbx .fbx.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\ground plane 00.fbx
+        .fbx.meta
+      projectPath: Assets\Room\models\ground plane 00.fbx .fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\pillars 00.fbx
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\pillars 00.fbx
+      projectPath: Assets\Room\models\pillars 00.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\pillars 00.fbx.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\pillars 00.fbx.meta
+      projectPath: Assets\Room\models\pillars 00.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\rooftop-00.fbx
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\rooftop-00.fbx
+      projectPath: Assets\Room\models\rooftop-00.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\rooftop-00.fbx.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\rooftop-00.fbx.meta
+      projectPath: Assets\Room\models\rooftop-00.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\table 00.fbx .fbx
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\table 00.fbx .fbx
+      projectPath: Assets\Room\models\table 00.fbx .fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\table 00.fbx .fbx.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\table 00.fbx .fbx.meta
+      projectPath: Assets\Room\models\table 00.fbx .fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\window 00.fbx .fbx
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\window 00.fbx .fbx
+      projectPath: Assets\Room\models\window 00.fbx .fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\models\window 00.fbx .fbx.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\models\window 00.fbx .fbx.meta
+      projectPath: Assets\Room\models\window 00.fbx .fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\prefabs.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\prefabs.meta
+      projectPath: Assets\Room\prefabs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\prefabs\CH0.prefab
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\prefabs\CH0.prefab
+      projectPath: Assets\Room\prefabs\CH0.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\prefabs\CH0.prefab.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\prefabs\CH0.prefab.meta
+      projectPath: Assets\Room\prefabs\CH0.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\prefabs\Full roof.prefab
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\prefabs\Full roof.prefab
+      projectPath: Assets\Room\prefabs\Full roof.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\prefabs\Full roof.prefab.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\prefabs\Full roof.prefab.meta
+      projectPath: Assets\Room\prefabs\Full roof.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\prefabs\Ground.prefab
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\prefabs\Ground.prefab
+      projectPath: Assets\Room\prefabs\Ground.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\prefabs\Ground.prefab.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\prefabs\Ground.prefab.meta
+      projectPath: Assets\Room\prefabs\Ground.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\prefabs\Window.prefab
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\prefabs\Window.prefab
+      projectPath: Assets\Room\prefabs\Window.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\prefabs\Window.prefab.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\prefabs\Window.prefab.meta
+      projectPath: Assets\Room\prefabs\Window.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\prefabs\book.prefab
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\prefabs\book.prefab
+      projectPath: Assets\Room\prefabs\book.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\prefabs\book.prefab.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\prefabs\book.prefab.meta
+      projectPath: Assets\Room\prefabs\book.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\prefabs\bookcase.prefab
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\prefabs\bookcase.prefab
+      projectPath: Assets\Room\prefabs\bookcase.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\prefabs\bookcase.prefab.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\prefabs\bookcase.prefab.meta
+      projectPath: Assets\Room\prefabs\bookcase.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\prefabs\candle.prefab
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\prefabs\candle.prefab
+      projectPath: Assets\Room\prefabs\candle.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\prefabs\candle.prefab.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\prefabs\candle.prefab.meta
+      projectPath: Assets\Room\prefabs\candle.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\prefabs\chair.prefab
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\prefabs\chair.prefab
+      projectPath: Assets\Room\prefabs\chair.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\prefabs\chair.prefab.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\prefabs\chair.prefab.meta
+      projectPath: Assets\Room\prefabs\chair.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\prefabs\chandiler.prefab
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\prefabs\chandiler.prefab
+      projectPath: Assets\Room\prefabs\chandiler.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\prefabs\chandiler.prefab.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\prefabs\chandiler.prefab.meta
+      projectPath: Assets\Room\prefabs\chandiler.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\prefabs\door.prefab
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\prefabs\door.prefab
+      projectPath: Assets\Room\prefabs\door.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\prefabs\door.prefab.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\prefabs\door.prefab.meta
+      projectPath: Assets\Room\prefabs\door.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\prefabs\fire.prefab
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\prefabs\fire.prefab
+      projectPath: Assets\Room\prefabs\fire.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\prefabs\fire.prefab.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\prefabs\fire.prefab.meta
+      projectPath: Assets\Room\prefabs\fire.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\prefabs\miain.prefab
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\prefabs\miain.prefab
+      projectPath: Assets\Room\prefabs\miain.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\prefabs\miain.prefab.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\prefabs\miain.prefab.meta
+      projectPath: Assets\Room\prefabs\miain.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\prefabs\pillers.prefab
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\prefabs\pillers.prefab
+      projectPath: Assets\Room\prefabs\pillers.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\prefabs\pillers.prefab.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\prefabs\pillers.prefab.meta
+      projectPath: Assets\Room\prefabs\pillers.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\prefabs\roof piece.prefab
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\prefabs\roof piece.prefab
+      projectPath: Assets\Room\prefabs\roof piece.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\prefabs\roof piece.prefab.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\prefabs\roof piece.prefab.meta
+      projectPath: Assets\Room\prefabs\roof piece.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\prefabs\tabel.prefab
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\prefabs\tabel.prefab
+      projectPath: Assets\Room\prefabs\tabel.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\prefabs\tabel.prefab.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\prefabs\tabel.prefab.meta
+      projectPath: Assets\Room\prefabs\tabel.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\prefabs\window00.prefab
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\prefabs\window00.prefab
+      projectPath: Assets\Room\prefabs\window00.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\prefabs\window00.prefab.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\prefabs\window00.prefab.meta
+      projectPath: Assets\Room\prefabs\window00.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\scenes.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\scenes.meta
+      projectPath: Assets\Room\scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\scenes\the last revelation.unity
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\scenes\the last revelation.unity
+      projectPath: Assets\Room\scenes\the last revelation.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\scenes\the last revelation.unity.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\scenes\the last revelation.unity.meta
+      projectPath: Assets\Room\scenes\the last revelation.unity.meta
+      originalPath: Assets\Scenes\SampleScene.unity.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\Room\textures.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures.meta
+      projectPath: Assets\Room\textures.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\Cb.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\Cb.png
+      projectPath: Assets\Room\textures\Cb.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\Cb.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\Cb.png.meta
+      projectPath: Assets\Room\textures\Cb.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\bookcase.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\bookcase.meta
+      projectPath: Assets\Room\textures\bookcase.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\bookcase\Materials.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\bookcase\Materials.meta
+      projectPath: Assets\Room\textures\bookcase\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\bookcase\Materials\book-case-9.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\bookcase\Materials\book-case-9.mat
+      projectPath: Assets\Room\textures\bookcase\Materials\book-case-9.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\bookcase\Materials\book-case-9.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\bookcase\Materials\book-case-9.mat.meta
+      projectPath: Assets\Room\textures\bookcase\Materials\book-case-9.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\bookcase\Materials\bookcasewood_Base_Color.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\bookcase\Materials\bookcasewood_Base_Color.mat
+      projectPath: Assets\Room\textures\bookcase\Materials\bookcasewood_Base_Color.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\bookcase\Materials\bookcasewood_Base_Color.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\bookcase\Materials\bookcasewood_Base_Color.mat.meta
+      projectPath: Assets\Room\textures\bookcase\Materials\bookcasewood_Base_Color.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\bookcase\New_Graph_normal.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\bookcase\New_Graph_normal.png
+      projectPath: Assets\Room\textures\bookcase\New_Graph_normal.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\bookcase\New_Graph_normal.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\bookcase\New_Graph_normal.png.meta
+      projectPath: Assets\Room\textures\bookcase\New_Graph_normal.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\bookcase\book-case-9.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\bookcase\book-case-9.png
+      projectPath: Assets\Room\textures\bookcase\book-case-9.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\bookcase\book-case-9.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\bookcase\book-case-9.png.meta
+      projectPath: Assets\Room\textures\bookcase\book-case-9.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\bookcase\bookcasewood_Base_Color.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\bookcase\bookcasewood_Base_Color.png
+      projectPath: Assets\Room\textures\bookcase\bookcasewood_Base_Color.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\bookcase\bookcasewood_Base_Color.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\bookcase\bookcasewood_Base_Color.png.meta
+      projectPath: Assets\Room\textures\bookcase\bookcasewood_Base_Color.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\bookcase\bookcasewood_Height.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\bookcase\bookcasewood_Height.png
+      projectPath: Assets\Room\textures\bookcase\bookcasewood_Height.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\bookcase\bookcasewood_Height.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\bookcase\bookcasewood_Height.png.meta
+      projectPath: Assets\Room\textures\bookcase\bookcasewood_Height.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\bookcase\bookcasewood_Metallic.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\bookcase\bookcasewood_Metallic.png
+      projectPath: Assets\Room\textures\bookcase\bookcasewood_Metallic.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\bookcase\bookcasewood_Metallic.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\bookcase\bookcasewood_Metallic.png.meta
+      projectPath: Assets\Room\textures\bookcase\bookcasewood_Metallic.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\bookcase\bookcasewood_Mixed_AO.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\bookcase\bookcasewood_Mixed_AO.png
+      projectPath: Assets\Room\textures\bookcase\bookcasewood_Mixed_AO.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\bookcase\bookcasewood_Mixed_AO.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\bookcase\bookcasewood_Mixed_AO.png.meta
+      projectPath: Assets\Room\textures\bookcase\bookcasewood_Mixed_AO.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\bookcase\bookcasewood_Normal.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\bookcase\bookcasewood_Normal.png
+      projectPath: Assets\Room\textures\bookcase\bookcasewood_Normal.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\bookcase\bookcasewood_Normal.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\bookcase\bookcasewood_Normal.png.meta
+      projectPath: Assets\Room\textures\bookcase\bookcasewood_Normal.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\bookcase\bookcasewood_Normal_DirectX.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\bookcase\bookcasewood_Normal_DirectX.png
+      projectPath: Assets\Room\textures\bookcase\bookcasewood_Normal_DirectX.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\bookcase\bookcasewood_Normal_DirectX.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\bookcase\bookcasewood_Normal_DirectX.png.meta
+      projectPath: Assets\Room\textures\bookcase\bookcasewood_Normal_DirectX.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\bookcase\bookcasewood_Roughness.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\bookcase\bookcasewood_Roughness.png
+      projectPath: Assets\Room\textures\bookcase\bookcasewood_Roughness.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\bookcase\bookcasewood_Roughness.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\bookcase\bookcasewood_Roughness.png.meta
+      projectPath: Assets\Room\textures\bookcase\bookcasewood_Roughness.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\chiar.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\chiar.meta
+      projectPath: Assets\Room\textures\chiar.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\chiar\Materials.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\chiar\Materials.meta
+      projectPath: Assets\Room\textures\chiar\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\chiar\Materials\wood the tabel and chaer.002_Base_Color.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\chiar\Materials\wood
+        the tabel and chaer.002_Base_Color.mat
+      projectPath: Assets\Room\textures\chiar\Materials\wood the tabel and chaer.002_Base_Color.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\chiar\Materials\wood the tabel and chaer.002_Base_Color.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\chiar\Materials\wood
+        the tabel and chaer.002_Base_Color.mat.meta
+      projectPath: Assets\Room\textures\chiar\Materials\wood the tabel and chaer.002_Base_Color.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\chiar\Materials\wood the tabel and chaer.002_Metallic.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\chiar\Materials\wood
+        the tabel and chaer.002_Metallic.mat
+      projectPath: Assets\Room\textures\chiar\Materials\wood the tabel and chaer.002_Metallic.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\chiar\Materials\wood the tabel and chaer.002_Metallic.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\chiar\Materials\wood
+        the tabel and chaer.002_Metallic.mat.meta
+      projectPath: Assets\Room\textures\chiar\Materials\wood the tabel and chaer.002_Metallic.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\chiar\Materials\wood the tabel and chaer.002_Normal_DirectX
+        1.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\chiar\Materials\wood
+        the tabel and chaer.002_Normal_DirectX 1.mat
+      projectPath: Assets\Room\textures\chiar\Materials\wood the tabel and chaer.002_Normal_DirectX
+        1.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\chiar\Materials\wood the tabel and chaer.002_Normal_DirectX
+        1.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\chiar\Materials\wood
+        the tabel and chaer.002_Normal_DirectX 1.mat.meta
+      projectPath: Assets\Room\textures\chiar\Materials\wood the tabel and chaer.002_Normal_DirectX
+        1.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\chiar\Materials\wood the tabel and chaer.002_Normal_DirectX.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\chiar\Materials\wood
+        the tabel and chaer.002_Normal_DirectX.mat
+      projectPath: Assets\Room\textures\chiar\Materials\wood the tabel and chaer.002_Normal_DirectX.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\chiar\Materials\wood the tabel and chaer.002_Normal_DirectX.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\chiar\Materials\wood
+        the tabel and chaer.002_Normal_DirectX.mat.meta
+      projectPath: Assets\Room\textures\chiar\Materials\wood the tabel and chaer.002_Normal_DirectX.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\chiar\Materials\wood the tabel and chaer.002_Roughness.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\chiar\Materials\wood
+        the tabel and chaer.002_Roughness.mat
+      projectPath: Assets\Room\textures\chiar\Materials\wood the tabel and chaer.002_Roughness.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\chiar\Materials\wood the tabel and chaer.002_Roughness.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\chiar\Materials\wood
+        the tabel and chaer.002_Roughness.mat.meta
+      projectPath: Assets\Room\textures\chiar\Materials\wood the tabel and chaer.002_Roughness.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\chiar\wood the tabel and chaer.002_Base_Color.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\chiar\wood the tabel
+        and chaer.002_Base_Color.png
+      projectPath: Assets\Room\textures\chiar\wood the tabel and chaer.002_Base_Color.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\chiar\wood the tabel and chaer.002_Base_Color.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\chiar\wood the tabel
+        and chaer.002_Base_Color.png.meta
+      projectPath: Assets\Room\textures\chiar\wood the tabel and chaer.002_Base_Color.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\chiar\wood the tabel and chaer.002_Height.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\chiar\wood the tabel
+        and chaer.002_Height.png
+      projectPath: Assets\Room\textures\chiar\wood the tabel and chaer.002_Height.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\chiar\wood the tabel and chaer.002_Height.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\chiar\wood the tabel
+        and chaer.002_Height.png.meta
+      projectPath: Assets\Room\textures\chiar\wood the tabel and chaer.002_Height.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\chiar\wood the tabel and chaer.002_Metallic.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\chiar\wood the tabel
+        and chaer.002_Metallic.png
+      projectPath: Assets\Room\textures\chiar\wood the tabel and chaer.002_Metallic.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\chiar\wood the tabel and chaer.002_Metallic.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\chiar\wood the tabel
+        and chaer.002_Metallic.png.meta
+      projectPath: Assets\Room\textures\chiar\wood the tabel and chaer.002_Metallic.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\chiar\wood the tabel and chaer.002_Mixed_AO.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\chiar\wood the tabel
+        and chaer.002_Mixed_AO.png
+      projectPath: Assets\Room\textures\chiar\wood the tabel and chaer.002_Mixed_AO.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\chiar\wood the tabel and chaer.002_Mixed_AO.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\chiar\wood the tabel
+        and chaer.002_Mixed_AO.png.meta
+      projectPath: Assets\Room\textures\chiar\wood the tabel and chaer.002_Mixed_AO.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\chiar\wood the tabel and chaer.002_Normal.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\chiar\wood the tabel
+        and chaer.002_Normal.png
+      projectPath: Assets\Room\textures\chiar\wood the tabel and chaer.002_Normal.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\chiar\wood the tabel and chaer.002_Normal.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\chiar\wood the tabel
+        and chaer.002_Normal.png.meta
+      projectPath: Assets\Room\textures\chiar\wood the tabel and chaer.002_Normal.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\chiar\wood the tabel and chaer.002_Normal_DirectX.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\chiar\wood the tabel
+        and chaer.002_Normal_DirectX.png
+      projectPath: Assets\Room\textures\chiar\wood the tabel and chaer.002_Normal_DirectX.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\chiar\wood the tabel and chaer.002_Normal_DirectX.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\chiar\wood the tabel
+        and chaer.002_Normal_DirectX.png.meta
+      projectPath: Assets\Room\textures\chiar\wood the tabel and chaer.002_Normal_DirectX.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\chiar\wood the tabel and chaer.002_Roughness.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\chiar\wood the tabel
+        and chaer.002_Roughness.png
+      projectPath: Assets\Room\textures\chiar\wood the tabel and chaer.002_Roughness.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\chiar\wood the tabel and chaer.002_Roughness.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\chiar\wood the tabel
+        and chaer.002_Roughness.png.meta
+      projectPath: Assets\Room\textures\chiar\wood the tabel and chaer.002_Roughness.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\door texture 2.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\door texture 2.png
+      projectPath: Assets\Room\textures\door texture 2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\door texture 2.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\door texture 2.png.meta
+      projectPath: Assets\Room\textures\door texture 2.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\door texture 3.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\door texture 3.png
+      projectPath: Assets\Room\textures\door texture 3.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\door texture 3.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\door texture 3.png.meta
+      projectPath: Assets\Room\textures\door texture 3.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\floor.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\floor.meta
+      projectPath: Assets\Room\textures\floor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\floor\4K.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\floor\4K.meta
+      projectPath: Assets\Room\textures\floor\4K.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\floor\4K\marble_1_basecolor.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\floor\4K\marble_1_basecolor.png
+      projectPath: Assets\Room\textures\floor\4K\marble_1_basecolor.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\floor\4K\marble_1_basecolor.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\floor\4K\marble_1_basecolor.png.meta
+      projectPath: Assets\Room\textures\floor\4K\marble_1_basecolor.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\floor\4K\marble_1_height.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\floor\4K\marble_1_height.png
+      projectPath: Assets\Room\textures\floor\4K\marble_1_height.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\floor\4K\marble_1_height.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\floor\4K\marble_1_height.png.meta
+      projectPath: Assets\Room\textures\floor\4K\marble_1_height.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\floor\4K\marble_1_metallic.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\floor\4K\marble_1_metallic.png
+      projectPath: Assets\Room\textures\floor\4K\marble_1_metallic.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\floor\4K\marble_1_metallic.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\floor\4K\marble_1_metallic.png.meta
+      projectPath: Assets\Room\textures\floor\4K\marble_1_metallic.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\floor\4K\marble_1_normal.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\floor\4K\marble_1_normal.png
+      projectPath: Assets\Room\textures\floor\4K\marble_1_normal.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\floor\4K\marble_1_normal.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\floor\4K\marble_1_normal.png.meta
+      projectPath: Assets\Room\textures\floor\4K\marble_1_normal.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\floor\4K\marble_1_roughness.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\floor\4K\marble_1_roughness.png
+      projectPath: Assets\Room\textures\floor\4K\marble_1_roughness.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\floor\4K\marble_1_roughness.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\floor\4K\marble_1_roughness.png.meta
+      projectPath: Assets\Room\textures\floor\4K\marble_1_roughness.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\floor\Materials.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\floor\Materials.meta
+      projectPath: Assets\Room\textures\floor\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\floor\Materials\New Material.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\floor\Materials\New
+        Material.mat
+      projectPath: Assets\Room\textures\floor\Materials\New Material.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\floor\Materials\New Material.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\floor\Materials\New
+        Material.mat.meta
+      projectPath: Assets\Room\textures\floor\Materials\New Material.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\floor\Materials\marble_1_basecolor.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\floor\Materials\marble_1_basecolor.mat
+      projectPath: Assets\Room\textures\floor\Materials\marble_1_basecolor.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\floor\Materials\marble_1_basecolor.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\floor\Materials\marble_1_basecolor.mat.meta
+      projectPath: Assets\Room\textures\floor\Materials\marble_1_basecolor.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\floor\Materials\marble_1_metallic.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\floor\Materials\marble_1_metallic.mat
+      projectPath: Assets\Room\textures\floor\Materials\marble_1_metallic.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\floor\Materials\marble_1_metallic.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\floor\Materials\marble_1_metallic.mat.meta
+      projectPath: Assets\Room\textures\floor\Materials\marble_1_metallic.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\floor\Materials\marble_1_roughness.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\floor\Materials\marble_1_roughness.mat
+      projectPath: Assets\Room\textures\floor\Materials\marble_1_roughness.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\floor\Materials\marble_1_roughness.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\floor\Materials\marble_1_roughness.mat.meta
+      projectPath: Assets\Room\textures\floor\Materials\marble_1_roughness.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\floor\marble_1_basecolor.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\floor\marble_1_basecolor.png
+      projectPath: Assets\Room\textures\floor\marble_1_basecolor.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\floor\marble_1_basecolor.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\floor\marble_1_basecolor.png.meta
+      projectPath: Assets\Room\textures\floor\marble_1_basecolor.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\floor\marble_1_height.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\floor\marble_1_height.png
+      projectPath: Assets\Room\textures\floor\marble_1_height.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\floor\marble_1_height.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\floor\marble_1_height.png.meta
+      projectPath: Assets\Room\textures\floor\marble_1_height.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\floor\marble_1_metallic.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\floor\marble_1_metallic.png
+      projectPath: Assets\Room\textures\floor\marble_1_metallic.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\floor\marble_1_metallic.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\floor\marble_1_metallic.png.meta
+      projectPath: Assets\Room\textures\floor\marble_1_metallic.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\floor\marble_1_normal.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\floor\marble_1_normal.png
+      projectPath: Assets\Room\textures\floor\marble_1_normal.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\floor\marble_1_normal.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\floor\marble_1_normal.png.meta
+      projectPath: Assets\Room\textures\floor\marble_1_normal.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\floor\marble_1_roughness.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\floor\marble_1_roughness.png
+      projectPath: Assets\Room\textures\floor\marble_1_roughness.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\floor\marble_1_roughness.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\floor\marble_1_roughness.png.meta
+      projectPath: Assets\Room\textures\floor\marble_1_roughness.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\pillars.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\pillars.meta
+      projectPath: Assets\Room\textures\pillars.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\pillars\Materials.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\pillars\Materials.meta
+      projectPath: Assets\Room\textures\pillars\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\pillars\Materials\pilers_Base_Color.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\pillars\Materials\pilers_Base_Color.mat
+      projectPath: Assets\Room\textures\pillars\Materials\pilers_Base_Color.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\pillars\Materials\pilers_Base_Color.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\pillars\Materials\pilers_Base_Color.mat.meta
+      projectPath: Assets\Room\textures\pillars\Materials\pilers_Base_Color.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\pillars\pilers_Base_Color.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\pillars\pilers_Base_Color.png
+      projectPath: Assets\Room\textures\pillars\pilers_Base_Color.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\pillars\pilers_Base_Color.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\pillars\pilers_Base_Color.png.meta
+      projectPath: Assets\Room\textures\pillars\pilers_Base_Color.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\pillars\pilers_Height.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\pillars\pilers_Height.png
+      projectPath: Assets\Room\textures\pillars\pilers_Height.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\pillars\pilers_Height.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\pillars\pilers_Height.png.meta
+      projectPath: Assets\Room\textures\pillars\pilers_Height.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\pillars\pilers_Mixed_AO.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\pillars\pilers_Mixed_AO.png
+      projectPath: Assets\Room\textures\pillars\pilers_Mixed_AO.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\pillars\pilers_Mixed_AO.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\pillars\pilers_Mixed_AO.png.meta
+      projectPath: Assets\Room\textures\pillars\pilers_Mixed_AO.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\pillars\pilers_Normal_DirectX.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\pillars\pilers_Normal_DirectX.png
+      projectPath: Assets\Room\textures\pillars\pilers_Normal_DirectX.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\pillars\pilers_Normal_DirectX.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\pillars\pilers_Normal_DirectX.png.meta
+      projectPath: Assets\Room\textures\pillars\pilers_Normal_DirectX.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\pillars\pilers_Roughness.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\pillars\pilers_Roughness.png
+      projectPath: Assets\Room\textures\pillars\pilers_Roughness.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\pillars\pilers_Roughness.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\pillars\pilers_Roughness.png.meta
+      projectPath: Assets\Room\textures\pillars\pilers_Roughness.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\roofrop.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\roofrop.meta
+      projectPath: Assets\Room\textures\roofrop.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\roofrop\Materials.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\roofrop\Materials.meta
+      projectPath: Assets\Room\textures\roofrop\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\roofrop\Materials\top_roof_wood_Base_Color.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\roofrop\Materials\top_roof_wood_Base_Color.mat
+      projectPath: Assets\Room\textures\roofrop\Materials\top_roof_wood_Base_Color.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\roofrop\Materials\top_roof_wood_Base_Color.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\roofrop\Materials\top_roof_wood_Base_Color.mat.meta
+      projectPath: Assets\Room\textures\roofrop\Materials\top_roof_wood_Base_Color.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\roofrop\Materials\top_roof_wood_Normal_DirectX.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\roofrop\Materials\top_roof_wood_Normal_DirectX.mat
+      projectPath: Assets\Room\textures\roofrop\Materials\top_roof_wood_Normal_DirectX.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\roofrop\Materials\top_roof_wood_Normal_DirectX.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\roofrop\Materials\top_roof_wood_Normal_DirectX.mat.meta
+      projectPath: Assets\Room\textures\roofrop\Materials\top_roof_wood_Normal_DirectX.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\roofrop\top_roof_wood_Base_Color.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\roofrop\top_roof_wood_Base_Color.png
+      projectPath: Assets\Room\textures\roofrop\top_roof_wood_Base_Color.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\roofrop\top_roof_wood_Base_Color.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\roofrop\top_roof_wood_Base_Color.png.meta
+      projectPath: Assets\Room\textures\roofrop\top_roof_wood_Base_Color.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\roofrop\top_roof_wood_Height.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\roofrop\top_roof_wood_Height.png
+      projectPath: Assets\Room\textures\roofrop\top_roof_wood_Height.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\roofrop\top_roof_wood_Height.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\roofrop\top_roof_wood_Height.png.meta
+      projectPath: Assets\Room\textures\roofrop\top_roof_wood_Height.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\roofrop\top_roof_wood_Metallic.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\roofrop\top_roof_wood_Metallic.png
+      projectPath: Assets\Room\textures\roofrop\top_roof_wood_Metallic.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\roofrop\top_roof_wood_Metallic.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\roofrop\top_roof_wood_Metallic.png.meta
+      projectPath: Assets\Room\textures\roofrop\top_roof_wood_Metallic.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\roofrop\top_roof_wood_Mixed_AO.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\roofrop\top_roof_wood_Mixed_AO.png
+      projectPath: Assets\Room\textures\roofrop\top_roof_wood_Mixed_AO.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\roofrop\top_roof_wood_Mixed_AO.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\roofrop\top_roof_wood_Mixed_AO.png.meta
+      projectPath: Assets\Room\textures\roofrop\top_roof_wood_Mixed_AO.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\roofrop\top_roof_wood_Normal.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\roofrop\top_roof_wood_Normal.png
+      projectPath: Assets\Room\textures\roofrop\top_roof_wood_Normal.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\roofrop\top_roof_wood_Normal.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\roofrop\top_roof_wood_Normal.png.meta
+      projectPath: Assets\Room\textures\roofrop\top_roof_wood_Normal.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\roofrop\top_roof_wood_Normal_DirectX.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\roofrop\top_roof_wood_Normal_DirectX.png
+      projectPath: Assets\Room\textures\roofrop\top_roof_wood_Normal_DirectX.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\roofrop\top_roof_wood_Normal_DirectX.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\roofrop\top_roof_wood_Normal_DirectX.png.meta
+      projectPath: Assets\Room\textures\roofrop\top_roof_wood_Normal_DirectX.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\roofrop\top_roof_wood_Roughness.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\roofrop\top_roof_wood_Roughness.png
+      projectPath: Assets\Room\textures\roofrop\top_roof_wood_Roughness.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\roofrop\top_roof_wood_Roughness.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\roofrop\top_roof_wood_Roughness.png.meta
+      projectPath: Assets\Room\textures\roofrop\top_roof_wood_Roughness.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\table.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\table.meta
+      projectPath: Assets\Room\textures\table.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\table\Materials.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\table\Materials.meta
+      projectPath: Assets\Room\textures\table\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\table\Materials\wood the tabel and chaer_Base_Color.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\table\Materials\wood
+        the tabel and chaer_Base_Color.mat
+      projectPath: Assets\Room\textures\table\Materials\wood the tabel and chaer_Base_Color.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\table\Materials\wood the tabel and chaer_Base_Color.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\table\Materials\wood
+        the tabel and chaer_Base_Color.mat.meta
+      projectPath: Assets\Room\textures\table\Materials\wood the tabel and chaer_Base_Color.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\table\Materials\wood the tabel and chaer_Metallic.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\table\Materials\wood
+        the tabel and chaer_Metallic.mat
+      projectPath: Assets\Room\textures\table\Materials\wood the tabel and chaer_Metallic.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\table\Materials\wood the tabel and chaer_Metallic.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\table\Materials\wood
+        the tabel and chaer_Metallic.mat.meta
+      projectPath: Assets\Room\textures\table\Materials\wood the tabel and chaer_Metallic.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\table\Materials\wood the tabel and chaer_Normal_DirectX
+        1.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\table\Materials\wood
+        the tabel and chaer_Normal_DirectX 1.mat
+      projectPath: Assets\Room\textures\table\Materials\wood the tabel and chaer_Normal_DirectX
+        1.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\table\Materials\wood the tabel and chaer_Normal_DirectX
+        1.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\table\Materials\wood
+        the tabel and chaer_Normal_DirectX 1.mat.meta
+      projectPath: Assets\Room\textures\table\Materials\wood the tabel and chaer_Normal_DirectX
+        1.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\table\Materials\wood the tabel and chaer_Normal_DirectX
+        2.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\table\Materials\wood
+        the tabel and chaer_Normal_DirectX 2.mat
+      projectPath: Assets\Room\textures\table\Materials\wood the tabel and chaer_Normal_DirectX
+        2.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\table\Materials\wood the tabel and chaer_Normal_DirectX
+        2.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\table\Materials\wood
+        the tabel and chaer_Normal_DirectX 2.mat.meta
+      projectPath: Assets\Room\textures\table\Materials\wood the tabel and chaer_Normal_DirectX
+        2.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\table\Materials\wood the tabel and chaer_Normal_DirectX.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\table\Materials\wood
+        the tabel and chaer_Normal_DirectX.mat
+      projectPath: Assets\Room\textures\table\Materials\wood the tabel and chaer_Normal_DirectX.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\table\Materials\wood the tabel and chaer_Normal_DirectX.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\table\Materials\wood
+        the tabel and chaer_Normal_DirectX.mat.meta
+      projectPath: Assets\Room\textures\table\Materials\wood the tabel and chaer_Normal_DirectX.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\table\Materials\wood the tabel and chaer_Roughness.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\table\Materials\wood
+        the tabel and chaer_Roughness.mat
+      projectPath: Assets\Room\textures\table\Materials\wood the tabel and chaer_Roughness.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\table\Materials\wood the tabel and chaer_Roughness.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\table\Materials\wood
+        the tabel and chaer_Roughness.mat.meta
+      projectPath: Assets\Room\textures\table\Materials\wood the tabel and chaer_Roughness.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\table\wood the tabel and chaer_Base_Color.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\table\wood the tabel
+        and chaer_Base_Color.png
+      projectPath: Assets\Room\textures\table\wood the tabel and chaer_Base_Color.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\table\wood the tabel and chaer_Base_Color.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\table\wood the tabel
+        and chaer_Base_Color.png.meta
+      projectPath: Assets\Room\textures\table\wood the tabel and chaer_Base_Color.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\table\wood the tabel and chaer_Height.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\table\wood the tabel
+        and chaer_Height.png
+      projectPath: Assets\Room\textures\table\wood the tabel and chaer_Height.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\table\wood the tabel and chaer_Height.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\table\wood the tabel
+        and chaer_Height.png.meta
+      projectPath: Assets\Room\textures\table\wood the tabel and chaer_Height.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\table\wood the tabel and chaer_Metallic.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\table\wood the tabel
+        and chaer_Metallic.png
+      projectPath: Assets\Room\textures\table\wood the tabel and chaer_Metallic.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\table\wood the tabel and chaer_Metallic.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\table\wood the tabel
+        and chaer_Metallic.png.meta
+      projectPath: Assets\Room\textures\table\wood the tabel and chaer_Metallic.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\table\wood the tabel and chaer_Normal_DirectX.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\table\wood the tabel
+        and chaer_Normal_DirectX.png
+      projectPath: Assets\Room\textures\table\wood the tabel and chaer_Normal_DirectX.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\table\wood the tabel and chaer_Normal_DirectX.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\table\wood the tabel
+        and chaer_Normal_DirectX.png.meta
+      projectPath: Assets\Room\textures\table\wood the tabel and chaer_Normal_DirectX.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\table\wood the tabel and chaer_Roughness.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\table\wood the tabel
+        and chaer_Roughness.png
+      projectPath: Assets\Room\textures\table\wood the tabel and chaer_Roughness.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\table\wood the tabel and chaer_Roughness.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\table\wood the tabel
+        and chaer_Roughness.png.meta
+      projectPath: Assets\Room\textures\table\wood the tabel and chaer_Roughness.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\the book texture.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\the book texture.png
+      projectPath: Assets\Room\textures\the book texture.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\the book texture.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\the book texture.png.meta
+      projectPath: Assets\Room\textures\the book texture.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\the chandelier hand.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\the chandelier hand.png
+      projectPath: Assets\Room\textures\the chandelier hand.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\the chandelier hand.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\the chandelier hand.png.meta
+      projectPath: Assets\Room\textures\the chandelier hand.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\the chandelier.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\the chandelier.png
+      projectPath: Assets\Room\textures\the chandelier.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\the chandelier.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\the chandelier.png.meta
+      projectPath: Assets\Room\textures\the chandelier.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\wall.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\wall.meta
+      projectPath: Assets\Room\textures\wall.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\wall\Materials.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\wall\Materials.meta
+      projectPath: Assets\Room\textures\wall\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\wall\Materials\brick_uneven_stones_basecolor.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\wall\Materials\brick_uneven_stones_basecolor.mat
+      projectPath: Assets\Room\textures\wall\Materials\brick_uneven_stones_basecolor.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\wall\Materials\brick_uneven_stones_basecolor.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\wall\Materials\brick_uneven_stones_basecolor.mat.meta
+      projectPath: Assets\Room\textures\wall\Materials\brick_uneven_stones_basecolor.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\wall\brick_uneven_stones_ambient_occlusion.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\wall\brick_uneven_stones_ambient_occlusion.png
+      projectPath: Assets\Room\textures\wall\brick_uneven_stones_ambient_occlusion.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\wall\brick_uneven_stones_ambient_occlusion.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\wall\brick_uneven_stones_ambient_occlusion.png.meta
+      projectPath: Assets\Room\textures\wall\brick_uneven_stones_ambient_occlusion.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\wall\brick_uneven_stones_basecolor.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\wall\brick_uneven_stones_basecolor.png
+      projectPath: Assets\Room\textures\wall\brick_uneven_stones_basecolor.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\wall\brick_uneven_stones_basecolor.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\wall\brick_uneven_stones_basecolor.png.meta
+      projectPath: Assets\Room\textures\wall\brick_uneven_stones_basecolor.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\wall\brick_uneven_stones_height.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\wall\brick_uneven_stones_height.png
+      projectPath: Assets\Room\textures\wall\brick_uneven_stones_height.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\wall\brick_uneven_stones_height.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\wall\brick_uneven_stones_height.png.meta
+      projectPath: Assets\Room\textures\wall\brick_uneven_stones_height.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\wall\brick_uneven_stones_normal.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\wall\brick_uneven_stones_normal.png
+      projectPath: Assets\Room\textures\wall\brick_uneven_stones_normal.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\wall\brick_uneven_stones_normal.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\wall\brick_uneven_stones_normal.png.meta
+      projectPath: Assets\Room\textures\wall\brick_uneven_stones_normal.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\wall\brick_uneven_stones_roughness.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\wall\brick_uneven_stones_roughness.png
+      projectPath: Assets\Room\textures\wall\brick_uneven_stones_roughness.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\wall\brick_uneven_stones_roughness.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\wall\brick_uneven_stones_roughness.png.meta
+      projectPath: Assets\Room\textures\wall\brick_uneven_stones_roughness.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\window.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\window.meta
+      projectPath: Assets\Room\textures\window.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\window\Materials.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\window\Materials.meta
+      projectPath: Assets\Room\textures\window\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\window\Materials\border.001_Base_Color.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\window\Materials\border.001_Base_Color.mat
+      projectPath: Assets\Room\textures\window\Materials\border.001_Base_Color.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\window\Materials\border.001_Base_Color.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\window\Materials\border.001_Base_Color.mat.meta
+      projectPath: Assets\Room\textures\window\Materials\border.001_Base_Color.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\window\Materials\iner 1.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\window\Materials\iner
+        1.mat
+      projectPath: Assets\Room\textures\window\Materials\iner 1.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\window\Materials\iner 1.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\window\Materials\iner
+        1.mat.meta
+      projectPath: Assets\Room\textures\window\Materials\iner 1.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\window\Materials\iner 2.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\window\Materials\iner
+        2.mat
+      projectPath: Assets\Room\textures\window\Materials\iner 2.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\window\Materials\iner 2.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\window\Materials\iner
+        2.mat.meta
+      projectPath: Assets\Room\textures\window\Materials\iner 2.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\window\Materials\iner.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\window\Materials\iner.mat
+      projectPath: Assets\Room\textures\window\Materials\iner.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\window\Materials\iner.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\window\Materials\iner.mat.meta
+      projectPath: Assets\Room\textures\window\Materials\iner.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\window\Materials\trancpernt + base color1.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\window\Materials\trancpernt
+        + base color1.mat
+      projectPath: Assets\Room\textures\window\Materials\trancpernt + base color1.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\window\Materials\trancpernt + base color1.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\window\Materials\trancpernt
+        + base color1.mat.meta
+      projectPath: Assets\Room\textures\window\Materials\trancpernt + base color1.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\window\border.001_Base_Color.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\window\border.001_Base_Color.png
+      projectPath: Assets\Room\textures\window\border.001_Base_Color.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\window\border.001_Base_Color.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\window\border.001_Base_Color.png.meta
+      projectPath: Assets\Room\textures\window\border.001_Base_Color.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\window\border.001_Height.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\window\border.001_Height.png
+      projectPath: Assets\Room\textures\window\border.001_Height.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\window\border.001_Height.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\window\border.001_Height.png.meta
+      projectPath: Assets\Room\textures\window\border.001_Height.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\window\border.001_Metallic.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\window\border.001_Metallic.png
+      projectPath: Assets\Room\textures\window\border.001_Metallic.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\window\border.001_Metallic.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\window\border.001_Metallic.png.meta
+      projectPath: Assets\Room\textures\window\border.001_Metallic.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\window\border.001_Mixed_AO.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\window\border.001_Mixed_AO.png
+      projectPath: Assets\Room\textures\window\border.001_Mixed_AO.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\window\border.001_Mixed_AO.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\window\border.001_Mixed_AO.png.meta
+      projectPath: Assets\Room\textures\window\border.001_Mixed_AO.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\window\border.001_Normal.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\window\border.001_Normal.png
+      projectPath: Assets\Room\textures\window\border.001_Normal.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\window\border.001_Normal.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\window\border.001_Normal.png.meta
+      projectPath: Assets\Room\textures\window\border.001_Normal.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\window\border.001_Normal_DirectX.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\window\border.001_Normal_DirectX.png
+      projectPath: Assets\Room\textures\window\border.001_Normal_DirectX.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\window\border.001_Normal_DirectX.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\window\border.001_Normal_DirectX.png.meta
+      projectPath: Assets\Room\textures\window\border.001_Normal_DirectX.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\window\border.001_Roughness.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\window\border.001_Roughness.png
+      projectPath: Assets\Room\textures\window\border.001_Roughness.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\window\border.001_Roughness.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\window\border.001_Roughness.png.meta
+      projectPath: Assets\Room\textures\window\border.001_Roughness.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\window\iner.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\window\iner.png
+      projectPath: Assets\Room\textures\window\iner.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\window\iner.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\window\iner.png.meta
+      projectPath: Assets\Room\textures\window\iner.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\window\trancpernt + base color 2.hdr
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\window\trancpernt
+        + base color 2.hdr
+      projectPath: Assets\Room\textures\window\trancpernt + base color 2.hdr
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\window\trancpernt + base color 2.hdr.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\window\trancpernt
+        + base color 2.hdr.meta
+      projectPath: Assets\Room\textures\window\trancpernt + base color 2.hdr.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\window\trancpernt + base color emmesive.hdr
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\window\trancpernt
+        + base color emmesive.hdr
+      projectPath: Assets\Room\textures\window\trancpernt + base color emmesive.hdr
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\window\trancpernt + base color emmesive.hdr.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\window\trancpernt
+        + base color emmesive.hdr.meta
+      projectPath: Assets\Room\textures\window\trancpernt + base color emmesive.hdr.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\window\trancpernt + base color1.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\window\trancpernt
+        + base color1.png
+      projectPath: Assets\Room\textures\window\trancpernt + base color1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Room\textures\window\trancpernt + base color1.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Room\textures\window\trancpernt
+        + base color1.png.meta
+      projectPath: Assets\Room\textures\window\trancpernt + base color1.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Game.unity
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Scenes\Game.unity
+      projectPath: Assets\Scenes\Game.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\Menu.unity
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Scenes\Menu.unity
+      projectPath: Assets\Scenes\Menu.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+        SDF.asset
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials\Anton SDF.asset
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
+        SDF.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+        SDF.asset
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials\Bangers SDF.asset
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
+        SDF.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Electronic
+        Highway Sign SDF.asset
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials\Electronic Highway Sign SDF.asset
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Electronic
+        Highway Sign SDF.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Oswald
+        Bold SDF.asset
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials\Oswald Bold SDF.asset
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Oswald
+        Bold SDF.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
+        SDF.asset
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts
+        & Materials\Roboto-Bold SDF.asset
+      projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
+        SDF.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Fallback.asset
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF - Fallback.asset
+      projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+        SDF - Fallback.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites.meta
+      projectPath: Assets\Textures and Sprites.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\Decoration.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\Decoration.meta
+      projectPath: Assets\Textures and Sprites\Decoration.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\Decoration\DottedRoundedRect.psd
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\Decoration\DottedRoundedRect.psd
+      projectPath: Assets\Textures and Sprites\Decoration\DottedRoundedRect.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\Decoration\DottedRoundedRect.psd.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\Decoration\DottedRoundedRect.psd.meta
+      projectPath: Assets\Textures and Sprites\Decoration\DottedRoundedRect.psd.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\Decoration\Icon1.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\Decoration\Icon1.png
+      projectPath: Assets\Textures and Sprites\Decoration\Icon1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\Decoration\Icon1.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\Decoration\Icon1.png.meta
+      projectPath: Assets\Textures and Sprites\Decoration\Icon1.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\Decoration\Icon2.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\Decoration\Icon2.png
+      projectPath: Assets\Textures and Sprites\Decoration\Icon2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\Decoration\Icon2.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\Decoration\Icon2.png.meta
+      projectPath: Assets\Textures and Sprites\Decoration\Icon2.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\Decoration\Icon3.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\Decoration\Icon3.png
+      projectPath: Assets\Textures and Sprites\Decoration\Icon3.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\Decoration\Icon3.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\Decoration\Icon3.png.meta
+      projectPath: Assets\Textures and Sprites\Decoration\Icon3.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\Decoration\Unity Logo Unlit.psd
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\Decoration\Unity
+        Logo Unlit.psd
+      projectPath: Assets\Textures and Sprites\Decoration\Unity Logo Unlit.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\Decoration\Unity Logo Unlit.psd.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\Decoration\Unity
+        Logo Unlit.psd.meta
+      projectPath: Assets\Textures and Sprites\Decoration\Unity Logo Unlit.psd.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\Lit UI.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\Lit UI.meta
+      projectPath: Assets\Textures and Sprites\Lit UI.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\Lit UI\BackgroundNormal.psd
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\Lit UI\BackgroundNormal.psd
+      projectPath: Assets\Textures and Sprites\Lit UI\BackgroundNormal.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\Lit UI\BackgroundNormal.psd.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\Lit UI\BackgroundNormal.psd.meta
+      projectPath: Assets\Textures and Sprites\Lit UI\BackgroundNormal.psd.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\Lit UI\DiagonalSpritesNormal.psd
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\Lit UI\DiagonalSpritesNormal.psd
+      projectPath: Assets\Textures and Sprites\Lit UI\DiagonalSpritesNormal.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\Lit UI\DiagonalSpritesNormal.psd.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\Lit UI\DiagonalSpritesNormal.psd.meta
+      projectPath: Assets\Textures and Sprites\Lit UI\DiagonalSpritesNormal.psd.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\Lit UI\DiagonalStripes.psd
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\Lit UI\DiagonalStripes.psd
+      projectPath: Assets\Textures and Sprites\Lit UI\DiagonalStripes.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\Lit UI\DiagonalStripes.psd.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\Lit UI\DiagonalStripes.psd.meta
+      projectPath: Assets\Textures and Sprites\Lit UI\DiagonalStripes.psd.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\Lit UI\KnobNormal.psd
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\Lit UI\KnobNormal.psd
+      projectPath: Assets\Textures and Sprites\Lit UI\KnobNormal.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\Lit UI\KnobNormal.psd.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\Lit UI\KnobNormal.psd.meta
+      projectPath: Assets\Textures and Sprites\Lit UI\KnobNormal.psd.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\Lit UI\UISpriteNormal.psd
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\Lit UI\UISpriteNormal.psd
+      projectPath: Assets\Textures and Sprites\Lit UI\UISpriteNormal.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\Lit UI\UISpriteNormal.psd.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\Lit UI\UISpriteNormal.psd.meta
+      projectPath: Assets\Textures and Sprites\Lit UI\UISpriteNormal.psd.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\Lit UI\White.psd
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\Lit UI\White.psd
+      projectPath: Assets\Textures and Sprites\Lit UI\White.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\Lit UI\White.psd.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\Lit UI\White.psd.meta
+      projectPath: Assets\Textures and Sprites\Lit UI\White.psd.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\RenderTexture.renderTexture
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\RenderTexture.renderTexture
+      projectPath: Assets\Textures and Sprites\RenderTexture.renderTexture
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\RenderTexture.renderTexture.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\RenderTexture.renderTexture.meta
+      projectPath: Assets\Textures and Sprites\RenderTexture.renderTexture.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\Rounded UI.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\Rounded UI.meta
+      projectPath: Assets\Textures and Sprites\Rounded UI.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\Rounded UI\UIButtonCorner.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\Rounded UI\UIButtonCorner.png
+      projectPath: Assets\Textures and Sprites\Rounded UI\UIButtonCorner.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\Rounded UI\UIButtonCorner.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\Rounded UI\UIButtonCorner.png.meta
+      projectPath: Assets\Textures and Sprites\Rounded UI\UIButtonCorner.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\Rounded UI\UIButtonDefault.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\Rounded UI\UIButtonDefault.png
+      projectPath: Assets\Textures and Sprites\Rounded UI\UIButtonDefault.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\Rounded UI\UIButtonDefault.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\Rounded UI\UIButtonDefault.png.meta
+      projectPath: Assets\Textures and Sprites\Rounded UI\UIButtonDefault.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\Rounded UI\UIButtonDefault_0.prefab
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\Rounded UI\UIButtonDefault_0.prefab
+      projectPath: Assets\Textures and Sprites\Rounded UI\UIButtonDefault_0.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\Rounded UI\UIButtonDefault_0.prefab.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\Rounded UI\UIButtonDefault_0.prefab.meta
+      projectPath: Assets\Textures and Sprites\Rounded UI\UIButtonDefault_0.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\Rounded UI\UIPanel.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\Rounded UI\UIPanel.png
+      projectPath: Assets\Textures and Sprites\Rounded UI\UIPanel.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\Rounded UI\UIPanel.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\Rounded UI\UIPanel.png.meta
+      projectPath: Assets\Textures and Sprites\Rounded UI\UIPanel.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\Rounded UI\UIToggleButton.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\Rounded UI\UIToggleButton.png
+      projectPath: Assets\Textures and Sprites\Rounded UI\UIToggleButton.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\Rounded UI\UIToggleButton.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\Rounded UI\UIToggleButton.png.meta
+      projectPath: Assets\Textures and Sprites\Rounded UI\UIToggleButton.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\SF UI.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\SF UI.meta
+      projectPath: Assets\Textures and Sprites\SF UI.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\SF UI\Background.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\SF UI\Background.meta
+      projectPath: Assets\Textures and Sprites\SF UI\Background.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\SF UI\Background\LICENSE.txt
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\SF UI\Background\LICENSE.txt
+      projectPath: Assets\Textures and Sprites\SF UI\Background\LICENSE.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\SF UI\Background\LICENSE.txt.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\SF UI\Background\LICENSE.txt.meta
+      projectPath: Assets\Textures and Sprites\SF UI\Background\LICENSE.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\SF UI\Background\SF Background.jpg
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\SF UI\Background\SF
+        Background.jpg
+      projectPath: Assets\Textures and Sprites\SF UI\Background\SF Background.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\SF UI\Background\SF Background.jpg.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\SF UI\Background\SF
+        Background.jpg.meta
+      projectPath: Assets\Textures and Sprites\SF UI\Background\SF Background.jpg.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\SF UI\SF Button.psd
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\SF UI\SF Button.psd
+      projectPath: Assets\Textures and Sprites\SF UI\SF Button.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\SF UI\SF Button.psd.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\SF UI\SF Button.psd.meta
+      projectPath: Assets\Textures and Sprites\SF UI\SF Button.psd.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\SF UI\SF Generic.psd
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\SF UI\SF Generic.psd
+      projectPath: Assets\Textures and Sprites\SF UI\SF Generic.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\SF UI\SF Generic.psd.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\SF UI\SF Generic.psd.meta
+      projectPath: Assets\Textures and Sprites\SF UI\SF Generic.psd.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\SF UI\SF Title.psd
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\SF UI\SF Title.psd
+      projectPath: Assets\Textures and Sprites\SF UI\SF Title.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\SF UI\SF Title.psd.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\SF UI\SF Title.psd.meta
+      projectPath: Assets\Textures and Sprites\SF UI\SF Title.psd.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\SF UI\SF Window.psd
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\SF UI\SF Window.psd
+      projectPath: Assets\Textures and Sprites\SF UI\SF Window.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures and Sprites\SF UI\SF Window.psd.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\Textures and Sprites\SF UI\SF Window.psd.meta
+      projectPath: Assets\Textures and Sprites\SF UI\SF Window.psd.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI board Large Se2t.png
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\UI board Large Se2t.png
+      projectPath: Assets\UI board Large Se2t.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI board Large Se2t.png.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\UI board Large Se2t.png.meta
+      projectPath: Assets\UI board Large Se2t.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI board Large Set.psd
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\UI board Large Set.psd
+      projectPath: Assets\UI board Large Set.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\UI board Large Set.psd.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\UI board Large Set.psd.meta
+      projectPath: Assets\UI board Large Set.psd.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\transparent 1.mat
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\transparent 1.mat
+      projectPath: Assets\transparent 1.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\transparent 1.mat.meta
+      fullPath: D:\CSCI538\Rush-Diving-src\Assets\transparent 1.mat.meta
+      projectPath: Assets\transparent 1.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\AnnotationManager
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\AnnotationManager
+      projectPath: Library\AnnotationManager
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\CurrentMaximizeLayout.dwlt
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\CurrentMaximizeLayout.dwlt
+      projectPath: Library\CurrentMaximizeLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\LastSceneManagerSetup.txt
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\LastSceneManagerSetup.txt
+      projectPath: Library\LastSceneManagerSetup.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SceneVisibilityState.asset
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\SceneVisibilityState.asset
+      projectPath: Library\SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptMapper
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptMapper
+      projectPath: Library\ScriptMapper
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\b6d77a-mainStage.json
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\StateCache\SceneView\b6d77a-mainStage.json
+      projectPath: Library\StateCache\SceneView\b6d77a-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\assetDatabase3
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\expandedItems
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe1.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe10.log
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe10.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe10.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe11.log
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe11.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe11.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe2.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe3.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe4.log
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe4.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe5.log
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe5.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe6.log
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe6.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe7.log
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe7.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe7.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe8.log
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe8.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe8.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe9.log
+      fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe9.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe9.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: a28f9eb8ccb01e19263870a55db2c6e8a82ecd75
     mergeA: 
     mergeB: 
