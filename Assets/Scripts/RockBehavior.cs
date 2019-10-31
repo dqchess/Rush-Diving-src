@@ -6,18 +6,19 @@ using UnityEngine.SceneManagement;
 public class RockBehavior : MonoBehaviour
 {
     // Start is called before the first frame update
-    public static float speed;
-    Collider m_ObjectCollider;
+    public float speed;
+    public Vector3 rotation;
+
     void Start()
     {
-        m_ObjectCollider = GetComponent<Collider>();
-        m_ObjectCollider.isTrigger = false;
+        rotation = new Vector3( Random.Range(-1,1), Random.Range(-1, 1), Random.Range(-1, 1));
+        speed = Random.Range(1,3);
     }
 
     // Update is called once per frame
     void Update()
     {
-        transform.Rotate(Vector3.up * speed * Time.deltaTime);
+        transform.Rotate(rotation * speed);
     }
 
     public void OnTriggerEnter(Collider other)
@@ -27,8 +28,7 @@ public class RockBehavior : MonoBehaviour
         if(other.name == "Player")
         {
             Debug.Log("You die.");
-            //Time.timeScale = 0f;
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
+            Menu.isDead = true;
         }
         
     }

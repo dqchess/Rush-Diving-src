@@ -18,7 +18,7 @@ public class CreateMonster : MonoBehaviour
     {
         Transform pos = rig.centerEyeAnchor;
         Vector3 vec = pos.position;
-        if (vec.y > 50 && !PauseMenu.GameIsPaused)
+        if (vec.y > 50 && !Menu.GameIsPaused)
         {
             time++;
             if (time > 200)
@@ -26,8 +26,7 @@ public class CreateMonster : MonoBehaviour
                 int count = (int)Random.Range(3, 5);
                 for (int i = 0; i < count; i++)
                 {
-                    Vector3 target = new Vector3(vec.x - Random.Range(280, 380), vec.y + Random.Range(-170, 170), Random.Range(-220, 220));
-                    RockBehavior.speed = Random.Range(0, 3);
+                    Vector3 target = new Vector3(vec.x - Random.Range(400, 500), vec.y + Random.Range(-170, 170), Random.Range(-220, 220));
                     GameObject newMonster = Instantiate(monster, target, monster.transform.rotation) as GameObject;
                     Destroy(newMonster, 5);
                 }

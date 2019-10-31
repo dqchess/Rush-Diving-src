@@ -49,7 +49,7 @@ public class DiverControl : MonoBehaviour
             inputs.x = (heightDiff + stableTh) * strength;
         }
 
-        if (!PauseMenu.GameIsPaused)
+        if (!Menu.GameIsPaused)
         {
             Debug.Log(inputs.x);
         }

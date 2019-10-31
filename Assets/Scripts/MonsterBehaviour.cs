@@ -25,7 +25,8 @@ public class MonsterBehaviour : MonoBehaviour
         {
             Debug.Log("You die.");
             //Time.timeScale = 0f;
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
+            Menu.isDead = true;
+            // SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }
 
     }
