@@ -2206,4 +2206,4 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Scenes/Game.unity
-  playerPath: D:/CSCI538/0.4/New Unity Project.exe
+  playerPath: D:/CSCI538/0.5/New Unity Project.exe

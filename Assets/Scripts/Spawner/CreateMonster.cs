@@ -23,12 +23,12 @@ public class CreateMonster : MonoBehaviour
             time++;
             if (time > 200)
             {
-                int count = (int)Random.Range(3, 5);
+                int count = (int)Random.Range(1, 3);
                 for (int i = 0; i < count; i++)
                 {
                     Vector3 target = new Vector3(vec.x - Random.Range(400, 500), vec.y + Random.Range(-170, 170), vec.z + Random.Range(-220, 220));
                     GameObject newMonster = Instantiate(monster, target, monster.transform.rotation) as GameObject;
-                    Destroy(newMonster, 5);
+                    Destroy(newMonster, 7);
                 }
 
                 time = 0;

@@ -15,6 +15,8 @@ public class DiverControl : MonoBehaviour
     private float leanCount = 0f;
     public float maxLean = 200f;
 
+    public static Vector3 moveVector;
+
     void Start()
     {
         //controller = GetComponent<CharacterController>();
@@ -23,13 +25,13 @@ public class DiverControl : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Vector3 moveVector = transform.forward * baseSpeed;
+        moveVector = transform.forward * baseSpeed;
 
         Vector3 inputs = OVRInput.Get(OVRInput.Axis2D.PrimaryThumbstick);
 
         float heightDiff = leftHand.transform.position.y - rightHand.transform.position.y;
         float stableTh = 0.1f;
-        float strength = 10f;
+        float strength = 6f;
 
         if (heightDiff > 0)
         {
@@ -91,7 +93,7 @@ public class DiverControl : MonoBehaviour
 
         }
 
-        transform.Rotate(new Vector3(0, 0, -leanCount * 0.1f));
+        transform.Rotate(new Vector3(0, 0, -leanCount * 0.15f));
         //Debug.Log(transform.rotation.y);
         //transform.rotation = Quaternion.Euler(0, transform.rotation.y*360, -leanCount * 0.1f);
     }

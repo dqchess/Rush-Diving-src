@@ -39,7 +39,7 @@ public class CreateRock : MonoBehaviour
                     Vector3 target = new Vector3(vec.x - Random.Range(400, 600), vec.y + Random.Range(-170, 170), vec.z + Random.Range(-220, 220));
                     GameObject go = Instantiate(rock, target, Quaternion.Euler(new Vector3(Random.Range(0,360), Random.Range(0, 360), Random.Range(0, 360)))) as GameObject;
                     go.transform.localScale += new Vector3(Random.Range(-0.5f, 2f), Random.Range(-0.5f, 2f), Random.Range(-0.5f, 2f));
-                    Destroy(go, 5);
+                    Destroy(go, 7);
                 }
 
                 time = 0;
