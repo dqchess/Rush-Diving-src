@@ -7,9 +7,13 @@ ScriptsOnlyBuild:
     - Horizon.HorizonMaster
     - HorizonControllerExample
     Assembly-CSharp.dll:
+    - CreateFog
     - CreateMonster
     - CreateRock
     - DiverControl
+    - DynamicFogAndMist.DynamicFogOfWar
+    - DynamicFogAndMist.DynamicFogProfile
+    - DynamicFogAndMist.FogVolume
     - HandedInputSelector
     - LaserPointer
     - Menu
@@ -21,6 +25,11 @@ ScriptsOnlyBuild:
     - RockBehavior
     - SimpleShoot
     - SuccessCondition
+    - VolumetricFogAndMist.FogAreaCullingManager
+    - VolumetricFogAndMist.FogVolume
+    - VolumetricFogAndMist.VolumetricFog
+    - VolumetricFogAndMist.VolumetricFogPosT
+    - VolumetricFogAndMist.VolumetricFogProfile
     - Weapon
     GitHub.Unity.45.dll:
     - GitHub.Unity.ApplicationCache
@@ -28,6 +37,7 @@ ScriptsOnlyBuild:
     - GitHub.Unity.EnvironmentCache
     - GitHub.Unity.GitAheadBehindCache
     - GitHub.Unity.GitLocksCache
+    - GitHub.Unity.GitLogCache
     - GitHub.Unity.GitStatusCache
     - GitHub.Unity.RepositoryInfoCache
     Oculus.VR.dll:
@@ -194,6 +204,24 @@ ScriptsOnlyBuild:
       Script: {instanceID: 13264}
     - Class: 114
       Script: {instanceID: 13284}
+    - Class: 114
+      Script: {instanceID: 26698}
+    - Class: 114
+      Script: {instanceID: 26702}
+    - Class: 114
+      Script: {instanceID: 26718}
+    - Class: 114
+      Script: {instanceID: 26724}
+    - Class: 114
+      Script: {instanceID: 26742}
+    - Class: 114
+      Script: {instanceID: 26752}
+    - Class: 114
+      Script: {instanceID: 26758}
+    - Class: 114
+      Script: {instanceID: 26764}
+    - Class: 114
+      Script: {instanceID: 36208}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
@@ -2055,7 +2083,127 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 6f2d69f0257b4ebbf6ad99bd5cd86c0c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DynamicFogAndMist
+    className: DynamicFogOfWar
+  - hash:
+      serializedVersion: 2
+      Hash: ac7c0ad2ddd97de122534c5e82062ce2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: VolumetricFogAndMist
+    className: FogOfWarHole
+  - hash:
+      serializedVersion: 2
+      Hash: fa0c87f06a0d983e822d8a294252181c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DynamicFogAndMist
+    className: DynamicFogProfile
+  - hash:
+      serializedVersion: 2
+      Hash: 935b81134feb046e8e154f08194f8603
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DynamicFogAndMist
+    className: DynamicFog
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: VolumetricFogAndMist
+    className: ShadowMapCopy
+  - hash:
+      serializedVersion: 2
+      Hash: 284c36b52c6f1a313e83f2af5f82d08f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: VolumetricFogAndMist
+    className: VolumetricFogMaterialIntegration
+  - hash:
+      serializedVersion: 2
+      Hash: 9e73e3d8a83dc3d66dedbd567d7748fa
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: VolumetricFogAndMist
+    className: VolumetricFogProfile
+  - hash:
+      serializedVersion: 2
+      Hash: 3c1fdce27f22a0f5221f50838c5e074a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DynamicFogAndMist
+    className: DynamicFogManager
+  - hash:
+      serializedVersion: 2
+      Hash: 8793a3d53ffd768f3aa54e0f85ad9b92
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: VolumetricFogAndMist
+    className: FogAreaCullingManager
+  - hash:
+      serializedVersion: 2
+      Hash: 935b81134feb046e8e154f08194f8603
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DynamicFogAndMist
+    className: DynamicFogBase
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: VolumetricFogAndMist
+    className: VolumetricFogPosT
+  - hash:
+      serializedVersion: 2
+      Hash: 8901fc07079f3ebf546380cf5d138991
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DynamicFogAndMist
+    className: DynamicFogExclusive
+  - hash:
+      serializedVersion: 2
+      Hash: f9d0689b57b7fe8cdbb7f33f288ef754
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: VolumetricFogAndMist
+    className: VolumetricFogLightParams
+  - hash:
+      serializedVersion: 2
+      Hash: 8424104c451f057d5e1ad115dd7a0f9d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DynamicFogAndMist
+    className: FogVolume
+  - hash:
+      serializedVersion: 2
+      Hash: 721b833961eec8a8de919b16c33f0b4d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: VolumetricFogAndMist
+    className: VolumetricFogDayCycleManager
+  - hash:
+      serializedVersion: 2
+      Hash: d7a1448e1a68d24214b8270ba941161a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: VolumetricFogAndMist
+    className: FogVolume
+  - hash:
+      serializedVersion: 2
+      Hash: e96ef7ab62949ecf23f812351cfcd5bb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: VolumetricFogAndMist
+    className: VolumetricFog
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: VolumetricFogAndMist
+    className: VolumetricFogPreT
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: FogBehaviour
+  - hash:
+      serializedVersion: 2
+      Hash: 1d448bd4522050e3c9c38a3008dec724
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CreateFog
   platform: 19
   scenePathNames:
   - Assets/Scenes/Game.unity
-  playerPath: D:/CSCI538/0.3/New Unity Project.exe
+  playerPath: D:/CSCI538/0.4/New Unity Project.exe
