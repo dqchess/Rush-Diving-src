@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2019-11-06T22:17:11.063-08:00
-  initializedAtString: 2019-11-06T21:15:39.764-08:00
+  lastUpdatedAtString: 2019-11-11T10:44:29.481-08:00
+  initializedAtString: 2019-11-11T10:44:29.481-08:00
   currentGitRemote:
     name: origin
-    url: https://github.com/shenyi1028/Rush-Diving-src.git
+    url: git@github.com:shenyi1028/Rush-Diving-src.git
     login: 
     user: 
     host: 
@@ -30,9 +30,9 @@ MonoBehaviour:
     name: master
     remote:
       name: origin
-      url: https://github.com/shenyi1028/Rush-Diving-src.git
+      url: git@github.com:shenyi1028/Rush-Diving-src.git
     trackingBranch: master
   currentConfigRemote:
     name: origin
-    url: https://github.com/shenyi1028/Rush-Diving-src.git
+    url: git@github.com:shenyi1028/Rush-Diving-src.git
   currentHead: 

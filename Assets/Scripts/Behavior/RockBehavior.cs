@@ -8,11 +8,14 @@ public class RockBehavior : MonoBehaviour
     // Start is called before the first frame update
     public float speed;
     public Vector3 rotation;
+    public AudioSource collisionSource;
 
     void Start()
     {
         rotation = new Vector3( Random.Range(-1,1), Random.Range(-1, 1), Random.Range(-1, 1));
         speed = Random.Range(1,3);
+        collisionSource = GetComponent<AudioSource> ();
+
     }
 
     // Update is called once per frame
@@ -27,6 +30,7 @@ public class RockBehavior : MonoBehaviour
         Debug.Log(other.name);
         if(other.name == "Player")
         {
+            collisionSource.Play();
             Debug.Log("You die.");
             Menu.isDead = true;
         }
