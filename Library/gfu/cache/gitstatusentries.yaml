@@ -13,6 +13,1254 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-11-11T13:35:46.835-08:00
-  initializedAtString: 2019-11-11T10:44:30.546-08:00
-  entries: []
+  lastUpdatedAtString: 2019-11-14T01:37:14.702-08:00
+  initializedAtString: 2019-11-14T00:55:28.887-08:00
+  entries:
+  - path: Assets\HQ_BigRock.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\HQ_BigRock.meta
+    projectPath: Assets\HQ_BigRock.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\HQ_BigRock\HQBigRock.prefab
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\HQ_BigRock\HQBigRock.prefab
+    projectPath: Assets\HQ_BigRock\HQBigRock.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\HQ_BigRock\HQBigRock.prefab.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\HQ_BigRock\HQBigRock.prefab.meta
+    projectPath: Assets\HQ_BigRock\HQBigRock.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\HQ_BigRock\ModelAndTextures.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\HQ_BigRock\ModelAndTextures.meta
+    projectPath: Assets\HQ_BigRock\ModelAndTextures.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\HQ_BigRock\ModelAndTextures\HQBigRock.FBX
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\HQ_BigRock\ModelAndTextures\HQBigRock.FBX
+    projectPath: Assets\HQ_BigRock\ModelAndTextures\HQBigRock.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\HQ_BigRock\ModelAndTextures\HQBigRock.FBX.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\HQ_BigRock\ModelAndTextures\HQBigRock.FBX.meta
+    projectPath: Assets\HQ_BigRock\ModelAndTextures\HQBigRock.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\HQ_BigRock\ModelAndTextures\HQBigRock_d.tga
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\HQ_BigRock\ModelAndTextures\HQBigRock_d.tga
+    projectPath: Assets\HQ_BigRock\ModelAndTextures\HQBigRock_d.tga
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\HQ_BigRock\ModelAndTextures\HQBigRock_d.tga.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\HQ_BigRock\ModelAndTextures\HQBigRock_d.tga.meta
+    projectPath: Assets\HQ_BigRock\ModelAndTextures\HQBigRock_d.tga.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\HQ_BigRock\ModelAndTextures\HQBigRock_mtl.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\HQ_BigRock\ModelAndTextures\HQBigRock_mtl.mat
+    projectPath: Assets\HQ_BigRock\ModelAndTextures\HQBigRock_mtl.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\HQ_BigRock\ModelAndTextures\HQBigRock_mtl.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\HQ_BigRock\ModelAndTextures\HQBigRock_mtl.mat.meta
+    projectPath: Assets\HQ_BigRock\ModelAndTextures\HQBigRock_mtl.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\HQ_BigRock\ModelAndTextures\HQBigRock_n.tga
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\HQ_BigRock\ModelAndTextures\HQBigRock_n.tga
+    projectPath: Assets\HQ_BigRock\ModelAndTextures\HQBigRock_n.tga
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\HQ_BigRock\ModelAndTextures\HQBigRock_n.tga.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\HQ_BigRock\ModelAndTextures\HQBigRock_n.tga.meta
+    projectPath: Assets\HQ_BigRock\ModelAndTextures\HQBigRock_n.tga.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\HQ_BigRock\ModelAndTextures\HQBigRock_s.tga
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\HQ_BigRock\ModelAndTextures\HQBigRock_s.tga
+    projectPath: Assets\HQ_BigRock\ModelAndTextures\HQBigRock_s.tga
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\HQ_BigRock\ModelAndTextures\HQBigRock_s.tga.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\HQ_BigRock\ModelAndTextures\HQBigRock_s.tga.meta
+    projectPath: Assets\HQ_BigRock\ModelAndTextures\HQBigRock_s.tga.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\HQ_BigRock\ModelAndTextures\Materials.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\HQ_BigRock\ModelAndTextures\Materials.meta
+    projectPath: Assets\HQ_BigRock\ModelAndTextures\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\HQ_BigRock\ModelAndTextures\Materials\HQBigRock_d.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\HQ_BigRock\ModelAndTextures\Materials\HQBigRock_d.mat
+    projectPath: Assets\HQ_BigRock\ModelAndTextures\Materials\HQBigRock_d.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\HQ_BigRock\ModelAndTextures\Materials\HQBigRock_d.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\HQ_BigRock\ModelAndTextures\Materials\HQBigRock_d.mat.meta
+    projectPath: Assets\HQ_BigRock\ModelAndTextures\Materials\HQBigRock_d.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\HQ_BigRock\ModelAndTextures\Materials\HQBigRock_n.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\HQ_BigRock\ModelAndTextures\Materials\HQBigRock_n.mat
+    projectPath: Assets\HQ_BigRock\ModelAndTextures\Materials\HQBigRock_n.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\HQ_BigRock\ModelAndTextures\Materials\HQBigRock_n.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\HQ_BigRock\ModelAndTextures\Materials\HQBigRock_n.mat.meta
+    projectPath: Assets\HQ_BigRock\ModelAndTextures\Materials\HQBigRock_n.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\HQ_BigRock\ModelAndTextures\Materials\HQBigRock_s.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\HQ_BigRock\ModelAndTextures\Materials\HQBigRock_s.mat
+    projectPath: Assets\HQ_BigRock\ModelAndTextures\Materials\HQBigRock_s.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\HQ_BigRock\ModelAndTextures\Materials\HQBigRock_s.mat.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\HQ_BigRock\ModelAndTextures\Materials\HQBigRock_s.mat.meta
+    projectPath: Assets\HQ_BigRock\ModelAndTextures\Materials\HQBigRock_s.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\HQ_BigRock\Scene.unity
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\HQ_BigRock\Scene.unity
+    projectPath: Assets\HQ_BigRock\Scene.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\HQ_BigRock\Scene.unity.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\HQ_BigRock\Scene.unity.meta
+    projectPath: Assets\HQ_BigRock\Scene.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\Horizon[ON]\_Example Scene\Misc\Terrain\TerrainResources\Horizon[ON]
+      Terrain (Gamma).mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\_Example Scene\Misc\Terrain\TerrainResources\Horizon[ON]
+      Terrain (Gamma).mat
+    projectPath: Assets\Plugins\Horizon[ON]\_Example Scene\Misc\Terrain\TerrainResources\Horizon[ON]
+      Terrain (Gamma).mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] Cliff.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Horizon[ON]
+      Cliff.mat
+    projectPath: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] Cliff.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] Displacement.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Horizon[ON]
+      Displacement.mat
+    projectPath: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] Displacement.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] Flat.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Horizon[ON]
+      Flat.mat
+    projectPath: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] Flat.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] Object.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Horizon[ON]
+      Object.mat
+    projectPath: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] Object.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] TransitionSky.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Horizon[ON]
+      TransitionSky.mat
+    projectPath: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] TransitionSky.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] TransitionTerrain.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Horizon[ON]
+      TransitionTerrain.mat
+    projectPath: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] TransitionTerrain.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Plugins\Horizon[ON]\Materials\Material Variations (Gamma _ Mobile)\Horizon[ON]
+      Buildings (Gamma).mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Material
+      Variations (Gamma _ Mobile)\Horizon[ON] Buildings (Gamma).mat
+    projectPath: Assets\Plugins\Horizon[ON]\Materials\Material Variations (Gamma _
+      Mobile)\Horizon[ON] Buildings (Gamma).mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Plugins\Horizon[ON]\Materials\Material Variations (Gamma _ Mobile)\Horizon[ON]
+      Mountains (Gamma).mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Material
+      Variations (Gamma _ Mobile)\Horizon[ON] Mountains (Gamma).mat
+    projectPath: Assets\Plugins\Horizon[ON]\Materials\Material Variations (Gamma _
+      Mobile)\Horizon[ON] Mountains (Gamma).mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Plugins\Horizon[ON]\Materials\Material Variations (Gamma _ Mobile)\Horizon[ON]
+      Trees (Gamma).mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Material
+      Variations (Gamma _ Mobile)\Horizon[ON] Trees (Gamma).mat
+    projectPath: Assets\Plugins\Horizon[ON]\Materials\Material Variations (Gamma _
+      Mobile)\Horizon[ON] Trees (Gamma).mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\Game.unity
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Scenes\Game.unity
+    projectPath: Assets\Scenes\Game.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\Spawner\CreateFog.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Scripts\Spawner\CreateFog.cs
+    projectPath: Assets\Scripts\Spawner\CreateFog.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\Spawner\CreateMonster.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Scripts\Spawner\CreateMonster.cs
+    projectPath: Assets\Scripts\Spawner\CreateMonster.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\Spawner\CreateRock.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Scripts\Spawner\CreateRock.cs
+    projectPath: Assets\Scripts\Spawner\CreateRock.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\APIUpdater\project-dependencies.graph
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\assetDatabase3
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\AssetImportState
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\AssetImportState
+    projectPath: Library\AssetImportState
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\CurrentLayout-default.dwlt
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\CurrentMaximizeLayout.dwlt
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\EditorInstance.json
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\EditorUserBuildSettings.asset
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\EditorUserBuildSettings.asset
+    projectPath: Library\EditorUserBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\LastBuild.buildreport
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\LastBuild.buildreport
+    projectPath: Library\LastBuild.buildreport
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win\Data\boot.config
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\boot.config
+    projectPath: Library\PlayerDataCache\Win\Data\boot.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\globalgamemanagers
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\globalgamemanagers
+    projectPath: Library\PlayerDataCache\Win\Data\globalgamemanagers
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\globalgamemanagers.assets
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\globalgamemanagers.assets
+    projectPath: Library\PlayerDataCache\Win\Data\globalgamemanagers.assets
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\level0
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\level0
+    projectPath: Library\PlayerDataCache\Win\Data\level0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\level0.resS
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\level0.resS
+    projectPath: Library\PlayerDataCache\Win\Data\level0.resS
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\Assembly-CSharp.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\Assembly-CSharp.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\Assembly-CSharp-firstpass.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\Assembly-CSharp-firstpass.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Assembly-CSharp-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\com.unity.multiplayer-hlapi.Runtime.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\com.unity.multiplayer-hlapi.Runtime.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\com.unity.multiplayer-hlapi.Runtime.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\Mono.Security.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\Mono.Security.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Mono.Security.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\mscorlib.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\mscorlib.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\mscorlib.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\netstandard.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\netstandard.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\netstandard.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\Oculus.VR.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\Oculus.VR.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Oculus.VR.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.ComponentModel.Composition.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\System.ComponentModel.Composition.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.ComponentModel.Composition.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Configuration.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\System.Configuration.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Configuration.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Core.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\System.Core.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Core.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Data.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\System.Data.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Data.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Diagnostics.StackTrace.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\System.Diagnostics.StackTrace.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Diagnostics.StackTrace.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\System.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Drawing.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\System.Drawing.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Drawing.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.EnterpriseServices.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\System.EnterpriseServices.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.EnterpriseServices.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Globalization.Extensions.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\System.Globalization.Extensions.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Globalization.Extensions.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.IO.Compression.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\System.IO.Compression.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.IO.Compression.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.IO.Compression.FileSystem.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\System.IO.Compression.FileSystem.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.IO.Compression.FileSystem.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Net.Http.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\System.Net.Http.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Net.Http.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Numerics.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\System.Numerics.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Numerics.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Runtime.Serialization.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\System.Runtime.Serialization.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Runtime.Serialization.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Runtime.Serialization.Xml.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\System.Runtime.Serialization.Xml.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Runtime.Serialization.Xml.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.ServiceModel.Internals.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\System.ServiceModel.Internals.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.ServiceModel.Internals.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Transactions.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\System.Transactions.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Transactions.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Xml.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\System.Xml.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Xml.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Xml.Linq.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\System.Xml.Linq.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Xml.Linq.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Xml.XPath.XDocument.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\System.Xml.XPath.XDocument.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Xml.XPath.XDocument.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\Unity.Analytics.DataPrivacy.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\Unity.Analytics.DataPrivacy.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\Unity.TextMeshPro.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\Unity.TextMeshPro.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\Unity.Timeline.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\Unity.Timeline.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AccessibilityModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AccessibilityModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AccessibilityModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AIModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AIModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AndroidJNIModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AndroidJNIModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AndroidJNIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AnimationModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AnimationModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AnimationModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ARModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ARModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ARModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AssetBundleModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AssetBundleModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AssetBundleModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AudioModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AudioModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AudioModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ClothModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ClothModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ClothModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ClusterInputModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ClusterInputModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ClusterInputModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ClusterRendererModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ClusterRendererModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ClusterRendererModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.CoreModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.CoreModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.CoreModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.CrashReportingModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.CrashReportingModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.CrashReportingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.DirectorModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.DirectorModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.DirectorModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.DSPGraphModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.DSPGraphModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.DSPGraphModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.FileSystemHttpModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.FileSystemHttpModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.FileSystemHttpModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.GameCenterModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.GameCenterModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.GameCenterModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.GridModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.GridModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.GridModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.HotReloadModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.HotReloadModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.HotReloadModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ImageConversionModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ImageConversionModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ImageConversionModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.IMGUIModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.IMGUIModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.IMGUIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.InputLegacyModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.InputLegacyModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.InputLegacyModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.InputModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.InputModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.InputModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.JSONSerializeModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.JSONSerializeModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.JSONSerializeModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.LocalizationModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.LocalizationModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.LocalizationModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ParticleSystemModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ParticleSystemModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ParticleSystemModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.Physics2DModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.Physics2DModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.Physics2DModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.PhysicsModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.PhysicsModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.PhysicsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ProfilerModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ProfilerModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ProfilerModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.Purchasing.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.Purchasing.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.Purchasing.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SharedInternalsModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SharedInternalsModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SharedInternalsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SpatialTracking.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SpatialTracking.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SpatialTracking.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SpriteMaskModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SpriteMaskModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SpriteMaskModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SpriteShapeModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SpriteShapeModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SpriteShapeModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.StreamingModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.StreamingModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.StreamingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SubstanceModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SubstanceModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SubstanceModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TerrainModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TerrainModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TerrainModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TextCoreModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TextCoreModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TextCoreModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TextRenderingModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TextRenderingModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TextRenderingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TilemapModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TilemapModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TilemapModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TLSModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TLSModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TLSModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UI.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UI.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UIElementsModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UIElementsModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UIElementsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UIModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UIModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UmbraModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UmbraModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UmbraModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UNETModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UNETModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UNETModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityConnectModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityConnectModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityConnectModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.VehiclesModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.VehiclesModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.VehiclesModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.VFXModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.VFXModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.VFXModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.VideoModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.VideoModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.VideoModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.VRModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.VRModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.VRModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.WindModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.WindModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.WindModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.XR.LegacyInputHelpers.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.XR.LegacyInputHelpers.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.XR.LegacyInputHelpers.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.XRModule.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.XRModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.XRModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\resources.assets
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\resources.assets
+    projectPath: Library\PlayerDataCache\Win\Data\resources.assets
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\resources.assets.resS
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\resources.assets.resS
+    projectPath: Library\PlayerDataCache\Win\Data\resources.assets.resS
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Resources\unity_builtin_extra
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\Resources\unity_builtin_extra
+    projectPath: Library\PlayerDataCache\Win\Data\Resources\unity_builtin_extra
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\sharedassets0.assets
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\sharedassets0.assets
+    projectPath: Library\PlayerDataCache\Win\Data\sharedassets0.assets
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\sharedassets0.assets.resS
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\sharedassets0.assets.resS
+    projectPath: Library\PlayerDataCache\Win\Data\sharedassets0.assets.resS
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\sharedassets0.resource
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\Data\sharedassets0.resource
+    projectPath: Library\PlayerDataCache\Win\Data\sharedassets0.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\ScriptsOnlyCache.yaml
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\PlayerDataCache\Win\ScriptsOnlyCache.yaml
+    projectPath: Library\PlayerDataCache\Win\ScriptsOnlyCache.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\SceneVisibilityState.asset
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.dll
+    projectPath: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.dll
+    projectPath: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.dll
+    projectPath: Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Oculus.VR.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Oculus.VR.dll
+    projectPath: Library\ScriptAssemblies\Oculus.VR.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Oculus.VR.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Oculus.VR.Editor.dll
+    projectPath: Library\ScriptAssemblies\Oculus.VR.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Oculus.VR.Scripts.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Oculus.VR.Scripts.Editor.dll
+    projectPath: Library\ScriptAssemblies\Oculus.VR.Scripts.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptMapper
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptMapper
+    projectPath: Library\ScriptMapper
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe10.log
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe10.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe10.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe11.log
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe11.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe11.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe4.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe5.log
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe5.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe6.log
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe6.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe7.log
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe7.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe7.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe8.log
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe8.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe8.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe9.log
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe9.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe9.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\Hierarchy\10bd1b-mainStage.json
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\StateCache\Hierarchy\10bd1b-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\10bd1b-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\SceneView\b6d77a-mainStage.json
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\StateCache\SceneView\b6d77a-mainStage.json
+    projectPath: Library\StateCache\SceneView\b6d77a-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\ProjectVersion.txt
+    fullPath: D:\CSCI538\Rush-Diving-src\ProjectSettings\ProjectVersion.txt
+    projectPath: ProjectSettings\ProjectVersion.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\QualitySettings.asset
+    fullPath: D:\CSCI538\Rush-Diving-src\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3

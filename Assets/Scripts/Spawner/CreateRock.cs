@@ -26,7 +26,7 @@ public class CreateRock : MonoBehaviour
     {
         Transform pos = rig.centerEyeAnchor;
         Vector3 vec = pos.position;
-        if (vec.y > 50 & !Menu.GameIsPaused)
+        if (vec.y > 100 & !Menu.GameIsPaused)
         {
             //Vector3 target = new Vector3(vec.x - 50, vec.y, 0);
             //print(pos.position);
@@ -36,7 +36,10 @@ public class CreateRock : MonoBehaviour
                 int count = (int)Random.Range(5, 15);
                 for (int i = 0; i < count; i++)
                 {
-                    Vector3 target = new Vector3(vec.x - Random.Range(400, 600), vec.y + Random.Range(-170, 170), vec.z + Random.Range(-220, 220));
+                    //Vector3 target = new Vector3(vec.x + pos.forward.x * Random.Range(400, 600), vec.y +  Random.Range(-170, 170), vec.z + pos.forward.x * Random.Range(-220, 220));
+                    Vector3 target = new Vector3(vec.x, vec.y+Random.Range(-170, 170), vec.z);
+                    target += pos.forward * Random.Range(400, 600);
+                    target += pos.right * Random.Range(-220, 220);
                     GameObject go = Instantiate(rock, target, Quaternion.Euler(new Vector3(Random.Range(0,360), Random.Range(0, 360), Random.Range(0, 360)))) as GameObject;
                     go.transform.localScale += new Vector3(Random.Range(-0.5f, 2f), Random.Range(-0.5f, 2f), Random.Range(-0.5f, 2f));
                     Destroy(go, 7);

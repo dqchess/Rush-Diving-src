@@ -256,7 +256,7 @@ Material:
     - _Noralmaps: 0
     - _Normalmaps: 0
     - _OverlayFog: 0
-    - _OverlayFogAmount: 0.26
+    - _OverlayFogAmount: 0
     - _OverlayFogAmountFromReflCubemap: 1
     - _OverlayFogAmountLowSun: 1
     - _OverlayFogAmountScattering: 3.375
