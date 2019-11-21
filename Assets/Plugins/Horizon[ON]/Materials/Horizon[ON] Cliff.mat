@@ -278,7 +278,7 @@ Material:
     - _Scale_copy: 100000
     - _Snow: 1
     - _SnowAmount: 1
-    - _SnowHeight: 800
+    - _SnowHeight: 350
     - _SnowHeightTransition: 1000
     - _SnowOutputColorBrightness2Coverage: 0.75
     - _SnowSlopeDamp: 2.68

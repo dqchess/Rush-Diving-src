@@ -148,7 +148,7 @@ Material:
     - _Shininess: 0.09306367
     - _Snow: 1
     - _SnowAmount: 1
-    - _SnowHeight: 800
+    - _SnowHeight: 350
     - _SnowHeightTransition: 1000
     - _SnowOutputColorBrightness2Coverage: 0.8
     - _SnowSlopeDamp: 3.2

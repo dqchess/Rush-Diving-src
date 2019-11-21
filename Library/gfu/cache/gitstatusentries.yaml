@@ -13,629 +13,438 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-11-20T23:30:36.443-08:00
-  initializedAtString: 2019-11-20T23:24:05.834-08:00
+  lastUpdatedAtString: 2019-11-21T00:36:57.008-08:00
+  initializedAtString: 2019-11-21T00:16:18.812-08:00
   entries:
+  - path: Assets\CameraReset.cs
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\CameraReset.cs
+    projectPath: Assets\CameraReset.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CameraReset.cs.meta
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\CameraReset.cs.meta
+    projectPath: Assets\CameraReset.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\Horizon[ON]\_Example Scene\Misc\Terrain\TerrainResources\Horizon[ON]
+      Terrain (Gamma).mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\_Example Scene\Misc\Terrain\TerrainResources\Horizon[ON]
+      Terrain (Gamma).mat
+    projectPath: Assets\Plugins\Horizon[ON]\_Example Scene\Misc\Terrain\TerrainResources\Horizon[ON]
+      Terrain (Gamma).mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] Cliff.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Horizon[ON]
+      Cliff.mat
+    projectPath: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] Cliff.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] Displacement.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Horizon[ON]
+      Displacement.mat
+    projectPath: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] Displacement.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] Flat.mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Horizon[ON]
+      Flat.mat
+    projectPath: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] Flat.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] Object.mat
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Horizon[ON]
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Horizon[ON]
       Object.mat
     projectPath: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] Object.mat
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] TransitionSky.mat
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Horizon[ON]
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Horizon[ON]
       TransitionSky.mat
     projectPath: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] TransitionSky.mat
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] TransitionTerrain.mat
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Horizon[ON]
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Horizon[ON]
       TransitionTerrain.mat
     projectPath: Assets\Plugins\Horizon[ON]\Materials\Horizon[ON] TransitionTerrain.mat
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\TinyDragonMonster.meta
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster.meta
-    projectPath: Assets\TinyDragonMonster.meta
+  - path: Assets\Plugins\Horizon[ON]\Materials\Material Variations (Gamma _ Mobile)\Horizon[ON]
+      Buildings (Gamma).mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Material
+      Variations (Gamma _ Mobile)\Horizon[ON] Buildings (Gamma).mat
+    projectPath: Assets\Plugins\Horizon[ON]\Materials\Material Variations (Gamma _
+      Mobile)\Horizon[ON] Buildings (Gamma).mat
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\Animation.meta
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\Animation.meta
-    projectPath: Assets\TinyDragonMonster\Animation.meta
+    workTreeStatus: 3
+  - path: Assets\Plugins\Horizon[ON]\Materials\Material Variations (Gamma _ Mobile)\Horizon[ON]
+      Mountains (Gamma).mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Material
+      Variations (Gamma _ Mobile)\Horizon[ON] Mountains (Gamma).mat
+    projectPath: Assets\Plugins\Horizon[ON]\Materials\Material Variations (Gamma _
+      Mobile)\Horizon[ON] Mountains (Gamma).mat
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\Animation\TinyDragonMonster@Attack1.FBX
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\Animation\TinyDragonMonster@Attack1.FBX
-    projectPath: Assets\TinyDragonMonster\Animation\TinyDragonMonster@Attack1.FBX
+    workTreeStatus: 3
+  - path: Assets\Plugins\Horizon[ON]\Materials\Material Variations (Gamma _ Mobile)\Horizon[ON]
+      Trees (Gamma).mat
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Plugins\Horizon[ON]\Materials\Material
+      Variations (Gamma _ Mobile)\Horizon[ON] Trees (Gamma).mat
+    projectPath: Assets\Plugins\Horizon[ON]\Materials\Material Variations (Gamma _
+      Mobile)\Horizon[ON] Trees (Gamma).mat
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\Animation\TinyDragonMonster@Attack1.FBX.meta
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\Animation\TinyDragonMonster@Attack1.FBX.meta
-    projectPath: Assets\TinyDragonMonster\Animation\TinyDragonMonster@Attack1.FBX.meta
+    workTreeStatus: 3
+  - path: Assets\Scenes\Game.unity
+    fullPath: D:\CSCI538\Rush-Diving-src\Assets\Scenes\Game.unity
+    projectPath: Assets\Scenes\Game.unity
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\Animation\TinyDragonMonster@Attack2.FBX
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\Animation\TinyDragonMonster@Attack2.FBX
-    projectPath: Assets\TinyDragonMonster\Animation\TinyDragonMonster@Attack2.FBX
+    workTreeStatus: 3
+  - path: Library\APIUpdater\project-dependencies.graph
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\Animation\TinyDragonMonster@Attack2.FBX.meta
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\Animation\TinyDragonMonster@Attack2.FBX.meta
-    projectPath: Assets\TinyDragonMonster\Animation\TinyDragonMonster@Attack2.FBX.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\Animation\TinyDragonMonster@Damage.FBX
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\Animation\TinyDragonMonster@Damage.FBX
-    projectPath: Assets\TinyDragonMonster\Animation\TinyDragonMonster@Damage.FBX
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\Animation\TinyDragonMonster@Damage.FBX.meta
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\Animation\TinyDragonMonster@Damage.FBX.meta
-    projectPath: Assets\TinyDragonMonster\Animation\TinyDragonMonster@Damage.FBX.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\Animation\TinyDragonMonster@Death.FBX
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\Animation\TinyDragonMonster@Death.FBX
-    projectPath: Assets\TinyDragonMonster\Animation\TinyDragonMonster@Death.FBX
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\Animation\TinyDragonMonster@Death.FBX.meta
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\Animation\TinyDragonMonster@Death.FBX.meta
-    projectPath: Assets\TinyDragonMonster\Animation\TinyDragonMonster@Death.FBX.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\Animation\TinyDragonMonster@Idle.FBX
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\Animation\TinyDragonMonster@Idle.FBX
-    projectPath: Assets\TinyDragonMonster\Animation\TinyDragonMonster@Idle.FBX
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\Animation\TinyDragonMonster@Idle.FBX.meta
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\Animation\TinyDragonMonster@Idle.FBX.meta
-    projectPath: Assets\TinyDragonMonster\Animation\TinyDragonMonster@Idle.FBX.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\Animation\TinyDragonMonster@Run.FBX
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\Animation\TinyDragonMonster@Run.FBX
-    projectPath: Assets\TinyDragonMonster\Animation\TinyDragonMonster@Run.FBX
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\Animation\TinyDragonMonster@Run.FBX.meta
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\Animation\TinyDragonMonster@Run.FBX.meta
-    projectPath: Assets\TinyDragonMonster\Animation\TinyDragonMonster@Run.FBX.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\Demo.meta
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\Demo.meta
-    projectPath: Assets\TinyDragonMonster\Demo.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\Demo\Demo.cs
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\Demo\Demo.cs
-    projectPath: Assets\TinyDragonMonster\Demo\Demo.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\Demo\Demo.cs.meta
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\Demo\Demo.cs.meta
-    projectPath: Assets\TinyDragonMonster\Demo\Demo.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\Demo\Demo.unity
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\Demo\Demo.unity
-    projectPath: Assets\TinyDragonMonster\Demo\Demo.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\Demo\Demo.unity.meta
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\Demo\Demo.unity.meta
-    projectPath: Assets\TinyDragonMonster\Demo\Demo.unity.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\Demo\Demo2.unity
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\Demo\Demo2.unity
-    projectPath: Assets\TinyDragonMonster\Demo\Demo2.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\Demo\Demo2.unity.meta
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\Demo\Demo2.unity.meta
-    projectPath: Assets\TinyDragonMonster\Demo\Demo2.unity.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\Material.meta
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\Material.meta
-    projectPath: Assets\TinyDragonMonster\Material.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\Material\TinyDragonMonsterMat1.mat
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\Material\TinyDragonMonsterMat1.mat
-    projectPath: Assets\TinyDragonMonster\Material\TinyDragonMonsterMat1.mat
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\Material\TinyDragonMonsterMat1.mat.meta
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\Material\TinyDragonMonsterMat1.mat.meta
-    projectPath: Assets\TinyDragonMonster\Material\TinyDragonMonsterMat1.mat.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\Material\TinyDragonMonsterMat2.mat
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\Material\TinyDragonMonsterMat2.mat
-    projectPath: Assets\TinyDragonMonster\Material\TinyDragonMonsterMat2.mat
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\Material\TinyDragonMonsterMat2.mat.meta
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\Material\TinyDragonMonsterMat2.mat.meta
-    projectPath: Assets\TinyDragonMonster\Material\TinyDragonMonsterMat2.mat.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\Model.meta
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\Model.meta
-    projectPath: Assets\TinyDragonMonster\Model.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\Model\TinyDragonMonster.FBX
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\Model\TinyDragonMonster.FBX
-    projectPath: Assets\TinyDragonMonster\Model\TinyDragonMonster.FBX
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\Model\TinyDragonMonster.FBX.meta
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\Model\TinyDragonMonster.FBX.meta
-    projectPath: Assets\TinyDragonMonster\Model\TinyDragonMonster.FBX.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\monster_script.cs
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\monster_script.cs
-    projectPath: Assets\TinyDragonMonster\monster_script.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\monster_script.cs.meta
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\monster_script.cs.meta
-    projectPath: Assets\TinyDragonMonster\monster_script.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\New Material.mat
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\New
-      Material.mat
-    projectPath: Assets\TinyDragonMonster\New Material.mat
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\New Material.mat.meta
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\New
-      Material.mat.meta
-    projectPath: Assets\TinyDragonMonster\New Material.mat.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\Prefab.meta
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\Prefab.meta
-    projectPath: Assets\TinyDragonMonster\Prefab.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\Prefab\TinyDragonMonster1.prefab
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\Prefab\TinyDragonMonster1.prefab
-    projectPath: Assets\TinyDragonMonster\Prefab\TinyDragonMonster1.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\Prefab\TinyDragonMonster1.prefab.meta
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\Prefab\TinyDragonMonster1.prefab.meta
-    projectPath: Assets\TinyDragonMonster\Prefab\TinyDragonMonster1.prefab.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\Prefab\TinyDragonMonster2.prefab
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\Prefab\TinyDragonMonster2.prefab
-    projectPath: Assets\TinyDragonMonster\Prefab\TinyDragonMonster2.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\Prefab\TinyDragonMonster2.prefab.meta
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\Prefab\TinyDragonMonster2.prefab.meta
-    projectPath: Assets\TinyDragonMonster\Prefab\TinyDragonMonster2.prefab.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\Texture.meta
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\Texture.meta
-    projectPath: Assets\TinyDragonMonster\Texture.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\Texture\TinyDragonMonsterTex1.tga
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\Texture\TinyDragonMonsterTex1.tga
-    projectPath: Assets\TinyDragonMonster\Texture\TinyDragonMonsterTex1.tga
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\Texture\TinyDragonMonsterTex1.tga.meta
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\Texture\TinyDragonMonsterTex1.tga.meta
-    projectPath: Assets\TinyDragonMonster\Texture\TinyDragonMonsterTex1.tga.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\Texture\TinyDragonMonsterTex1_NRM.png
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\Texture\TinyDragonMonsterTex1_NRM.png
-    projectPath: Assets\TinyDragonMonster\Texture\TinyDragonMonsterTex1_NRM.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\Texture\TinyDragonMonsterTex1_NRM.png.meta
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\Texture\TinyDragonMonsterTex1_NRM.png.meta
-    projectPath: Assets\TinyDragonMonster\Texture\TinyDragonMonsterTex1_NRM.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\Texture\TinyDragonMonsterTex2.tga
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\Texture\TinyDragonMonsterTex2.tga
-    projectPath: Assets\TinyDragonMonster\Texture\TinyDragonMonsterTex2.tga
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TinyDragonMonster\Texture\TinyDragonMonsterTex2.tga.meta
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Assets\TinyDragonMonster\Texture\TinyDragonMonsterTex2.tga.meta
-    projectPath: Assets\TinyDragonMonster\Texture\TinyDragonMonsterTex2.tga.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    workTreeStatus: 3
   - path: Library\assetDatabase3
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\assetDatabase3
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\assetDatabase3
     projectPath: Library\assetDatabase3
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\AssetImportState
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\AssetImportState
-    projectPath: Library\AssetImportState
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\EditorInstance.json
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\EditorInstance.json
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\EditorUserBuildSettings.asset
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\EditorUserBuildSettings.asset
-    projectPath: Library\EditorUserBuildSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\gfu\cache\branches.yaml
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\gfu\cache\gitlog.yaml
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\gitlog.yaml
     projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\SceneVisibilityState.asset
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\SceneVisibilityState.asset
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\BuiltinAssemblies.stamp
     projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.dll
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.dll
     projectPath: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.dll
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.dll
     projectPath: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.dll
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.dll
     projectPath: Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Oculus.VR.dll
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\ScriptAssemblies\Oculus.VR.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Oculus.VR.dll
     projectPath: Library\ScriptAssemblies\Oculus.VR.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Oculus.VR.Editor.dll
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\ScriptAssemblies\Oculus.VR.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Oculus.VR.Editor.dll
     projectPath: Library\ScriptAssemblies\Oculus.VR.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Oculus.VR.Scripts.Editor.dll
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\ScriptAssemblies\Oculus.VR.Scripts.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Oculus.VR.Scripts.Editor.dll
     projectPath: Library\ScriptAssemblies\Oculus.VR.Scripts.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
     projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.Rider.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.TextMeshPro.dll
     projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Timeline.dll
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.Timeline.dll
     projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
     projectPath: Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
     projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEditor.UI.dll
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\UnityEditor.UI.dll
     projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
     projectPath: Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.UI.dll
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\UnityEngine.UI.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptMapper
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\ScriptMapper
-    projectPath: Library\ScriptMapper
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\ShaderCache.db
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\ShaderCache.db
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\ShaderCache.db
     projectPath: Library\ShaderCache.db
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe1.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe10.log
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe10.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe10.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe11.log
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe11.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe11.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe2.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe3.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\shadercompiler-UnityShaderCompiler.exe4.log
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe4.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\shadercompiler-UnityShaderCompiler.exe5.log
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe5.log
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe5.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\shadercompiler-UnityShaderCompiler.exe6.log
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe6.log
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe6.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\shadercompiler-UnityShaderCompiler.exe7.log
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe7.log
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe7.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe7.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe8.log
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe8.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe8.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe9.log
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\shadercompiler-UnityShaderCompiler.exe9.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe9.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\StateCache\Hierarchy\10bd1b-mainStage.json
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\StateCache\Hierarchy\10bd1b-mainStage.json
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\StateCache\Hierarchy\10bd1b-mainStage.json
     projectPath: Library\StateCache\Hierarchy\10bd1b-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\StateCache\SceneView\b6d77a-mainStage.json
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\Library\StateCache\SceneView\b6d77a-mainStage.json
+    fullPath: D:\CSCI538\Rush-Diving-src\Library\StateCache\SceneView\b6d77a-mainStage.json
     projectPath: Library\StateCache\SceneView\b6d77a-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: ProjectSettings\ProjectVersion.txt
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\ProjectSettings\ProjectVersion.txt
-    projectPath: ProjectSettings\ProjectVersion.txt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: ProjectSettings\QualitySettings.asset
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\ProjectSettings\QualitySettings.asset
+    fullPath: D:\CSCI538\Rush-Diving-src\ProjectSettings\QualitySettings.asset
     projectPath: ProjectSettings\QualitySettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings\TimeManager.asset
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\ProjectSettings\TimeManager.asset
-    projectPath: ProjectSettings\TimeManager.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings\UnityConnectSettings.asset
-    fullPath: C:\Users\yunalulu\Desktop\Rush-Diving-src\ProjectSettings\UnityConnectSettings.asset
-    projectPath: ProjectSettings\UnityConnectSettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
