@@ -17,6 +17,9 @@ public class DiverControl : MonoBehaviour
 
     public static Vector3 moveVector;
 
+    private float lastFrameLeftHeight;
+    private float lastFrameRightHeight;
+
     void Start()
     {
         //controller = GetComponent<CharacterController>();
@@ -58,6 +61,22 @@ public class DiverControl : MonoBehaviour
 
 
         Vector3 yaw = inputs.x * transform.right * rotSpeedX * Time.deltaTime;
+
+        if (OVRInput.Get(OVRInput.Axis1D.PrimaryHandTrigger)>0 && OVRInput.Get(OVRInput.Axis1D.SecondaryHandTrigger)>0)
+        {
+            if(leftHand.transform.position.y > lastFrameLeftHeight && rightHand.transform.position.y > lastFrameRightHeight)
+            {
+                inputs.y = 1f;
+            }
+            if(leftHand.transform.position.y < lastFrameLeftHeight && rightHand.transform.position.y < lastFrameRightHeight)
+            {
+                inputs.y = -1f;
+            }
+
+            yaw += inputs.y * transform.up * rotSpeedX * Time.deltaTime;
+        }
+
+
         Vector3 dir = yaw;
 
         moveVector += dir;
@@ -96,5 +115,8 @@ public class DiverControl : MonoBehaviour
         transform.Rotate(new Vector3(0, 0, -leanCount * 0.15f));
         //Debug.Log(transform.rotation.y);
         //transform.rotation = Quaternion.Euler(0, transform.rotation.y*360, -leanCount * 0.1f);
+
+        lastFrameLeftHeight = leftHand.transform.position.y;
+        lastFrameRightHeight = rightHand.transform.position.y;
     }
 }
