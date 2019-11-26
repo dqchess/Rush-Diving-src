@@ -51,6 +51,10 @@ public class Menu : MonoBehaviour
         {
             Success();
         }
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            StartGame();
+        }
     }
 
     public void StartGame()

@@ -15,7 +15,7 @@ public class RockBehavior : MonoBehaviour
 
     void Start()
     {
-        rotation = new Vector3( Random.Range(-1,1), Random.Range(-1, 1), Random.Range(-1, 1));
+       // rotation = new Vector3( Random.Range(-1,1), Random.Range(-1, 1), Random.Range(-1, 1));
         speed = Random.Range(1,3);
         collisionSource = GetComponent<AudioSource> ();
         Material = GetComponent<Renderer>().material;
@@ -26,6 +26,8 @@ public class RockBehavior : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        transform.position -= new Vector3(1, 0, 0)*speed*Time.deltaTime*20;
+        return;
         if (A<=1)
         {
             A += Time.deltaTime * 0.3f;
