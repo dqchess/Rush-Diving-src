@@ -12,17 +12,22 @@ public class CreateBall : MonoBehaviour
 
     private float Timer;
 
-  
+    public int time;
+
     void Start()
     {
-        
+        time = 0;
     }
 
     
     void Update()
     {
+
+        time++;
+
+
         Timer += Time.deltaTime;
-        if (Timer >=0.1f)
+        if (Timer >=0.1f && time % 10 == 0)
         {
             Timer = 0;
             CreateABall();
@@ -31,8 +36,13 @@ public class CreateBall : MonoBehaviour
 
     private void CreateABall()
     {
+
+        Debug.Log("PRINTING TARGET.POSITION "  + Target.position);
+
         GameObject go = Instantiate(Ball);
-        go.transform.position = (Target.position + Player.position) / 2 + new Vector3(Random.Range(-100f, 100f), 0, Random.Range(-100f, 100f));
+        //go.transform.position = (Target.position + Player.position) / 2 + new Vector3(Random.Range(-100f, 100f), 0, Random.Range(-100f, 100f));
+        go.transform.position = Target.position;
+
         go.SetActive(true);
     }
 
