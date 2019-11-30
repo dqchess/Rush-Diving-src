@@ -10,7 +10,7 @@ public class DiverControl : MonoBehaviour
     public GameObject rightHand;
 
     Vector3 originalAngle = new Vector3(-1, 0, 0);
-    private float baseSpeed = 100.0f;
+    private float baseSpeed = 10.0f;
     private float rotSpeedX = 20.0f;
     private float leanCount = 0f;
     public float maxLean = 200f;

@@ -13,9 +13,453 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-11-27T17:22:08.102-08:00
-  initializedAtString: 2019-11-27T17:22:08.102-08:00
+  lastUpdatedAtString: 2019-11-27T20:40:22.824-08:00
+  initializedAtString: 2019-11-27T20:40:22.644-08:00
   log:
+  - commitID: 4b34e2f342afc96ec34976f62a796e923f8f94a7
+    mergeA: 
+    mergeB: 
+    authorName: Jie Ji
+    authorEmail: jiej@Jies-MacBook-Pro-4.local
+    commitEmail: jiej@Jies-MacBook-Pro-4.local
+    commitName: Jie Ji
+    summary: Adjusted spell collision; adjusted BGM replay after death
+    description: 
+    timeString: 2019-11-27T20:32:51.000-08:00
+    commitTimeString: 2019-11-27T20:32:51.000-08:00
+    changes:
+    - path: .DS_Store
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/.DS_Store
+      projectPath: .DS_Store
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/CreateBall.cs
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/CreateBall.cs
+      projectPath: Assets/CreateBall.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/MagicBall.cs
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/MagicBall.cs
+      projectPath: Assets/MagicBall.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Scenes/Game.unity
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/Scenes/Game.unity
+      projectPath: Assets/Scenes/Game.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Source/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Explosions/Sparkler/GreenSparklerImpact.prefab
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/Source/Sci-Fi Arsenal/Sci-Fi
+        Effects/Prefabs/Combat/Explosions/Sparkler/GreenSparklerImpact.prefab
+      projectPath: Assets/Source/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Explosions/Sparkler/GreenSparklerImpact.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Source/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Explosions/Sparkler/PurpleSparklerImpact.prefab
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/Source/Sci-Fi Arsenal/Sci-Fi
+        Effects/Prefabs/Combat/Explosions/Sparkler/PurpleSparklerImpact.prefab
+      projectPath: Assets/Source/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Explosions/Sparkler/PurpleSparklerImpact.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Source/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Missiles/Sparkler/BlueSparklerMissile.prefab
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/Source/Sci-Fi Arsenal/Sci-Fi
+        Effects/Prefabs/Combat/Missiles/Sparkler/BlueSparklerMissile.prefab
+      projectPath: Assets/Source/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Missiles/Sparkler/BlueSparklerMissile.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Source/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Missiles/Sparkler/GreenSparklerMissile.prefab
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/Source/Sci-Fi Arsenal/Sci-Fi
+        Effects/Prefabs/Combat/Missiles/Sparkler/GreenSparklerMissile.prefab
+      projectPath: Assets/Source/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Missiles/Sparkler/GreenSparklerMissile.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Source/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Missiles/Sparkler/PurpleSparklerMissile.prefab
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/Source/Sci-Fi Arsenal/Sci-Fi
+        Effects/Prefabs/Combat/Missiles/Sparkler/PurpleSparklerMissile.prefab
+      projectPath: Assets/Source/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Missiles/Sparkler/PurpleSparklerMissile.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Source/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Missiles/Sparkler/RedSparklerMissile.prefab
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/Source/Sci-Fi Arsenal/Sci-Fi
+        Effects/Prefabs/Combat/Missiles/Sparkler/RedSparklerMissile.prefab
+      projectPath: Assets/Source/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Missiles/Sparkler/RedSparklerMissile.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets/Source/Standard Assets/Environment/Water/Water/Materials/WaterProDaytime.mat
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/Source/Standard Assets/Environment/Water/Water/Materials/WaterProDaytime.mat
+      projectPath: Assets/Source/Standard Assets/Environment/Water/Water/Materials/WaterProDaytime.mat
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/APIUpdater/project-dependencies.graph
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/APIUpdater/project-dependencies.graph
+      projectPath: Library/APIUpdater/project-dependencies.graph
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/AssetImportState
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/AssetImportState
+      projectPath: Library/AssetImportState
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/CurrentMaximizeLayout.dwlt
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/CurrentMaximizeLayout.dwlt
+      projectPath: Library/CurrentMaximizeLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/EditorInstance.json
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/EditorInstance.json
+      projectPath: Library/EditorInstance.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/EditorUserBuildSettings.asset
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/EditorUserBuildSettings.asset
+      projectPath: Library/EditorUserBuildSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/InspectorExpandedItems.asset
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/InspectorExpandedItems.asset
+      projectPath: Library/InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/SceneVisibilityState.asset
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/SceneVisibilityState.asset
+      projectPath: Library/SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Assembly-CSharp.dll
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/ScriptAssemblies/Assembly-CSharp.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      projectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Oculus.VR.Editor.dll
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/ScriptAssemblies/Oculus.VR.Editor.dll
+      projectPath: Library/ScriptAssemblies/Oculus.VR.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Oculus.VR.Scripts.Editor.dll
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/ScriptAssemblies/Oculus.VR.Scripts.Editor.dll
+      projectPath: Library/ScriptAssemblies/Oculus.VR.Scripts.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Oculus.VR.dll
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/ScriptAssemblies/Oculus.VR.dll
+      projectPath: Library/ScriptAssemblies/Oculus.VR.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll
+      projectPath: Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.Rider.Editor.dll
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/ScriptAssemblies/Unity.Rider.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.Rider.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/ScriptAssemblies/Unity.TextMeshPro.dll
+      projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.Timeline.dll
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/ScriptAssemblies/Unity.Timeline.dll
+      projectPath: Library/ScriptAssemblies/Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll
+      projectPath: Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+      projectPath: Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/UnityEditor.UI.dll
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/ScriptAssemblies/UnityEditor.UI.dll
+      projectPath: Library/ScriptAssemblies/UnityEditor.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll
+      projectPath: Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll
+      projectPath: Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+      projectPath: Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/UnityEngine.UI.dll
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/ScriptAssemblies/UnityEngine.UI.dll
+      projectPath: Library/ScriptAssemblies/UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll
+      projectPath: Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll
+      projectPath: Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll
+      projectPath: Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll
+      projectPath: Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ScriptMapper
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/ScriptMapper
+      projectPath: Library/ScriptMapper
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ShaderCache.db
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/ShaderCache.db
+      projectPath: Library/ShaderCache.db
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/StateCache/Hierarchy/10bd1b-mainStage.json
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/StateCache/Hierarchy/10bd1b-mainStage.json
+      projectPath: Library/StateCache/Hierarchy/10bd1b-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/StateCache/SceneView/b6d77a-mainStage.json
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/StateCache/SceneView/b6d77a-mainStage.json
+      projectPath: Library/StateCache/SceneView/b6d77a-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/assetDatabase3
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/assetDatabase3
+      projectPath: Library/assetDatabase3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/branches.yaml
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/repoinfo.yaml
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/gfu/cache/repoinfo.yaml
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/shadercompiler-UnityShaderCompiler0.log
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/shadercompiler-UnityShaderCompiler0.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/shadercompiler-UnityShaderCompiler1.log
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/shadercompiler-UnityShaderCompiler1.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler1.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/shadercompiler-UnityShaderCompiler10.log
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/shadercompiler-UnityShaderCompiler10.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler10.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/shadercompiler-UnityShaderCompiler11.log
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/shadercompiler-UnityShaderCompiler11.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler11.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/shadercompiler-UnityShaderCompiler2.log
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/shadercompiler-UnityShaderCompiler2.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler2.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/shadercompiler-UnityShaderCompiler3.log
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/shadercompiler-UnityShaderCompiler3.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler3.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/shadercompiler-UnityShaderCompiler4.log
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/shadercompiler-UnityShaderCompiler4.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler4.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/shadercompiler-UnityShaderCompiler5.log
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/shadercompiler-UnityShaderCompiler5.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler5.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/shadercompiler-UnityShaderCompiler6.log
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/shadercompiler-UnityShaderCompiler6.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler6.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/shadercompiler-UnityShaderCompiler7.log
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/shadercompiler-UnityShaderCompiler7.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler7.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/shadercompiler-UnityShaderCompiler8.log
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/shadercompiler-UnityShaderCompiler8.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler8.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library/shadercompiler-UnityShaderCompiler9.log
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/shadercompiler-UnityShaderCompiler9.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler9.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings/ProjectVersion.txt
+      fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/ProjectSettings/ProjectVersion.txt
+      projectPath: ProjectSettings/ProjectVersion.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 34fbd85f1b307a9960c8bb31a4f6145aeee98929
     mergeA: 
     mergeB: 

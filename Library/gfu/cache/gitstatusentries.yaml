@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-11-27T20:29:37.369-08:00
-  initializedAtString: 2019-11-27T17:49:29.487-08:00
+  lastUpdatedAtString: 2019-11-29T21:07:26.468-08:00
+  initializedAtString: 2019-11-29T20:28:46.521-08:00
   entries:
   - path: .DS_Store
     fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/.DS_Store
@@ -28,6 +28,522 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Assets/EgyptMonsters.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters.meta
+    projectPath: Assets/EgyptMonsters.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Animations.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Animations.meta
+    projectPath: Assets/EgyptMonsters/Animations.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Animations/Eagles.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Animations/Eagles.meta
+    projectPath: Assets/EgyptMonsters/Animations/Eagles.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Animations/Eagles/Eagle_Attack.fbx
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Animations/Eagles/Eagle_Attack.fbx
+    projectPath: Assets/EgyptMonsters/Animations/Eagles/Eagle_Attack.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Animations/Eagles/Eagle_Attack.fbx.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Animations/Eagles/Eagle_Attack.fbx.meta
+    projectPath: Assets/EgyptMonsters/Animations/Eagles/Eagle_Attack.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Animations/Eagles/Eagle_Damaged.fbx
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Animations/Eagles/Eagle_Damaged.fbx
+    projectPath: Assets/EgyptMonsters/Animations/Eagles/Eagle_Damaged.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Animations/Eagles/Eagle_Damaged.fbx.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Animations/Eagles/Eagle_Damaged.fbx.meta
+    projectPath: Assets/EgyptMonsters/Animations/Eagles/Eagle_Damaged.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Animations/Eagles/Eagle_Die.fbx
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Animations/Eagles/Eagle_Die.fbx
+    projectPath: Assets/EgyptMonsters/Animations/Eagles/Eagle_Die.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Animations/Eagles/Eagle_Die.fbx.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Animations/Eagles/Eagle_Die.fbx.meta
+    projectPath: Assets/EgyptMonsters/Animations/Eagles/Eagle_Die.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Animations/Eagles/Eagle_Fly.FBX
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Animations/Eagles/Eagle_Fly.FBX
+    projectPath: Assets/EgyptMonsters/Animations/Eagles/Eagle_Fly.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Animations/Eagles/Eagle_Fly.FBX.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Animations/Eagles/Eagle_Fly.FBX.meta
+    projectPath: Assets/EgyptMonsters/Animations/Eagles/Eagle_Fly.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Animations/Eagles/Eagle_Idle.FBX
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Animations/Eagles/Eagle_Idle.FBX
+    projectPath: Assets/EgyptMonsters/Animations/Eagles/Eagle_Idle.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Animations/Eagles/Eagle_Idle.FBX.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Animations/Eagles/Eagle_Idle.FBX.meta
+    projectPath: Assets/EgyptMonsters/Animations/Eagles/Eagle_Idle.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Animations/Eagles/Eagle_Leave.FBX
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Animations/Eagles/Eagle_Leave.FBX
+    projectPath: Assets/EgyptMonsters/Animations/Eagles/Eagle_Leave.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Animations/Eagles/Eagle_Leave.FBX.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Animations/Eagles/Eagle_Leave.FBX.meta
+    projectPath: Assets/EgyptMonsters/Animations/Eagles/Eagle_Leave.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Animators.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Animators.meta
+    projectPath: Assets/EgyptMonsters/Animators.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Animators/Eagles.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Animators/Eagles.meta
+    projectPath: Assets/EgyptMonsters/Animators/Eagles.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Animators/Eagles/Eagle.controller
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Animators/Eagles/Eagle.controller
+    projectPath: Assets/EgyptMonsters/Animators/Eagles/Eagle.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Animators/Eagles/Eagle.controller.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Animators/Eagles/Eagle.controller.meta
+    projectPath: Assets/EgyptMonsters/Animators/Eagles/Eagle.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Demo.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Demo.meta
+    projectPath: Assets/EgyptMonsters/Demo.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Demo/DemoAssets.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Demo/DemoAssets.meta
+    projectPath: Assets/EgyptMonsters/Demo/DemoAssets.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Demo/DemoAssets/Materials.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Demo/DemoAssets/Materials.meta
+    projectPath: Assets/EgyptMonsters/Demo/DemoAssets/Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Demo/DemoAssets/Materials/GrassSimple.mat
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Demo/DemoAssets/Materials/GrassSimple.mat
+    projectPath: Assets/EgyptMonsters/Demo/DemoAssets/Materials/GrassSimple.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Demo/DemoAssets/Materials/GrassSimple.mat.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Demo/DemoAssets/Materials/GrassSimple.mat.meta
+    projectPath: Assets/EgyptMonsters/Demo/DemoAssets/Materials/GrassSimple.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Demo/DemoAssets/Materials/Ground.mat
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Demo/DemoAssets/Materials/Ground.mat
+    projectPath: Assets/EgyptMonsters/Demo/DemoAssets/Materials/Ground.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Demo/DemoAssets/Materials/Ground.mat.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Demo/DemoAssets/Materials/Ground.mat.meta
+    projectPath: Assets/EgyptMonsters/Demo/DemoAssets/Materials/Ground.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Demo/DemoAssets/Materials/Pole.mat
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Demo/DemoAssets/Materials/Pole.mat
+    projectPath: Assets/EgyptMonsters/Demo/DemoAssets/Materials/Pole.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Demo/DemoAssets/Materials/Pole.mat.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Demo/DemoAssets/Materials/Pole.mat.meta
+    projectPath: Assets/EgyptMonsters/Demo/DemoAssets/Materials/Pole.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Demo/DemoAssets/Materials/Tree.mat
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Demo/DemoAssets/Materials/Tree.mat
+    projectPath: Assets/EgyptMonsters/Demo/DemoAssets/Materials/Tree.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Demo/DemoAssets/Materials/Tree.mat.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Demo/DemoAssets/Materials/Tree.mat.meta
+    projectPath: Assets/EgyptMonsters/Demo/DemoAssets/Materials/Tree.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Demo/DemoAssets/Meshes.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Demo/DemoAssets/Meshes.meta
+    projectPath: Assets/EgyptMonsters/Demo/DemoAssets/Meshes.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Demo/DemoAssets/Meshes/AttackDummy.controller
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Demo/DemoAssets/Meshes/AttackDummy.controller
+    projectPath: Assets/EgyptMonsters/Demo/DemoAssets/Meshes/AttackDummy.controller
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Demo/DemoAssets/Meshes/AttackDummy.controller.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Demo/DemoAssets/Meshes/AttackDummy.controller.meta
+    projectPath: Assets/EgyptMonsters/Demo/DemoAssets/Meshes/AttackDummy.controller.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Demo/DemoAssets/Meshes/AttackDummy.fbx
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Demo/DemoAssets/Meshes/AttackDummy.fbx
+    projectPath: Assets/EgyptMonsters/Demo/DemoAssets/Meshes/AttackDummy.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Demo/DemoAssets/Meshes/AttackDummy.fbx.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Demo/DemoAssets/Meshes/AttackDummy.fbx.meta
+    projectPath: Assets/EgyptMonsters/Demo/DemoAssets/Meshes/AttackDummy.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Demo/DemoAssets/Meshes/Grass.FBX
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Demo/DemoAssets/Meshes/Grass.FBX
+    projectPath: Assets/EgyptMonsters/Demo/DemoAssets/Meshes/Grass.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Demo/DemoAssets/Meshes/Grass.FBX.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Demo/DemoAssets/Meshes/Grass.FBX.meta
+    projectPath: Assets/EgyptMonsters/Demo/DemoAssets/Meshes/Grass.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Demo/DemoAssets/Meshes/Tree.FBX
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Demo/DemoAssets/Meshes/Tree.FBX
+    projectPath: Assets/EgyptMonsters/Demo/DemoAssets/Meshes/Tree.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Demo/DemoAssets/Meshes/Tree.FBX.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Demo/DemoAssets/Meshes/Tree.FBX.meta
+    projectPath: Assets/EgyptMonsters/Demo/DemoAssets/Meshes/Tree.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Demo/DemoAssets/Shaders.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Demo/DemoAssets/Shaders.meta
+    projectPath: Assets/EgyptMonsters/Demo/DemoAssets/Shaders.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Demo/DemoAssets/Shaders/GrassAnimate.shader
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Demo/DemoAssets/Shaders/GrassAnimate.shader
+    projectPath: Assets/EgyptMonsters/Demo/DemoAssets/Shaders/GrassAnimate.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Demo/DemoAssets/Shaders/GrassAnimate.shader.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Demo/DemoAssets/Shaders/GrassAnimate.shader.meta
+    projectPath: Assets/EgyptMonsters/Demo/DemoAssets/Shaders/GrassAnimate.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Demo/DemoAssets/Textures.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Demo/DemoAssets/Textures.meta
+    projectPath: Assets/EgyptMonsters/Demo/DemoAssets/Textures.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Demo/DemoAssets/Textures/T_Grass.jpg
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Demo/DemoAssets/Textures/T_Grass.jpg
+    projectPath: Assets/EgyptMonsters/Demo/DemoAssets/Textures/T_Grass.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Demo/DemoAssets/Textures/T_Grass.jpg.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Demo/DemoAssets/Textures/T_Grass.jpg.meta
+    projectPath: Assets/EgyptMonsters/Demo/DemoAssets/Textures/T_Grass.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Demo/DemoAssets/Textures/T_Pole.jpg
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Demo/DemoAssets/Textures/T_Pole.jpg
+    projectPath: Assets/EgyptMonsters/Demo/DemoAssets/Textures/T_Pole.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Demo/DemoAssets/Textures/T_Pole.jpg.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Demo/DemoAssets/Textures/T_Pole.jpg.meta
+    projectPath: Assets/EgyptMonsters/Demo/DemoAssets/Textures/T_Pole.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Demo/DemoAssets/Textures/Tree.png
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Demo/DemoAssets/Textures/Tree.png
+    projectPath: Assets/EgyptMonsters/Demo/DemoAssets/Textures/Tree.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Demo/DemoAssets/Textures/Tree.png.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Demo/DemoAssets/Textures/Tree.png.meta
+    projectPath: Assets/EgyptMonsters/Demo/DemoAssets/Textures/Tree.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Demo/Eagle_Demo.unity
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Demo/Eagle_Demo.unity
+    projectPath: Assets/EgyptMonsters/Demo/Eagle_Demo.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Demo/Eagle_Demo.unity.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Demo/Eagle_Demo.unity.meta
+    projectPath: Assets/EgyptMonsters/Demo/Eagle_Demo.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Effects.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Effects.meta
+    projectPath: Assets/EgyptMonsters/Effects.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Effects/Eagles.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Effects/Eagles.meta
+    projectPath: Assets/EgyptMonsters/Effects/Eagles.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Effects/Eagles/Eagle_Scratch.mat
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Effects/Eagles/Eagle_Scratch.mat
+    projectPath: Assets/EgyptMonsters/Effects/Eagles/Eagle_Scratch.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Effects/Eagles/Eagle_Scratch.mat.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Effects/Eagles/Eagle_Scratch.mat.meta
+    projectPath: Assets/EgyptMonsters/Effects/Eagles/Eagle_Scratch.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Effects/Eagles/Eagle_Scratch.png
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Effects/Eagles/Eagle_Scratch.png
+    projectPath: Assets/EgyptMonsters/Effects/Eagles/Eagle_Scratch.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Effects/Eagles/Eagle_Scratch.png.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Effects/Eagles/Eagle_Scratch.png.meta
+    projectPath: Assets/EgyptMonsters/Effects/Eagles/Eagle_Scratch.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Effects/Eagles/Eagle_Scratch.prefab
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Effects/Eagles/Eagle_Scratch.prefab
+    projectPath: Assets/EgyptMonsters/Effects/Eagles/Eagle_Scratch.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Effects/Eagles/Eagle_Scratch.prefab.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Effects/Eagles/Eagle_Scratch.prefab.meta
+    projectPath: Assets/EgyptMonsters/Effects/Eagles/Eagle_Scratch.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Models.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Models.meta
+    projectPath: Assets/EgyptMonsters/Models.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Models/Eagles.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Models/Eagles.meta
+    projectPath: Assets/EgyptMonsters/Models/Eagles.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Models/Eagles/Eagle_Elite.FBX
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Models/Eagles/Eagle_Elite.FBX
+    projectPath: Assets/EgyptMonsters/Models/Eagles/Eagle_Elite.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Models/Eagles/Eagle_Elite.FBX.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Models/Eagles/Eagle_Elite.FBX.meta
+    projectPath: Assets/EgyptMonsters/Models/Eagles/Eagle_Elite.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Models/Eagles/Eagle_Normal.fbx
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Models/Eagles/Eagle_Normal.fbx
+    projectPath: Assets/EgyptMonsters/Models/Eagles/Eagle_Normal.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Models/Eagles/Eagle_Normal.fbx.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Models/Eagles/Eagle_Normal.fbx.meta
+    projectPath: Assets/EgyptMonsters/Models/Eagles/Eagle_Normal.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Models/Eagles/Materials.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Models/Eagles/Materials.meta
+    projectPath: Assets/EgyptMonsters/Models/Eagles/Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Models/Eagles/Materials/Materials.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Models/Eagles/Materials/Materials.meta
+    projectPath: Assets/EgyptMonsters/Models/Eagles/Materials/Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Models/Eagles/Materials/Materials/T_Eagle.mat
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Models/Eagles/Materials/Materials/T_Eagle.mat
+    projectPath: Assets/EgyptMonsters/Models/Eagles/Materials/Materials/T_Eagle.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Models/Eagles/Materials/Materials/T_Eagle.mat.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Models/Eagles/Materials/Materials/T_Eagle.mat.meta
+    projectPath: Assets/EgyptMonsters/Models/Eagles/Materials/Materials/T_Eagle.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Models/Eagles/Materials/T_Eagle.tga
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Models/Eagles/Materials/T_Eagle.tga
+    projectPath: Assets/EgyptMonsters/Models/Eagles/Materials/T_Eagle.tga
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Models/Eagles/Materials/T_Eagle.tga.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Models/Eagles/Materials/T_Eagle.tga.meta
+    projectPath: Assets/EgyptMonsters/Models/Eagles/Materials/T_Eagle.tga.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Prefabs.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Prefabs.meta
+    projectPath: Assets/EgyptMonsters/Prefabs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Prefabs/Eagles.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Prefabs/Eagles.meta
+    projectPath: Assets/EgyptMonsters/Prefabs/Eagles.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Prefabs/Eagles/Eagle_Elite.prefab
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Prefabs/Eagles/Eagle_Elite.prefab
+    projectPath: Assets/EgyptMonsters/Prefabs/Eagles/Eagle_Elite.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Prefabs/Eagles/Eagle_Elite.prefab.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Prefabs/Eagles/Eagle_Elite.prefab.meta
+    projectPath: Assets/EgyptMonsters/Prefabs/Eagles/Eagle_Elite.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Prefabs/Eagles/Eagle_Normal.prefab
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Prefabs/Eagles/Eagle_Normal.prefab
+    projectPath: Assets/EgyptMonsters/Prefabs/Eagles/Eagle_Normal.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Prefabs/Eagles/Eagle_Normal.prefab.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Prefabs/Eagles/Eagle_Normal.prefab.meta
+    projectPath: Assets/EgyptMonsters/Prefabs/Eagles/Eagle_Normal.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/README.txt
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/README.txt
+    projectPath: Assets/EgyptMonsters/README.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/README.txt.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/README.txt.meta
+    projectPath: Assets/EgyptMonsters/README.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Scripts.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Scripts.meta
+    projectPath: Assets/EgyptMonsters/Scripts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Scripts/DealDamageComponent.cs
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Scripts/DealDamageComponent.cs
+    projectPath: Assets/EgyptMonsters/Scripts/DealDamageComponent.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Scripts/DealDamageComponent.cs.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Scripts/DealDamageComponent.cs.meta
+    projectPath: Assets/EgyptMonsters/Scripts/DealDamageComponent.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Scripts/DemoController.cs
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Scripts/DemoController.cs
+    projectPath: Assets/EgyptMonsters/Scripts/DemoController.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Scripts/DemoController.cs.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Scripts/DemoController.cs.meta
+    projectPath: Assets/EgyptMonsters/Scripts/DemoController.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Scripts/DestroyMe.cs
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Scripts/DestroyMe.cs
+    projectPath: Assets/EgyptMonsters/Scripts/DestroyMe.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/EgyptMonsters/Scripts/DestroyMe.cs.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/EgyptMonsters/Scripts/DestroyMe.cs.meta
+    projectPath: Assets/EgyptMonsters/Scripts/DestroyMe.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets/MagicBall.cs
     fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/MagicBall.cs
     projectPath: Assets/MagicBall.cs
@@ -40,57 +556,28 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets/Source/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Explosions/Sparkler/GreenSparklerImpact.prefab
+  - path: Assets/Scripts/Behavior/EagleBehavior.cs
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/Scripts/Behavior/EagleBehavior.cs
+    projectPath: Assets/Scripts/Behavior/EagleBehavior.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/Behavior/EagleBehavior.cs.meta
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/Scripts/Behavior/EagleBehavior.cs.meta
+    projectPath: Assets/Scripts/Behavior/EagleBehavior.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/DiverControl.cs
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/Scripts/DiverControl.cs
+    projectPath: Assets/Scripts/DiverControl.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Source/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Missiles/Rockets/BlueRocketMissile.prefab
     fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/Source/Sci-Fi Arsenal/Sci-Fi
-      Effects/Prefabs/Combat/Explosions/Sparkler/GreenSparklerImpact.prefab
-    projectPath: Assets/Source/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Explosions/Sparkler/GreenSparklerImpact.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets/Source/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Explosions/Sparkler/PurpleSparklerImpact.prefab
-    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/Source/Sci-Fi Arsenal/Sci-Fi
-      Effects/Prefabs/Combat/Explosions/Sparkler/PurpleSparklerImpact.prefab
-    projectPath: Assets/Source/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Explosions/Sparkler/PurpleSparklerImpact.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets/Source/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Missiles/Sparkler/BlueSparklerMissile.prefab
-    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/Source/Sci-Fi Arsenal/Sci-Fi
-      Effects/Prefabs/Combat/Missiles/Sparkler/BlueSparklerMissile.prefab
-    projectPath: Assets/Source/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Missiles/Sparkler/BlueSparklerMissile.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets/Source/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Missiles/Sparkler/GreenSparklerMissile.prefab
-    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/Source/Sci-Fi Arsenal/Sci-Fi
-      Effects/Prefabs/Combat/Missiles/Sparkler/GreenSparklerMissile.prefab
-    projectPath: Assets/Source/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Missiles/Sparkler/GreenSparklerMissile.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets/Source/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Missiles/Sparkler/PurpleSparklerMissile.prefab
-    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/Source/Sci-Fi Arsenal/Sci-Fi
-      Effects/Prefabs/Combat/Missiles/Sparkler/PurpleSparklerMissile.prefab
-    projectPath: Assets/Source/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Missiles/Sparkler/PurpleSparklerMissile.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets/Source/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Missiles/Sparkler/RedSparklerMissile.prefab
-    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/Source/Sci-Fi Arsenal/Sci-Fi
-      Effects/Prefabs/Combat/Missiles/Sparkler/RedSparklerMissile.prefab
-    projectPath: Assets/Source/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Missiles/Sparkler/RedSparklerMissile.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets/Source/Standard Assets/Environment/Water/Water/Materials/WaterProDaytime.mat
-    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Assets/Source/Standard Assets/Environment/Water/Water/Materials/WaterProDaytime.mat
-    projectPath: Assets/Source/Standard Assets/Environment/Water/Water/Materials/WaterProDaytime.mat
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/APIUpdater/project-dependencies.graph
-    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/APIUpdater/project-dependencies.graph
-    projectPath: Library/APIUpdater/project-dependencies.graph
+      Effects/Prefabs/Combat/Missiles/Rockets/BlueRocketMissile.prefab
+    projectPath: Assets/Source/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Missiles/Rockets/BlueRocketMissile.prefab
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -100,9 +587,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/AssetImportState
-    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/AssetImportState
-    projectPath: Library/AssetImportState
+  - path: Library/CrashedAssetImports.txt
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/CrashedAssetImports.txt
+    projectPath: Library/CrashedAssetImports.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/CurrentLayout-default.dwlt
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/CurrentLayout-default.dwlt
+    projectPath: Library/CurrentLayout-default.dwlt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -116,11 +609,11 @@ MonoBehaviour:
     fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/EditorInstance.json
     projectPath: Library/EditorInstance.json
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/EditorUserBuildSettings.asset
-    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/EditorUserBuildSettings.asset
-    projectPath: Library/EditorUserBuildSettings.asset
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/expandedItems
+    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/expandedItems
+    projectPath: Library/expandedItems
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -166,12 +659,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/SceneVisibilityState.asset
-    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/SceneVisibilityState.asset
-    projectPath: Library/SceneVisibilityState.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library/ScriptAssemblies/Assembly-CSharp.dll
     fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/ScriptAssemblies/Assembly-CSharp.dll
     projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
@@ -196,12 +683,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/ScriptAssemblies/BuiltinAssemblies.stamp
-    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/ScriptAssemblies/BuiltinAssemblies.stamp
-    projectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll
     fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll
     projectPath: Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll
@@ -352,12 +833,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/ShaderCache.db
-    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/ShaderCache.db
-    projectPath: Library/ShaderCache.db
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library/shadercompiler-UnityShaderCompiler0.log
     fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/shadercompiler-UnityShaderCompiler0.log
     projectPath: Library/shadercompiler-UnityShaderCompiler0.log
@@ -370,18 +845,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/shadercompiler-UnityShaderCompiler10.log
-    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/shadercompiler-UnityShaderCompiler10.log
-    projectPath: Library/shadercompiler-UnityShaderCompiler10.log
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/shadercompiler-UnityShaderCompiler11.log
-    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/shadercompiler-UnityShaderCompiler11.log
-    projectPath: Library/shadercompiler-UnityShaderCompiler11.log
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library/shadercompiler-UnityShaderCompiler2.log
     fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/shadercompiler-UnityShaderCompiler2.log
     projectPath: Library/shadercompiler-UnityShaderCompiler2.log
@@ -422,14 +885,14 @@ MonoBehaviour:
     fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/shadercompiler-UnityShaderCompiler8.log
     projectPath: Library/shadercompiler-UnityShaderCompiler8.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/shadercompiler-UnityShaderCompiler9.log
     fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/shadercompiler-UnityShaderCompiler9.log
     projectPath: Library/shadercompiler-UnityShaderCompiler9.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/StateCache/Hierarchy/10bd1b-mainStage.json
     fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/StateCache/Hierarchy/10bd1b-mainStage.json
     projectPath: Library/StateCache/Hierarchy/10bd1b-mainStage.json
@@ -439,12 +902,6 @@ MonoBehaviour:
   - path: Library/StateCache/SceneView/b6d77a-mainStage.json
     fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/Library/StateCache/SceneView/b6d77a-mainStage.json
     projectPath: Library/StateCache/SceneView/b6d77a-mainStage.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings/ProjectVersion.txt
-    fullPath: /Users/jiej/Desktop/CS538/Rush-Diving-src/ProjectSettings/ProjectVersion.txt
-    projectPath: ProjectSettings/ProjectVersion.txt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

@@ -14,6 +14,8 @@ public class CreateBall : MonoBehaviour
 
     public int time;
 
+    //private ;
+
     void Start()
     {
         time = 0;
@@ -25,16 +27,21 @@ public class CreateBall : MonoBehaviour
 
         time++;
 
+        GameObject go;
 
         Timer += Time.deltaTime;
         if (Timer >=0.1f && time % 10 == 0)
         {
             Timer = 0;
-            CreateABall();
+            go = CreateABall();
         }
+
+
+
+
     }
 
-    private void CreateABall()
+    private GameObject CreateABall()
     {
 
         Debug.Log("PRINTING TARGET.POSITION "  + Target.position);
@@ -44,6 +51,10 @@ public class CreateBall : MonoBehaviour
         go.transform.position = Target.position;
 
         go.SetActive(true);
+
+        return go;
+
+
     }
 
    

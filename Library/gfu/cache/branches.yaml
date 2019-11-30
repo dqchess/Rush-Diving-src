@@ -13,13 +13,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-11-27T17:22:06.749-08:00
-  initializedAtString: 2019-11-27T17:22:06.738-08:00
+  lastUpdatedAtString: 2019-11-27T20:40:21.067-08:00
+  initializedAtString: 2019-11-27T20:40:20.793-08:00
   localBranches:
   - name: master
     tracking: origin/master
   remoteBranches:
   - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/master
     tracking: '[None]'
   remotes:
   - name: origin
@@ -44,9 +46,15 @@ MonoBehaviour:
     subKeys:
     - Values:
       - HEAD
+      - master
     subKeyValues:
     - Values:
       - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/shenyi1028/Rush-Diving-src.git
+        trackingBranch: 
+      - name: master
         remote:
           name: origin
           url: https://github.com/shenyi1028/Rush-Diving-src.git
