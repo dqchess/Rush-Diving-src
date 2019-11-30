@@ -63,6 +63,7 @@ public class Menu : MonoBehaviour
         Time.timeScale = 1f;
         GameIsPaused = false;
         laserPointer.SetActive(false);
+        AudioListener.volume = 1;
     }
 
     public void Resume()
@@ -85,12 +86,14 @@ public class Menu : MonoBehaviour
     {
         failMenuUI.SetActive(true);
         laserPointer.SetActive(true);
-        Time.timeScale = 0.1f;
+        Time.timeScale = 0f;
         GameIsPaused = true;
+        AudioListener.volume = 0;
     }
 
     public void TryAgain()
     {
+        AudioListener.volume = 1;
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
@@ -103,7 +106,7 @@ public class Menu : MonoBehaviour
     {
         successMenuUI.SetActive(true);
         laserPointer.SetActive(true);
-        Time.timeScale = 0.1f;
+        Time.timeScale = 0f;
         GameIsPaused = true;
     }
 }
